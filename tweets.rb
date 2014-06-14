@@ -43,9 +43,11 @@ response = http.request(req)
 parsed_response = JSON.parse(response.body)
 bearer_token = parsed_response["access_token"]
 
-query = "ruby"
+query = "ruby%20or%20rails"
 
-api_url = "https://api.twitter.com/1.1/search/tweets.json?q=#{query}"
+count = 0
+
+api_url = "https://api.twitter.com/1.1/search/tweets.json?q=#{query}&count=100$since_id=#{count}"
 
 get_url = URI.parse(api_url)
 
@@ -54,9 +56,29 @@ get_http.use_ssl = true
 
 get_request = Net::HTTP::Get.new(get_url)
 get_request.add_field('Authorization', "Bearer #{bearer_token}")
-get_response = http.request(get_request)
 
-parsed_get_response = JSON.parse(get_response.body)
+tweets = []
+coordinates = []
+ids = []
 
-binding.pry
+until tweets.count >= 1000
+	ids = []
+	
+	get_response = http.request(get_request)
+	parsed_get_response = JSON.parse(get_response.body)
+	tweets += parsed_get_response["statuses"]
+	
+	tweets.each {|tweet| ids << tweet["id"]}
+	count = ids.max
+end
 
+tweets.each do |tweet|
+    coordinates << tweet["coordinates"] if tweet["coordinates"] != nil
+    coordinates << tweet["retweeted_status"]["coordinates"] if tweet["retweeted"] != false 
+end
+
+puts tweets.count
+
+puts coordinates.count
+
+#binding.pry
