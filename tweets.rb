@@ -40,42 +40,23 @@ req.add_field("Content-Type", content_type)
 req.body = grant_type
 response = http.request(req)
 
+parsed_response = JSON.parse(response.body)
+bearer_token = parsed_response["access_token"]
+
+query = "ruby"
+
+api_url = "https://api.twitter.com/1.1/search/tweets.json?q=#{query}"
+
+get_url = URI.parse(api_url)
+
+get_http = Net::HTTP.new(get_url.host, get_url.port)
+get_http.use_ssl = true
+
+get_request = Net::HTTP::Get.new(get_url)
+get_request.add_field('Authorization', "Bearer #{bearer_token}")
+get_response = http.request(get_request)
+
+parsed_get_response = JSON.parse(get_response.body)
 
 binding.pry
-
-
-
-# requ = RestClient::Resource.new("https://api.twitter.com/oauth2/token")
-# response = ''
-
-# options = {}
-# options['Authorization'] = "Basic #{authorization}"
-# options['Content-Type'] = 'application/x-www-form-urlencoded;charset=UTF-8'
-
-# requ.post('grant_type=client_credentials', options) do |response, request, result|
-#     response << "#{CGI::escapeHTML(response.inspect)} >"
-#     binding.pry
-#     response << "#{CGI::escapeHTML(request.inspect)}<br /><br />"
-#     binding.pry
-#     response << "#{CGI::escapeHTML(result.inspect)}<br />"
-#     binding.pry
-# end
-
-
-
-# query = "rubyjobORrailsjobORwebdevjob"
-
-# base_url = "https://api.twitter.com/1.1/search/tweets.json?q=#{query}"
-
-# url = URI("#{base_url}#{query}")
-# binding.pry
-# json_response = Net::HTTP.get(url)
-# binding.pry
-# parsed_response = JSON.parse(json_response)
-# binding.pry
-# tweets = parsed_response["statuses"]
-# binding.pry
-
-#https://api.twitter.com/1.1/search/tweets.json?q=%40twitterapi
-#https://twitter.com/search?f=realtime&q=https%3A%2F%2Fapi.twitter.com%2F1.1%2Fsearch%2Ftweets.json%3Fq%3Drubyjobs&src=typd
 
