@@ -40,17 +40,17 @@ def get_counties
     county = county.join(' ').to_s
 
     counties.push(county)
-    binding.pry
+
   end
 
   counties
-  binding.pry
+
 
 end
 
 get '/' do
 
-  @counties = get_counties
+  # @counties = get_counties
 
   @test = 'testing!'
 

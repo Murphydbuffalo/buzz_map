@@ -26,8 +26,8 @@ content_type = 'application/x-www-form-urlencoded;charset=UTF-8'
 grant_type = 'grant_type=client_credentials'
 
 header = {
-	'authorization' => authorization,
-	'content_type' => content_type,
+  'authorization' => authorization,
+  'content_type' => content_type,
   'grant_type' => grant_type
   }
 
@@ -62,19 +62,19 @@ coordinates = []
 ids = []
 
 until tweets.count >= 1000
-	ids = []
-	
-	get_response = http.request(get_request)
-	parsed_get_response = JSON.parse(get_response.body)
-	tweets += parsed_get_response["statuses"]
-	
-	tweets.each {|tweet| ids << tweet["id"]}
-	count = ids.max
+  ids = []
+
+  get_response = http.request(get_request)
+  parsed_get_response = JSON.parse(get_response.body)
+  tweets += parsed_get_response["statuses"]
+
+  tweets.each {|tweet| ids << tweet["id"]}
+  count = ids.max
 end
 
 tweets.each do |tweet|
     coordinates << tweet["coordinates"] if tweet["coordinates"] != nil
-    coordinates << tweet["retweeted_status"]["coordinates"] if tweet["retweeted"] != false 
+    coordinates << tweet["retweeted_status"]["coordinates"] if tweet["retweeted"] != false
 end
 
 puts tweets.count
