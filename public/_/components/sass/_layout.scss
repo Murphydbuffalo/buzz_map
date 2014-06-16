@@ -1,0 +1,49 @@
+// Susy Setup ----------------------------------
+
+$total-columns  : 12;
+$column-width   : 4em;
+$gutter-width   : 1em;
+$grid-padding   : $gutter-width;
+
+@include border-box-sizing;
+
+$small  : 30em;
+$medium : 47em;
+$large  : 75em;
+
+.container {
+  @include container;
+  padding: 0 2%;
+}
+
+// Header  ----------------------------------
+header {
+  background: lighten($darkblue, 5%);
+  height: 100px;
+
+  h1 {
+    @include span-columns(6,12);
+    color: $offwhite;
+    font-size: 1.8em;
+  }
+
+  form {
+    @include span-columns(6 omega,12);
+    input, button {
+      background: $blue;
+      border: none;
+      outline: none;
+      color: #fff;
+      font-size: 1.5em;
+      padding: .2em;
+    }
+  }
+}
+
+// Map  ----------------------------------
+.map {
+
+  svg {
+    max-height: 100%;
+  }
+}

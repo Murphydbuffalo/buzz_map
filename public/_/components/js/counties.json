@@ -1,0 +1,9421 @@
+[{
+    county: "North Slope, AK",
+    value: 10
+}, {
+    county: "Northwest Arctic, AK",
+    value: 10
+}, {
+    county: "Ketchikan Gateway, AK",
+    value: 10
+}, {
+    county: "Prince of Wales-Outer Ketchikan, AK",
+    value: 10
+}, {
+    county: "Wrangell-Petersburg, AK",
+    value: 10
+}, {
+    county: "Sitka, AK",
+    value: 10
+}, {
+    county: "Haines, AK",
+    value: 10
+}, {
+    county: "Juneau, AK",
+    value: 10
+}, {
+    county: "Skagway-Hoonah-Angoon, AK",
+    value: 10
+}, {
+    county: "Yakutat, AK",
+    value: 10
+}, {
+    county: "Aleutians West, AK",
+    value: 10
+}, {
+    county: "Aleutians East, AK",
+    value: 10
+}, {
+    county: "Kodiak Island, AK",
+    value: 10
+}, {
+    county: "Bristol Bay, AK",
+    value: 10
+}, {
+    county: "Dillingham, AK",
+    value: 10
+}, {
+    county: "Lake and Peninsula, AK",
+    value: 10
+}, {
+    county: "Kenai Peninsula, AK",
+    value: 10
+}, {
+    county: "Anchorage, AK",
+    value: 10
+}, {
+    county: "Valdez-Cordova, AK",
+    value: 10
+}, {
+    county: "Matanuska-Susitna, AK",
+    value: 10
+}, {
+    county: "SE Fairbanks, AK",
+    value: 10
+}, {
+    county: "Fairbanks North Stark, AK",
+    value: 10
+}, {
+    county: "Denali, AK",
+    value: 10
+}, {
+    county: "Bethel, AK",
+    value: 10
+}, {
+    county: "Wade Hampton, AK",
+    value: 10
+}, {
+    county: "Nome, AK",
+    value: 10
+}, {
+    county: "Yukon-Koyukuk, AL",
+    value: 10
+}, {
+    county: "Houston, AL",
+    value: 10
+}, {
+    county: "Henry, AL",
+    value: 10
+}, {
+    county: "Geneva, AL",
+    value: 10
+}, {
+    county: "Dale, AL",
+    value: 10
+}, {
+    county: "Coffee, AL",
+    value: 10
+}, {
+    county: "Covington, AL",
+    value: 10
+}, {
+    county: "Mobile, AL",
+    value: 10
+}, {
+    county: "Baldwin, AL",
+    value: 10
+}, {
+    county: "Escambia, AL",
+    value: 10
+}, {
+    county: "Conecuh, AL",
+    value: 10
+}, {
+    county: "Washington, AL",
+    value: 10
+}, {
+    county: "Choctaw, AL",
+    value: 10
+}, {
+    county: "Clarke, AL",
+    value: 10
+}, {
+    county: "Monroe, AL",
+    value: 10
+}, {
+    county: "Wilcox, AL",
+    value: 10
+}, {
+    county: "Butler, AL",
+    value: 10
+}, {
+    county: "Crenshaw, AL",
+    value: 10
+}, {
+    county: "Pike, AL",
+    value: 10
+}, {
+    county: "Bullock, AL",
+    value: 10
+}, {
+    county: "Macon, AL",
+    value: 10
+}, {
+    county: "Lowndes, AL",
+    value: 10
+}, {
+    county: "Montgomery, AL",
+    value: 10
+}, {
+    county: "Elmore, AL",
+    value: 10
+}, {
+    county: "Autauga, AL",
+    value: 10
+}, {
+    county: "Dallas, AL",
+    value: 10
+}, {
+    county: "Marengo, AL",
+    value: 10
+}, {
+    county: "Sumter, AL",
+    value: 10
+}, {
+    county: "Perry, AL",
+    value: 10
+}, {
+    county: "Chilton, AL",
+    value: 10
+}, {
+    county: "Coosa, AL",
+    value: 10
+}, {
+    county: "Tallapoosa, AL",
+    value: 10
+}, {
+    county: "Clay, AL",
+    value: 10
+}, {
+    county: "Talladega, AL",
+    value: 10
+}, {
+    county: "Shelby, AL",
+    value: 10
+}, {
+    county: "Bibb, AL",
+    value: 10
+}, {
+    county: "Hale, AL",
+    value: 10
+}, {
+    county: "Greene, AL",
+    value: 10
+}, {
+    county: "Pickens, AL",
+    value: 10
+}, {
+    county: "Tuscaloosa, AL",
+    value: 10
+}, {
+    county: "Jefferson, AL",
+    value: 10
+}, {
+    county: "Walker, AL",
+    value: 10
+}, {
+    county: "Lamar, AL",
+    value: 10
+}, {
+    county: "Fayette, AL",
+    value: 10
+}, {
+    county: "Franklin, AL",
+    value: 10
+}, {
+    county: "Marion, AL",
+    value: 10
+}, {
+    county: "Winston, AL",
+    value: 10
+}, {
+    county: "Cullman, AL",
+    value: 10
+}, {
+    county: "Blount, AL",
+    value: 10
+}, {
+    county: "St. Clair, AL",
+    value: 10
+}, {
+    county: "Calhoun, AL",
+    value: 10
+}, {
+    county: "Etowah, AL",
+    value: 10
+}, {
+    county: "Marshall, AL",
+    value: 10
+}, {
+    county: "Morgan, AL",
+    value: 10
+}, {
+    county: "Lawrence, AL",
+    value: 10
+}, {
+    county: "Colbert, AL",
+    value: 10
+}, {
+    county: "Lauderdale, AL",
+    value: 10
+}, {
+    county: "Limestone, AL",
+    value: 10
+}, {
+    county: "Madison, AL",
+    value: 10
+}, {
+    county: "Jackson, AL",
+    value: 10
+}, {
+    county: "DeKalb, AL",
+    value: 10
+}, {
+    county: "Cherokee, AL",
+    value: 10
+}, {
+    county: "Cleburne, AL",
+    value: 10
+}, {
+    county: "Randolph, AL",
+    value: 10
+}, {
+    county: "Chambers, AL",
+    value: 10
+}, {
+    county: "Lee, AL",
+    value: 10
+}, {
+    county: "Russell, AL",
+    value: 10
+}, {
+    county: "Barbour, AL",
+    value: 10
+}, {
+    county: "Chicot, AR",
+    value: 10
+}, {
+    county: "Ashley, AR",
+    value: 10
+}, {
+    county: "Pope, AR",
+    value: 10
+}, {
+    county: "Newton, AR",
+    value: 10
+}, {
+    county: "Madison, AR",
+    value: 10
+}, {
+    county: "Franklin, AR",
+    value: 10
+}, {
+    county: "Johnson, AR",
+    value: 10
+}, {
+    county: "Logan, AR",
+    value: 10
+}, {
+    county: "Yell, AR",
+    value: 10
+}, {
+    county: "Perry, AR",
+    value: 10
+}, {
+    county: "Conway, AR",
+    value: 10
+}, {
+    county: "Faulkner, AR",
+    value: 10
+}, {
+    county: "Van Buren, AR",
+    value: 10
+}, {
+    county: "Searcy, AR",
+    value: 10
+}, {
+    county: "Stone, AR",
+    value: 10
+}, {
+    county: "Cleburne, AR",
+    value: 10
+}, {
+    county: "White, AR",
+    value: 10
+}, {
+    county: "Independence, AR",
+    value: 10
+}, {
+    county: "Jackson, AR",
+    value: 10
+}, {
+    county: "Woodruff, AR",
+    value: 10
+}, {
+    county: "St. Francis, AR",
+    value: 10
+}, {
+    county: "Crittenden, AR",
+    value: 10
+}, {
+    county: "Cross, AR",
+    value: 10
+}, {
+    county: "Poinsett, AR",
+    value: 10
+}, {
+    county: "Mississippi, AR",
+    value: 10
+}, {
+    county: "Craighead, AR",
+    value: 10
+}, {
+    county: "Izard, AR",
+    value: 10
+}, {
+    county: "Lawrence, AR",
+    value: 10
+}, {
+    county: "Sharp, AR",
+    value: 10
+}, {
+    county: "Greene, AR",
+    value: 10
+}, {
+    county: "Clay, AR",
+    value: 10
+}, {
+    county: "Randolph, AR",
+    value: 10
+}, {
+    county: "Fulton, AR",
+    value: 10
+}, {
+    county: "Baxter, AR",
+    value: 10
+}, {
+    county: "Marion, AR",
+    value: 10
+}, {
+    county: "Boone, AR",
+    value: 10
+}, {
+    county: "Carroll, AR",
+    value: 10
+}, {
+    county: "Benton, AR",
+    value: 10
+}, {
+    county: "Washington, AR",
+    value: 10
+}, {
+    county: "Crawford, AR",
+    value: 10
+}, {
+    county: "Sebastian, AR",
+    value: 10
+}, {
+    county: "Scott, AR",
+    value: 10
+}, {
+    county: "Montgomery, AR",
+    value: 10
+}, {
+    county: "Garland, AR",
+    value: 10
+}, {
+    county: "Saline, AR",
+    value: 10
+}, {
+    county: "Pulaski, AR",
+    value: 10
+}, {
+    county: "Lonoke, AR",
+    value: 10
+}, {
+    county: "Prairie, AR",
+    value: 10
+}, {
+    county: "Monroe, AR",
+    value: 10
+}, {
+    county: "Lee, AR",
+    value: 10
+}, {
+    county: "Phillips, AR",
+    value: 10
+}, {
+    county: "Jefferson, AR",
+    value: 10
+}, {
+    county: "Grant, AR",
+    value: 10
+}, {
+    county: "Hot Spring, AR",
+    value: 10
+}, {
+    county: "Dallas, AR",
+    value: 10
+}, {
+    county: "Cleveland, AR",
+    value: 10
+}, {
+    county: "Lincoln, AR",
+    value: 10
+}, {
+    county: "Arkansas, AR",
+    value: 10
+}, {
+    county: "Desha, AR",
+    value: 10
+}, {
+    county: "Drew, AR",
+    value: 10
+}, {
+    county: "Bradley, AR",
+    value: 10
+}, {
+    county: "Calhoun, AR",
+    value: 10
+}, {
+    county: "Ouachita, AR",
+    value: 10
+}, {
+    county: "Nevada, AR",
+    value: 10
+}, {
+    county: "Hempstead, AR",
+    value: 10
+}, {
+    county: "Clark, AR",
+    value: 10
+}, {
+    county: "Pike, AR",
+    value: 10
+}, {
+    county: "Howard, AR",
+    value: 10
+}, {
+    county: "Polk, AR",
+    value: 10
+}, {
+    county: "Sevier, AR",
+    value: 10
+}, {
+    county: "Little River, AR",
+    value: 10
+}, {
+    county: "Miller, AR",
+    value: 10
+}, {
+    county: "Lafayette, AR",
+    value: 10
+}, {
+    county: "Columbia, AR",
+    value: 10
+}, {
+    county: "Union, AR",
+    value: 10
+}, {
+    county: "Mohave, AZ",
+    value: 10
+}, {
+    county: "La Paz, AZ",
+    value: 10
+}, {
+    county: "Cochise, AZ",
+    value: 10
+}, {
+    county: "Santa Cruz, AZ",
+    value: 10
+}, {
+    county: "Pima, AZ",
+    value: 10
+}, {
+    county: "Greenlee, AZ",
+    value: 10
+}, {
+    county: "Graham, AZ",
+    value: 10
+}, {
+    county: "Apache, AZ",
+    value: 10
+}, {
+    county: "Navajo, AZ",
+    value: 10
+}, {
+    county: "Gila, AZ",
+    value: 10
+}, {
+    county: "Pinal, AZ",
+    value: 10
+}, {
+    county: "Yuma, AZ",
+    value: 10
+}, {
+    county: "Maricopa, AZ",
+    value: 10
+}, {
+    county: "Coconino, AZ",
+    value: 10
+}, {
+    county: "Yavapai, AZ",
+    value: 10
+}, {
+    county: "Del Norte, CA",
+    value: 10
+}, {
+    county: "Siskiyou, CA",
+    value: 10
+}, {
+    county: "Imperial, CA",
+    value: 10
+}, {
+    county: "Riverside, CA",
+    value: 10
+}, {
+    county: "San Diego, CA",
+    value: 10
+}, {
+    county: "Orange, CA",
+    value: 10
+}, {
+    county: "Los Angeles, CA",
+    value: 10
+}, {
+    county: "Ventura, CA",
+    value: 10
+}, {
+    county: "Santa Barbara, CA",
+    value: 10
+}, {
+    county: "San Luis Obispo, CA",
+    value: 10
+}, {
+    county: "Kern, CA",
+    value: 10
+}, {
+    county: "San Bernardino, CA",
+    value: 10
+}, {
+    county: "Inyo, CA",
+    value: 10
+}, {
+    county: "Tulare, CA",
+    value: 10
+}, {
+    county: "Kings, CA",
+    value: 10
+}, {
+    county: "Madera, CA",
+    value: 10
+}, {
+    county: "Fresno, CA",
+    value: 10
+}, {
+    county: "Monterey, CA",
+    value: 10
+}, {
+    county: "San Benito, CA",
+    value: 10
+}, {
+    county: "Merced, CA",
+    value: 10
+}, {
+    county: "Santa Cruz, CA",
+    value: 10
+}, {
+    county: "San Mateo, CA",
+    value: 10
+}, {
+    county: "Alameda, CA",
+    value: 10
+}, {
+    county: "Santa Clara, CA",
+    value: 10
+}, {
+    county: "Stanislaus, CA",
+    value: 10
+}, {
+    county: "Mariposa, CA",
+    value: 10
+}, {
+    county: "Tuolumne, CA",
+    value: 10
+}, {
+    county: "Mono, CA",
+    value: 10
+}, {
+    county: "Alpine, CA",
+    value: 10
+}, {
+    county: "Calaveras, CA",
+    value: 10
+}, {
+    county: "Amador, CA",
+    value: 10
+}, {
+    county: "San Joaquin, CA",
+    value: 10
+}, {
+    county: "Contra Costa, CA",
+    value: 10
+}, {
+    county: "El Dorado, CA",
+    value: 10
+}, {
+    county: "Sacramento, CA",
+    value: 10
+}, {
+    county: "Solano, CA",
+    value: 10
+}, {
+    county: "San Franciso, CA",
+    value: 10
+}, {
+    county: "Marin, CA",
+    value: 10
+}, {
+    county: "Napa, CA",
+    value: 10
+}, {
+    county: "Sonoma, CA",
+    value: 10
+}, {
+    county: "Yolo, CA",
+    value: 10
+}, {
+    county: "Placer, CA",
+    value: 10
+}, {
+    county: "Nevada, CA",
+    value: 10
+}, {
+    county: "Sierra, CA",
+    value: 10
+}, {
+    county: "Yuba, CA",
+    value: 10
+}, {
+    county: "Sutter, CA",
+    value: 10
+}, {
+    county: "Colusa, CA",
+    value: 10
+}, {
+    county: "Lake, CA",
+    value: 10
+}, {
+    county: "Butte, CA",
+    value: 10
+}, {
+    county: "Glenn, CA",
+    value: 10
+}, {
+    county: "Plumas, CA",
+    value: 10
+}, {
+    county: "Tehama, CA",
+    value: 10
+}, {
+    county: "Mendocino, CA",
+    value: 10
+}, {
+    county: "Humboldt, CA",
+    value: 10
+}, {
+    county: "Trinity, CA",
+    value: 10
+}, {
+    county: "Shasta, CA",
+    value: 10
+}, {
+    county: "Lassen, CA",
+    value: 10
+}, {
+    county: "Modoc, CA",
+    value: 10
+}, {
+    county: "Montezuma, CO",
+    value: 10
+}, {
+    county: "La Plata, CO",
+    value: 10
+}, {
+    county: "Prowers, CO",
+    value: 10
+}, {
+    county: "Bent, CO",
+    value: 10
+}, {
+    county: "Kiowa, CO",
+    value: 10
+}, {
+    county: "Cheyenne, CO",
+    value: 10
+}, {
+    county: "Kit Carson, CO",
+    value: 10
+}, {
+    county: "Yuma, CO",
+    value: 10
+}, {
+    county: "Washington, CO",
+    value: 10
+}, {
+    county: "Phillips, CO",
+    value: 10
+}, {
+    county: "Sedgwick, CO",
+    value: 10
+}, {
+    county: "Logan, CO",
+    value: 10
+}, {
+    county: "Morgan, CO",
+    value: 10
+}, {
+    county: "Baca, CO",
+    value: 10
+}, {
+    county: "Otero, CO",
+    value: 10
+}, {
+    county: "Crowley, CO",
+    value: 10
+}, {
+    county: "Lincoln, CO",
+    value: 10
+}, {
+    county: "Elbert, CO",
+    value: 10
+}, {
+    county: "Arapahoe, CO",
+    value: 10
+}, {
+    county: "Weld, CO",
+    value: 10
+}, {
+    county: "Adams, CO",
+    value: 10
+}, {
+    county: "Denver, CO",
+    value: 10
+}, {
+    county: "Douglas, CO",
+    value: 10
+}, {
+    county: "El Paso, CO",
+    value: 10
+}, {
+    county: "Teller, CO",
+    value: 10
+}, {
+    county: "Pueblo, CO",
+    value: 10
+}, {
+    county: "Las Animas, CO",
+    value: 10
+}, {
+    county: "Huerfano, CO",
+    value: 10
+}, {
+    county: "Costilla, CO",
+    value: 10
+}, {
+    county: "Conejos, CO",
+    value: 10
+}, {
+    county: "Alamosa, CO",
+    value: 10
+}, {
+    county: "Rio Grande, CO",
+    value: 10
+}, {
+    county: "Custer, CO",
+    value: 10
+}, {
+    county: "Fremont, CO",
+    value: 10
+}, {
+    county: "Saguache, CO",
+    value: 10
+}, {
+    county: "Chaffee, CO",
+    value: 10
+}, {
+    county: "Gunnison, CO",
+    value: 10
+}, {
+    county: "Pitkin, CO",
+    value: 10
+}, {
+    county: "Lake, CO",
+    value: 10
+}, {
+    county: "Park, CO",
+    value: 10
+}, {
+    county: "Jefferson, CO",
+    value: 10
+}, {
+    county: "Gilpin, CO",
+    value: 10
+}, {
+    county: "Clear Creek, CO",
+    value: 10
+}, {
+    county: "Summit, CO",
+    value: 10
+}, {
+    county: "Eagle, CO",
+    value: 10
+}, {
+    county: "Boulder, CO",
+    value: 10
+}, {
+    county: "Grand, CO",
+    value: 10
+}, {
+    county: "Larimer, CO",
+    value: 10
+}, {
+    county: "Jackson, CO",
+    value: 10
+}, {
+    county: "Routt, CO",
+    value: 10
+}, {
+    county: "Moffat, CO",
+    value: 10
+}, {
+    county: "Rio Blanco, CO",
+    value: 10
+}, {
+    county: "Garfield, CO",
+    value: 10
+}, {
+    county: "Delta, CO",
+    value: 10
+}, {
+    county: "Mesa, CO",
+    value: 10
+}, {
+    county: "Montrose, CO",
+    value: 10
+}, {
+    county: "San Juan, CO",
+    value: 10
+}, {
+    county: "Dolores, CO",
+    value: 10
+}, {
+    county: "San Miguel, CO",
+    value: 10
+}, {
+    county: "Ouray, CO",
+    value: 10
+}, {
+    county: "Hinsdale, CO",
+    value: 10
+}, {
+    county: "Mineral, CO",
+    value: 10
+}, {
+    county: "Archuleta, CO",
+    value: 10
+}, {
+    county: "Broomfield, CO",
+    value: 10
+}, {
+    county: "Hartford, CT",
+    value: 10
+}, {
+    county: "Litchfield, CT",
+    value: 10
+}, {
+    county: "Fairfield, CT",
+    value: 10
+}, {
+    county: "New Haven, CT",
+    value: 10
+}, {
+    county: "Middlesex, CT",
+    value: 10
+}, {
+    county: "New London, CT",
+    value: 10
+}, {
+    county: "Tolland, CT",
+    value: 10
+}, {
+    county: "Windham, CT",
+    value: 10
+}, {
+    county: "New Castle, DE",
+    value: 10
+}, {
+    county: "Sussex, DE",
+    value: 10
+}, {
+    county: "Kent, DE",
+    value: 10
+}, {
+    county: "Bay, FL",
+    value: 10
+}, {
+    county: "Jackson, FL",
+    value: 10
+}, {
+    county: "Charlotte, FL",
+    value: 10
+}, {
+    county: "Lee, FL",
+    value: 10
+}, {
+    county: "Hendry, FL",
+    value: 10
+}, {
+    county: "Collier, FL",
+    value: 10
+}, {
+    county: "Monroe, FL",
+    value: 10
+}, {
+    county: "Miami-Dade, FL",
+    value: 10
+}, {
+    county: "Broward, FL",
+    value: 10
+}, {
+    county: "Palm Beach, FL",
+    value: 10
+}, {
+    county: "Sarasota, FL",
+    value: 10
+}, {
+    county: "DeSoto, FL",
+    value: 10
+}, {
+    county: "Glades, FL",
+    value: 10
+}, {
+    county: "Martin, FL",
+    value: 10
+}, {
+    county: "St. Lucie, FL",
+    value: 10
+}, {
+    county: "Indian River, FL",
+    value: 10
+}, {
+    county: "Okeechobee, FL",
+    value: 10
+}, {
+    county: "Highlands, FL",
+    value: 10
+}, {
+    county: "Hardee, FL",
+    value: 10
+}, {
+    county: "Manatee, FL",
+    value: 10
+}, {
+    county: "Pinellas, FL",
+    value: 10
+}, {
+    county: "Hillsborough, FL",
+    value: 10
+}, {
+    county: "Hernando, FL",
+    value: 10
+}, {
+    county: "Pasco, FL",
+    value: 10
+}, {
+    county: "Osceola, FL",
+    value: 10
+}, {
+    county: "Polk, FL",
+    value: 10
+}, {
+    county: "Orange, FL",
+    value: 10
+}, {
+    county: "Seminole, FL",
+    value: 10
+}, {
+    county: "Lake, FL",
+    value: 10
+}, {
+    county: "Sumter, FL",
+    value: 10
+}, {
+    county: "Citrus, FL",
+    value: 10
+}, {
+    county: "Levy, FL",
+    value: 10
+}, {
+    county: "Marion, FL",
+    value: 10
+}, {
+    county: "Volusia, FL",
+    value: 10
+}, {
+    county: "Brevard, FL",
+    value: 10
+}, {
+    county: "Washington, FL",
+    value: 10
+}, {
+    county: "Holmes, FL",
+    value: 10
+}, {
+    county: "Walton, FL",
+    value: 10
+}, {
+    county: "Okaloosa, FL",
+    value: 10
+}, {
+    county: "Santa Rosa, FL",
+    value: 10
+}, {
+    county: "Escambia, FL",
+    value: 10
+}, {
+    county: "Calhoun, FL",
+    value: 10
+}, {
+    county: "Gulf, FL",
+    value: 10
+}, {
+    county: "Franklin, FL",
+    value: 10
+}, {
+    county: "Dixie, FL",
+    value: 10
+}, {
+    county: "Gilchrist, FL",
+    value: 10
+}, {
+    county: "Alachua, FL",
+    value: 10
+}, {
+    county: "Putnam, FL",
+    value: 10
+}, {
+    county: "Flagler, FL",
+    value: 10
+}, {
+    county: "St. Johns, FL",
+    value: 10
+}, {
+    county: "Clay, FL",
+    value: 10
+}, {
+    county: "Bradford, FL",
+    value: 10
+}, {
+    county: "Union, FL",
+    value: 10
+}, {
+    county: "Suwannee, FL",
+    value: 10
+}, {
+    county: "Lafayette, FL",
+    value: 10
+}, {
+    county: "Taylor, FL",
+    value: 10
+}, {
+    county: "Wakulla, FL",
+    value: 10
+}, {
+    county: "Liberty, FL",
+    value: 10
+}, {
+    county: "Gadsden, FL",
+    value: 10
+}, {
+    county: "Leon, FL",
+    value: 10
+}, {
+    county: "Jefferson, FL",
+    value: 10
+}, {
+    county: "Madison, FL",
+    value: 10
+}, {
+    county: "Hamilton, FL",
+    value: 10
+}, {
+    county: "Columbia, FL",
+    value: 10
+}, {
+    county: "Baker, FL",
+    value: 10
+}, {
+    county: "Duval, FL",
+    value: 10
+}, {
+    county: "Nassau, FL",
+    value: 10
+}, {
+    county: "Rabun, GA",
+    value: 10
+}, {
+    county: "Towns, GA",
+    value: 10
+}, {
+    county: "Mitchell, GA",
+    value: 10
+}, {
+    county: "Baker, GA",
+    value: 10
+}, {
+    county: "Miller, GA",
+    value: 10
+}, {
+    county: "Early, GA",
+    value: 10
+}, {
+    county: "Seminole, GA",
+    value: 10
+}, {
+    county: "Decatur, GA",
+    value: 10
+}, {
+    county: "Grady, GA",
+    value: 10
+}, {
+    county: "Thomas, GA",
+    value: 10
+}, {
+    county: "Brooks, GA",
+    value: 10
+}, {
+    county: "Colquitt, GA",
+    value: 10
+}, {
+    county: "Cook, GA",
+    value: 10
+}, {
+    county: "Lanier, GA",
+    value: 10
+}, {
+    county: "Lowndes, GA",
+    value: 10
+}, {
+    county: "Echols, GA",
+    value: 10
+}, {
+    county: "Clinch, GA",
+    value: 10
+}, {
+    county: "Atkinson, GA",
+    value: 10
+}, {
+    county: "Berrien, GA",
+    value: 10
+}, {
+    county: "Irwin, GA",
+    value: 10
+}, {
+    county: "Tift, GA",
+    value: 10
+}, {
+    county: "Worth, GA",
+    value: 10
+}, {
+    county: "Dougherty, GA",
+    value: 10
+}, {
+    county: "Calhoun, GA",
+    value: 10
+}, {
+    county: "Clay, GA",
+    value: 10
+}, {
+    county: "Quitman, GA",
+    value: 10
+}, {
+    county: "Randolph, GA",
+    value: 10
+}, {
+    county: "Terrell, GA",
+    value: 10
+}, {
+    county: "Lee, GA",
+    value: 10
+}, {
+    county: "Crisp, GA",
+    value: 10
+}, {
+    county: "Turner, GA",
+    value: 10
+}, {
+    county: "Ben Hill, GA",
+    value: 10
+}, {
+    county: "Coffee, GA",
+    value: 10
+}, {
+    county: "Bacon, GA",
+    value: 10
+}, {
+    county: "Wayne, GA",
+    value: 10
+}, {
+    county: "Pierce, GA",
+    value: 10
+}, {
+    county: "Brantley, GA",
+    value: 10
+}, {
+    county: "Ware, GA",
+    value: 10
+}, {
+    county: "Charlton, GA",
+    value: 10
+}, {
+    county: "Camden, GA",
+    value: 10
+}, {
+    county: "Glynn, GA",
+    value: 10
+}, {
+    county: "McIntosh, GA",
+    value: 10
+}, {
+    county: "Heard, GA",
+    value: 10
+}, {
+    county: "Haralson, GA",
+    value: 10
+}, {
+    county: "Polk, GA",
+    value: 10
+}, {
+    county: "Floyd, GA",
+    value: 10
+}, {
+    county: "Chattooga, GA",
+    value: 10
+}, {
+    county: "Whitfield, GA",
+    value: 10
+}, {
+    county: "Catoosa, GA",
+    value: 10
+}, {
+    county: "Walker, GA",
+    value: 10
+}, {
+    county: "Dade, GA",
+    value: 10
+}, {
+    county: "Long, GA",
+    value: 10
+}, {
+    county: "Appling, GA",
+    value: 10
+}, {
+    county: "Jeff Davis, GA",
+    value: 10
+}, {
+    county: "Stewart, GA",
+    value: 10
+}, {
+    county: "Webster, GA",
+    value: 10
+}, {
+    county: "Sumter, GA",
+    value: 10
+}, {
+    county: "Wilcox, GA",
+    value: 10
+}, {
+    county: "Telfair, GA",
+    value: 10
+}, {
+    county: "Wheeler, GA",
+    value: 10
+}, {
+    county: "Dodge, GA",
+    value: 10
+}, {
+    county: "Pulaski, GA",
+    value: 10
+}, {
+    county: "Dooly, GA",
+    value: 10
+}, {
+    county: "Macon, GA",
+    value: 10
+}, {
+    county: "Schley, GA",
+    value: 10
+}, {
+    county: "Marion, GA",
+    value: 10
+}, {
+    county: "Chattahoochee, GA",
+    value: 10
+}, {
+    county: "Muscogee, GA",
+    value: 10
+}, {
+    county: "Taylor, GA",
+    value: 10
+}, {
+    county: "Talbot, GA",
+    value: 10
+}, {
+    county: "Harris, GA",
+    value: 10
+}, {
+    county: "Troup, GA",
+    value: 10
+}, {
+    county: "Carroll, GA",
+    value: 10
+}, {
+    county: "Paulding, GA",
+    value: 10
+}, {
+    county: "Murray, GA",
+    value: 10
+}, {
+    county: "Gordon, GA",
+    value: 10
+}, {
+    county: "Bartow, GA",
+    value: 10
+}, {
+    county: "Cobb, GA",
+    value: 10
+}, {
+    county: "Douglas, GA",
+    value: 10
+}, {
+    county: "Coweta, GA",
+    value: 10
+}, {
+    county: "Meriwether, GA",
+    value: 10
+}, {
+    county: "Pike, GA",
+    value: 10
+}, {
+    county: "Upson, GA",
+    value: 10
+}, {
+    county: "Crawford, GA",
+    value: 10
+}, {
+    county: "Peach, GA",
+    value: 10
+}, {
+    county: "Houston, GA",
+    value: 10
+}, {
+    county: "Bleckley, GA",
+    value: 10
+}, {
+    county: "Laurens, GA",
+    value: 10
+}, {
+    county: "Wilkinson, GA",
+    value: 10
+}, {
+    county: "Twiggs, GA",
+    value: 10
+}, {
+    county: "Bibb, GA",
+    value: 10
+}, {
+    county: "Baldwin, GA",
+    value: 10
+}, {
+    county: "Jones, GA",
+    value: 10
+}, {
+    county: "Monroe, GA",
+    value: 10
+}, {
+    county: "Lamar, GA",
+    value: 10
+}, {
+    county: "Spalding, GA",
+    value: 10
+}, {
+    county: "Fayette, GA",
+    value: 10
+}, {
+    county: "Clayton, GA",
+    value: 10
+}, {
+    county: "Butts, GA",
+    value: 10
+}, {
+    county: "Henry, GA",
+    value: 10
+}, {
+    county: "DeKalb, GA",
+    value: 10
+}, {
+    county: "Fulton, GA",
+    value: 10
+}, {
+    county: "Cherokee, GA",
+    value: 10
+}, {
+    county: "Pickens, GA",
+    value: 10
+}, {
+    county: "Dawson, GA",
+    value: 10
+}, {
+    county: "Forsyth, GA",
+    value: 10
+}, {
+    county: "Gwinnett, GA",
+    value: 10
+}, {
+    county: "Rockdale, GA",
+    value: 10
+}, {
+    county: "Jasper, GA",
+    value: 10
+}, {
+    county: "Newton, GA",
+    value: 10
+}, {
+    county: "Walton, GA",
+    value: 10
+}, {
+    county: "Barrow, GA",
+    value: 10
+}, {
+    county: "Jackson, GA",
+    value: 10
+}, {
+    county: "Clarke, GA",
+    value: 10
+}, {
+    county: "Oconee, GA",
+    value: 10
+}, {
+    county: "Morgan, GA",
+    value: 10
+}, {
+    county: "Putnam, GA",
+    value: 10
+}, {
+    county: "Hancock, GA",
+    value: 10
+}, {
+    county: "Taliaferro, GA",
+    value: 10
+}, {
+    county: "Greene, GA",
+    value: 10
+}, {
+    county: "Oglethorpe, GA",
+    value: 10
+}, {
+    county: "Wilkes, GA",
+    value: 10
+}, {
+    county: "Warren, GA",
+    value: 10
+}, {
+    county: "McDuffie, GA",
+    value: 10
+}, {
+    county: "Glascock, GA",
+    value: 10
+}, {
+    county: "Jefferson, GA",
+    value: 10
+}, {
+    county: "Washington, GA",
+    value: 10
+}, {
+    county: "Johnson, GA",
+    value: 10
+}, {
+    county: "Treutlen, GA",
+    value: 10
+}, {
+    county: "Montgomery, GA",
+    value: 10
+}, {
+    county: "Toombs, GA",
+    value: 10
+}, {
+    county: "Liberty, GA",
+    value: 10
+}, {
+    county: "Evans, GA",
+    value: 10
+}, {
+    county: "Tattnall, GA",
+    value: 10
+}, {
+    county: "Candler, GA",
+    value: 10
+}, {
+    county: "Emanuel, GA",
+    value: 10
+}, {
+    county: "Chatham, GA",
+    value: 10
+}, {
+    county: "Bryan, GA",
+    value: 10
+}, {
+    county: "Bulloch, GA",
+    value: 10
+}, {
+    county: "Jenkins, GA",
+    value: 10
+}, {
+    county: "Effingham, GA",
+    value: 10
+}, {
+    county: "Screven, GA",
+    value: 10
+}, {
+    county: "Burke, GA",
+    value: 10
+}, {
+    county: "Augusta-Richmond, GA",
+    value: 10
+}, {
+    county: "Columbia, GA",
+    value: 10
+}, {
+    county: "Lincoln, GA",
+    value: 10
+}, {
+    county: "Elbert, GA",
+    value: 10
+}, {
+    county: "Madison, GA",
+    value: 10
+}, {
+    county: "Banks, GA",
+    value: 10
+}, {
+    county: "Hall, GA",
+    value: 10
+}, {
+    county: "Lumpkin, GA",
+    value: 10
+}, {
+    county: "Gilmer, GA",
+    value: 10
+}, {
+    county: "Fannin, GA",
+    value: 10
+}, {
+    county: "Union, GA",
+    value: 10
+}, {
+    county: "White, GA",
+    value: 10
+}, {
+    county: "Habersham, GA",
+    value: 10
+}, {
+    county: "Hart, GA",
+    value: 10
+}, {
+    county: "Franklin, GA",
+    value: 10
+}, {
+    county: "Stephens, GA",
+    value: 10
+}, {
+    county: "Kauai, HI",
+    value: 10
+}, {
+    county: "Honolulu, HI",
+    value: 10
+}, {
+    county: "Maui, HI",
+    value: 10
+}, {
+    county: "Hawaii, HI",
+    value: 10
+}, {
+    county: "Kalawao, HI",
+    value: 10
+}, {
+    county: "Scott, IA",
+    value: 10
+}, {
+    county: "Clinton, IA",
+    value: 10
+}, {
+    county: "Lyon, IA",
+    value: 10
+}, {
+    county: "Sioux, IA",
+    value: 10
+}, {
+    county: "Plymouth, IA",
+    value: 10
+}, {
+    county: "Cherokee, IA",
+    value: 10
+}, {
+    county: "O'Brien, IA",
+    value: 10
+}, {
+    county: "Osceola, IA",
+    value: 10
+}, {
+    county: "Dickinson, IA",
+    value: 10
+}, {
+    county: "Clay, IA",
+    value: 10
+}, {
+    county: "Buena Vista, IA",
+    value: 10
+}, {
+    county: "Pocahontas, IA",
+    value: 10
+}, {
+    county: "Palo Alto, IA",
+    value: 10
+}, {
+    county: "Emmet, IA",
+    value: 10
+}, {
+    county: "Kossuth, IA",
+    value: 10
+}, {
+    county: "Humboldt, IA",
+    value: 10
+}, {
+    county: "Woodbury, IA",
+    value: 10
+}, {
+    county: "Ida, IA",
+    value: 10
+}, {
+    county: "Sac, IA",
+    value: 10
+}, {
+    county: "Calhoun, IA",
+    value: 10
+}, {
+    county: "Webster, IA",
+    value: 10
+}, {
+    county: "Greene, IA",
+    value: 10
+}, {
+    county: "Carroll, IA",
+    value: 10
+}, {
+    county: "Crawford, IA",
+    value: 10
+}, {
+    county: "Monona, IA",
+    value: 10
+}, {
+    county: "Harrison, IA",
+    value: 10
+}, {
+    county: "Shelby, IA",
+    value: 10
+}, {
+    county: "Audubon, IA",
+    value: 10
+}, {
+    county: "Guthrie, IA",
+    value: 10
+}, {
+    county: "Adair, IA",
+    value: 10
+}, {
+    county: "Cass, IA",
+    value: 10
+}, {
+    county: "Pottawattamie, IA",
+    value: 10
+}, {
+    county: "Fremont, IA",
+    value: 10
+}, {
+    county: "Mills, IA",
+    value: 10
+}, {
+    county: "Montgomery, IA",
+    value: 10
+}, {
+    county: "Page, IA",
+    value: 10
+}, {
+    county: "Taylor, IA",
+    value: 10
+}, {
+    county: "Adams, IA",
+    value: 10
+}, {
+    county: "Union, IA",
+    value: 10
+}, {
+    county: "Ringgold, IA",
+    value: 10
+}, {
+    county: "Decatur, IA",
+    value: 10
+}, {
+    county: "Clarke, IA",
+    value: 10
+}, {
+    county: "Madison, IA",
+    value: 10
+}, {
+    county: "Dallas, IA",
+    value: 10
+}, {
+    county: "Boone, IA",
+    value: 10
+}, {
+    county: "Hamilton, IA",
+    value: 10
+}, {
+    county: "Wright, IA",
+    value: 10
+}, {
+    county: "Hancock, IA",
+    value: 10
+}, {
+    county: "Winnebago, IA",
+    value: 10
+}, {
+    county: "Worth, IA",
+    value: 10
+}, {
+    county: "Cerro Gordo, IA",
+    value: 10
+}, {
+    county: "Franklin, IA",
+    value: 10
+}, {
+    county: "Hardin, IA",
+    value: 10
+}, {
+    county: "Story, IA",
+    value: 10
+}, {
+    county: "Polk, IA",
+    value: 10
+}, {
+    county: "Warren, IA",
+    value: 10
+}, {
+    county: "Lucas, IA",
+    value: 10
+}, {
+    county: "Wayne, IA",
+    value: 10
+}, {
+    county: "Appanoose, IA",
+    value: 10
+}, {
+    county: "Monroe, IA",
+    value: 10
+}, {
+    county: "Marion, IA",
+    value: 10
+}, {
+    county: "Jasper, IA",
+    value: 10
+}, {
+    county: "Marshall, IA",
+    value: 10
+}, {
+    county: "Grundy, IA",
+    value: 10
+}, {
+    county: "Butler, IA",
+    value: 10
+}, {
+    county: "Floyd, IA",
+    value: 10
+}, {
+    county: "Mitchell, IA",
+    value: 10
+}, {
+    county: "Howard, IA",
+    value: 10
+}, {
+    county: "Chickasaw, IA",
+    value: 10
+}, {
+    county: "Bremer, IA",
+    value: 10
+}, {
+    county: "Black Hawk, IA",
+    value: 10
+}, {
+    county: "Tama, IA",
+    value: 10
+}, {
+    county: "Poweshiek, IA",
+    value: 10
+}, {
+    county: "Mahaska, IA",
+    value: 10
+}, {
+    county: "Wapello, IA",
+    value: 10
+}, {
+    county: "Davis, IA",
+    value: 10
+}, {
+    county: "Van Buren, IA",
+    value: 10
+}, {
+    county: "Jefferson, IA",
+    value: 10
+}, {
+    county: "Benton, IA",
+    value: 10
+}, {
+    county: "Iowa, IA",
+    value: 10
+}, {
+    county: "Keokuk, IA",
+    value: 10
+}, {
+    county: "Washington, IA",
+    value: 10
+}, {
+    county: "Henry, IA",
+    value: 10
+}, {
+    county: "Lee, IA",
+    value: 10
+}, {
+    county: "Des Moines, IA",
+    value: 10
+}, {
+    county: "Louisa, IA",
+    value: 10
+}, {
+    county: "Muscatine, IA",
+    value: 10
+}, {
+    county: "Johnson, IA",
+    value: 10
+}, {
+    county: "Linn, IA",
+    value: 10
+}, {
+    county: "Cedar, IA",
+    value: 10
+}, {
+    county: "Jones, IA",
+    value: 10
+}, {
+    county: "Buchanan, IA",
+    value: 10
+}, {
+    county: "Fayette, IA",
+    value: 10
+}, {
+    county: "Winneshiek, IA",
+    value: 10
+}, {
+    county: "Allamakee, IA",
+    value: 10
+}, {
+    county: "Clayton, IA",
+    value: 10
+}, {
+    county: "Delaware, IA",
+    value: 10
+}, {
+    county: "Dubuque, IA",
+    value: 10
+}, {
+    county: "Jackson, IA",
+    value: 10
+}, {
+    county: "Fremont, ID",
+    value: 10
+}, {
+    county: "Clark, ID",
+    value: 10
+}, {
+    county: "Benewah, ID",
+    value: 10
+}, {
+    county: "Kootenai, ID",
+    value: 10
+}, {
+    county: "Bonner, ID",
+    value: 10
+}, {
+    county: "Boundary, ID",
+    value: 10
+}, {
+    county: "Latah, ID",
+    value: 10
+}, {
+    county: "Nez Perce, ID",
+    value: 10
+}, {
+    county: "Lewis, ID",
+    value: 10
+}, {
+    county: "Adams, ID",
+    value: 10
+}, {
+    county: "Washington, ID",
+    value: 10
+}, {
+    county: "Payette, ID",
+    value: 10
+}, {
+    county: "Boise, ID",
+    value: 10
+}, {
+    county: "Gem, ID",
+    value: 10
+}, {
+    county: "Canyon, ID",
+    value: 10
+}, {
+    county: "Ada, ID",
+    value: 10
+}, {
+    county: "Elmore, ID",
+    value: 10
+}, {
+    county: "Owyhee, ID",
+    value: 10
+}, {
+    county: "Camas, ID",
+    value: 10
+}, {
+    county: "Gooding, ID",
+    value: 10
+}, {
+    county: "Jerome, ID",
+    value: 10
+}, {
+    county: "Twin Falls, ID",
+    value: 10
+}, {
+    county: "Cassia, ID",
+    value: 10
+}, {
+    county: "Oneida, ID",
+    value: 10
+}, {
+    county: "Power, ID",
+    value: 10
+}, {
+    county: "Bannock, ID",
+    value: 10
+}, {
+    county: "Franklin, ID",
+    value: 10
+}, {
+    county: "Bear Lake, ID",
+    value: 10
+}, {
+    county: "Caribou, ID",
+    value: 10
+}, {
+    county: "Minidoka, ID",
+    value: 10
+}, {
+    county: "Lincoln, ID",
+    value: 10
+}, {
+    county: "Bonneville, ID",
+    value: 10
+}, {
+    county: "Bingham, ID",
+    value: 10
+}, {
+    county: "Blaine, ID",
+    value: 10
+}, {
+    county: "Valley, ID",
+    value: 10
+}, {
+    county: "Shoshone, ID",
+    value: 10
+}, {
+    county: "Clearwater, ID",
+    value: 10
+}, {
+    county: "Idaho, ID",
+    value: 10
+}, {
+    county: "Custer, ID",
+    value: 10
+}, {
+    county: "Lemhi, ID",
+    value: 10
+}, {
+    county: "Butte, ID",
+    value: 10
+}, {
+    county: "Jefferson, ID",
+    value: 10
+}, {
+    county: "Madison, ID",
+    value: 10
+}, {
+    county: "Teton, ID",
+    value: 10
+}, {
+    county: "Vermilion, IL",
+    value: 10
+}, {
+    county: "Iroquois, IL",
+    value: 10
+}, {
+    county: "Alexander, IL",
+    value: 10
+}, {
+    county: "Pulaski, IL",
+    value: 10
+}, {
+    county: "Massac, IL",
+    value: 10
+}, {
+    county: "Hardin, IL",
+    value: 10
+}, {
+    county: "Pope, IL",
+    value: 10
+}, {
+    county: "Johnson, IL",
+    value: 10
+}, {
+    county: "Union, IL",
+    value: 10
+}, {
+    county: "Gallatin, IL",
+    value: 10
+}, {
+    county: "Saline, IL",
+    value: 10
+}, {
+    county: "Williamson, IL",
+    value: 10
+}, {
+    county: "Jackson, IL",
+    value: 10
+}, {
+    county: "Monroe, IL",
+    value: 10
+}, {
+    county: "Randolph, IL",
+    value: 10
+}, {
+    county: "Perry, IL",
+    value: 10
+}, {
+    county: "Franklin, IL",
+    value: 10
+}, {
+    county: "Hamilton, IL",
+    value: 10
+}, {
+    county: "White, IL",
+    value: 10
+}, {
+    county: "Jefferson, IL",
+    value: 10
+}, {
+    county: "Washington, IL",
+    value: 10
+}, {
+    county: "Clinton, IL",
+    value: 10
+}, {
+    county: "St. Clair, IL",
+    value: 10
+}, {
+    county: "Madison, IL",
+    value: 10
+}, {
+    county: "Bond, IL",
+    value: 10
+}, {
+    county: "Marion, IL",
+    value: 10
+}, {
+    county: "Wayne, IL",
+    value: 10
+}, {
+    county: "Wabash, IL",
+    value: 10
+}, {
+    county: "Edwards, IL",
+    value: 10
+}, {
+    county: "Lawrence, IL",
+    value: 10
+}, {
+    county: "Richland, IL",
+    value: 10
+}, {
+    county: "Clay, IL",
+    value: 10
+}, {
+    county: "Jasper, IL",
+    value: 10
+}, {
+    county: "Crawford, IL",
+    value: 10
+}, {
+    county: "Clark, IL",
+    value: 10
+}, {
+    county: "Cumberland, IL",
+    value: 10
+}, {
+    county: "Effingham, IL",
+    value: 10
+}, {
+    county: "Fayette, IL",
+    value: 10
+}, {
+    county: "Shelby, IL",
+    value: 10
+}, {
+    county: "Montgomery, IL",
+    value: 10
+}, {
+    county: "Jersey, IL",
+    value: 10
+}, {
+    county: "Macoupin, IL",
+    value: 10
+}, {
+    county: "Calhoun, IL",
+    value: 10
+}, {
+    county: "Greene, IL",
+    value: 10
+}, {
+    county: "Christian, IL",
+    value: 10
+}, {
+    county: "Coles, IL",
+    value: 10
+}, {
+    county: "Edgar, IL",
+    value: 10
+}, {
+    county: "Douglas, IL",
+    value: 10
+}, {
+    county: "Moultrie, IL",
+    value: 10
+}, {
+    county: "Macon, IL",
+    value: 10
+}, {
+    county: "Sangamon, IL",
+    value: 10
+}, {
+    county: "Morgan, IL",
+    value: 10
+}, {
+    county: "Scott, IL",
+    value: 10
+}, {
+    county: "Pike, IL",
+    value: 10
+}, {
+    county: "Brown, IL",
+    value: 10
+}, {
+    county: "Adams, IL",
+    value: 10
+}, {
+    county: "Hancock, IL",
+    value: 10
+}, {
+    county: "Donough, IL",
+    value: 10
+}, {
+    county: "Schuyler, IL",
+    value: 10
+}, {
+    county: "Cass, IL",
+    value: 10
+}, {
+    county: "Menard, IL",
+    value: 10
+}, {
+    county: "Mason, IL",
+    value: 10
+}, {
+    county: "Logan, IL",
+    value: 10
+}, {
+    county: "De Witt, IL",
+    value: 10
+}, {
+    county: "Piatt, IL",
+    value: 10
+}, {
+    county: "Champaign, IL",
+    value: 10
+}, {
+    county: "Ford, IL",
+    value: 10
+}, {
+    county: "McLean, IL",
+    value: 10
+}, {
+    county: "Tazewell, IL",
+    value: 10
+}, {
+    county: "Woodford, IL",
+    value: 10
+}, {
+    county: "Peoria, IL",
+    value: 10
+}, {
+    county: "Fulton, IL",
+    value: 10
+}, {
+    county: "Warren, IL",
+    value: 10
+}, {
+    county: "Henderson, IL",
+    value: 10
+}, {
+    county: "Mercer, IL",
+    value: 10
+}, {
+    county: "Knox, IL",
+    value: 10
+}, {
+    county: "Stark, IL",
+    value: 10
+}, {
+    county: "Marshall, IL",
+    value: 10
+}, {
+    county: "Putnam, IL",
+    value: 10
+}, {
+    county: "Livingston, IL",
+    value: 10
+}, {
+    county: "Kankakee, IL",
+    value: 10
+}, {
+    county: "Grundy, IL",
+    value: 10
+}, {
+    county: "Will, IL",
+    value: 10
+}, {
+    county: "Kendall, IL",
+    value: 10
+}, {
+    county: "La Salle, IL",
+    value: 10
+}, {
+    county: "Bureau, IL",
+    value: 10
+}, {
+    county: "Henry, IL",
+    value: 10
+}, {
+    county: "Rock Island, IL",
+    value: 10
+}, {
+    county: "Lee, IL",
+    value: 10
+}, {
+    county: "Whiteside, IL",
+    value: 10
+}, {
+    county: "Carroll, IL",
+    value: 10
+}, {
+    county: "Ogle, IL",
+    value: 10
+}, {
+    county: "DeKalb, IL",
+    value: 10
+}, {
+    county: "Kane, IL",
+    value: 10
+}, {
+    county: "DuPage, IL",
+    value: 10
+}, {
+    county: "Cook, IL",
+    value: 10
+}, {
+    county: "Lake, IL",
+    value: 10
+}, {
+    county: "McHenry, IL",
+    value: 10
+}, {
+    county: "Boone, IL",
+    value: 10
+}, {
+    county: "Winnebago, IL",
+    value: 10
+}, {
+    county: "Stephenson, IL",
+    value: 10
+}, {
+    county: "Jo Daviess, IL",
+    value: 10
+}, {
+    county: "Porter, IN",
+    value: 10
+}, {
+    county: "Lake, IN",
+    value: 10
+}, {
+    county: "Perry, IN",
+    value: 10
+}, {
+    county: "Spencer, IN",
+    value: 10
+}, {
+    county: "Warrick, IN",
+    value: 10
+}, {
+    county: "Vanderburgh, IN",
+    value: 10
+}, {
+    county: "Posey, IN",
+    value: 10
+}, {
+    county: "Gibson, IN",
+    value: 10
+}, {
+    county: "Pike, IN",
+    value: 10
+}, {
+    county: "Dubois, IN",
+    value: 10
+}, {
+    county: "Crawford, IN",
+    value: 10
+}, {
+    county: "Harrison, IN",
+    value: 10
+}, {
+    county: "Floyd, IN",
+    value: 10
+}, {
+    county: "Clark, IN",
+    value: 10
+}, {
+    county: "Ohio, IN",
+    value: 10
+}, {
+    county: "Switzerland, IN",
+    value: 10
+}, {
+    county: "Jefferson, IN",
+    value: 10
+}, {
+    county: "Scott, IN",
+    value: 10
+}, {
+    county: "Washington, IN",
+    value: 10
+}, {
+    county: "Orange, IN",
+    value: 10
+}, {
+    county: "Martin, IN",
+    value: 10
+}, {
+    county: "Daviess, IN",
+    value: 10
+}, {
+    county: "Knox, IN",
+    value: 10
+}, {
+    county: "Sullivan, IN",
+    value: 10
+}, {
+    county: "Greene, IN",
+    value: 10
+}, {
+    county: "Lawrence, IN",
+    value: 10
+}, {
+    county: "Jackson, IN",
+    value: 10
+}, {
+    county: "Jennings, IN",
+    value: 10
+}, {
+    county: "Ripley, IN",
+    value: 10
+}, {
+    county: "Dearborn, IN",
+    value: 10
+}, {
+    county: "Franklin, IN",
+    value: 10
+}, {
+    county: "Decatur, IN",
+    value: 10
+}, {
+    county: "Bartholomew, IN",
+    value: 10
+}, {
+    county: "Brown, IN",
+    value: 10
+}, {
+    county: "Monroe, IN",
+    value: 10
+}, {
+    county: "Owen, IN",
+    value: 10
+}, {
+    county: "Clay, IN",
+    value: 10
+}, {
+    county: "Vigo, IN",
+    value: 10
+}, {
+    county: "Vermillion, IN",
+    value: 10
+}, {
+    county: "Parke, IN",
+    value: 10
+}, {
+    county: "Putnam, IN",
+    value: 10
+}, {
+    county: "Morgan, IN",
+    value: 10
+}, {
+    county: "Johnson, IN",
+    value: 10
+}, {
+    county: "Shelby, IN",
+    value: 10
+}, {
+    county: "Rush, IN",
+    value: 10
+}, {
+    county: "Fayette, IN",
+    value: 10
+}, {
+    county: "Union, IN",
+    value: 10
+}, {
+    county: "Wayne, IN",
+    value: 10
+}, {
+    county: "Henry, IN",
+    value: 10
+}, {
+    county: "Hancock, IN",
+    value: 10
+}, {
+    county: "Marion, IN",
+    value: 10
+}, {
+    county: "Hendricks, IN",
+    value: 10
+}, {
+    county: "Boone, IN",
+    value: 10
+}, {
+    county: "Hamilton, IN",
+    value: 10
+}, {
+    county: "Randolph, IN",
+    value: 10
+}, {
+    county: "Delaware, IN",
+    value: 10
+}, {
+    county: "Madison, IN",
+    value: 10
+}, {
+    county: "Tipton, IN",
+    value: 10
+}, {
+    county: "Clinton, IN",
+    value: 10
+}, {
+    county: "Montgomery, IN",
+    value: 10
+}, {
+    county: "Fountain, IN",
+    value: 10
+}, {
+    county: "Jay, IN",
+    value: 10
+}, {
+    county: "Blackford, IN",
+    value: 10
+}, {
+    county: "Grant, IN",
+    value: 10
+}, {
+    county: "Howard, IN",
+    value: 10
+}, {
+    county: "Carroll, IN",
+    value: 10
+}, {
+    county: "Tippecanoe, IN",
+    value: 10
+}, {
+    county: "Warren, IN",
+    value: 10
+}, {
+    county: "Benton, IN",
+    value: 10
+}, {
+    county: "Adams, IN",
+    value: 10
+}, {
+    county: "Wells, IN",
+    value: 10
+}, {
+    county: "Huntington, IN",
+    value: 10
+}, {
+    county: "Wabash, IN",
+    value: 10
+}, {
+    county: "Miami, IN",
+    value: 10
+}, {
+    county: "Cass, IN",
+    value: 10
+}, {
+    county: "White, IN",
+    value: 10
+}, {
+    county: "Allen, IN",
+    value: 10
+}, {
+    county: "Whitley, IN",
+    value: 10
+}, {
+    county: "Fulton, IN",
+    value: 10
+}, {
+    county: "Pulaski, IN",
+    value: 10
+}, {
+    county: "DeKalb, IN",
+    value: 10
+}, {
+    county: "Noble, IN",
+    value: 10
+}, {
+    county: "Kosciusko, IN",
+    value: 10
+}, {
+    county: "Marshall, IN",
+    value: 10
+}, {
+    county: "Starke, IN",
+    value: 10
+}, {
+    county: "Jasper, IN",
+    value: 10
+}, {
+    county: "Newton, IN",
+    value: 10
+}, {
+    county: "Steuben, IN",
+    value: 10
+}, {
+    county: "LaGrange, IN",
+    value: 10
+}, {
+    county: "Elkhart, IN",
+    value: 10
+}, {
+    county: "St. Joseph, IN",
+    value: 10
+}, {
+    county: "LaPorte, IN",
+    value: 10
+}, {
+    county: "Doniphan, KS",
+    value: 10
+}, {
+    county: "Brown, KS",
+    value: 10
+}, {
+    county: "Stanton, KS",
+    value: 10
+}, {
+    county: "Morton, KS",
+    value: 10
+}, {
+    county: "Stevens, KS",
+    value: 10
+}, {
+    county: "Grant, KS",
+    value: 10
+}, {
+    county: "Haskell, KS",
+    value: 10
+}, {
+    county: "Seward, KS",
+    value: 10
+}, {
+    county: "Meade, KS",
+    value: 10
+}, {
+    county: "Gray, KS",
+    value: 10
+}, {
+    county: "Ford, KS",
+    value: 10
+}, {
+    county: "Clark, KS",
+    value: 10
+}, {
+    county: "Comanche, KS",
+    value: 10
+}, {
+    county: "Kiowa, KS",
+    value: 10
+}, {
+    county: "Edwards, KS",
+    value: 10
+}, {
+    county: "Pratt, KS",
+    value: 10
+}, {
+    county: "Barber, KS",
+    value: 10
+}, {
+    county: "Harper, KS",
+    value: 10
+}, {
+    county: "Kingman, KS",
+    value: 10
+}, {
+    county: "Reno, KS",
+    value: 10
+}, {
+    county: "Harvey, KS",
+    value: 10
+}, {
+    county: "Sedgwick, KS",
+    value: 10
+}, {
+    county: "Sumner, KS",
+    value: 10
+}, {
+    county: "Cowley, KS",
+    value: 10
+}, {
+    county: "Butler, KS",
+    value: 10
+}, {
+    county: "Chautauqua, KS",
+    value: 10
+}, {
+    county: "Elk, KS",
+    value: 10
+}, {
+    county: "Greenwood, KS",
+    value: 10
+}, {
+    county: "Montgomery, KS",
+    value: 10
+}, {
+    county: "Wilson, KS",
+    value: 10
+}, {
+    county: "Woodson, KS",
+    value: 10
+}, {
+    county: "Labette, KS",
+    value: 10
+}, {
+    county: "Neosho, KS",
+    value: 10
+}, {
+    county: "Allen, KS",
+    value: 10
+}, {
+    county: "Cherokee, KS",
+    value: 10
+}, {
+    county: "Crawford, KS",
+    value: 10
+}, {
+    county: "Bourbon, KS",
+    value: 10
+}, {
+    county: "Hamilton, KS",
+    value: 10
+}, {
+    county: "Greeley, KS",
+    value: 10
+}, {
+    county: "Wallace, KS",
+    value: 10
+}, {
+    county: "Sherman, KS",
+    value: 10
+}, {
+    county: "Cheyenne, KS",
+    value: 10
+}, {
+    county: "Stafford, KS",
+    value: 10
+}, {
+    county: "Kearny, KS",
+    value: 10
+}, {
+    county: "Finney, KS",
+    value: 10
+}, {
+    county: "Hodgeman, KS",
+    value: 10
+}, {
+    county: "Pawnee, KS",
+    value: 10
+}, {
+    county: "Coffey, KS",
+    value: 10
+}, {
+    county: "Anderson, KS",
+    value: 10
+}, {
+    county: "Linn, KS",
+    value: 10
+}, {
+    county: "Miami, KS",
+    value: 10
+}, {
+    county: "Franklin, KS",
+    value: 10
+}, {
+    county: "Osage, KS",
+    value: 10
+}, {
+    county: "Lyon, KS",
+    value: 10
+}, {
+    county: "Chase, KS",
+    value: 10
+}, {
+    county: "Morris, KS",
+    value: 10
+}, {
+    county: "Marion, KS",
+    value: 10
+}, {
+    county: "McPherson, KS",
+    value: 10
+}, {
+    county: "Rice, KS",
+    value: 10
+}, {
+    county: "Saline, KS",
+    value: 10
+}, {
+    county: "Ellsworth, KS",
+    value: 10
+}, {
+    county: "Barton, KS",
+    value: 10
+}, {
+    county: "Rush, KS",
+    value: 10
+}, {
+    county: "Ness, KS",
+    value: 10
+}, {
+    county: "Lane, KS",
+    value: 10
+}, {
+    county: "Scott, KS",
+    value: 10
+}, {
+    county: "Wichita, KS",
+    value: 10
+}, {
+    county: "Logan, KS",
+    value: 10
+}, {
+    county: "Gove, KS",
+    value: 10
+}, {
+    county: "Trego, KS",
+    value: 10
+}, {
+    county: "Ellis, KS",
+    value: 10
+}, {
+    county: "Russell, KS",
+    value: 10
+}, {
+    county: "Lincoln, KS",
+    value: 10
+}, {
+    county: "Ottawa, KS",
+    value: 10
+}, {
+    county: "Dickinson, KS",
+    value: 10
+}, {
+    county: "Geary, KS",
+    value: 10
+}, {
+    county: "Wabaunsee, KS",
+    value: 10
+}, {
+    county: "Shawnee, KS",
+    value: 10
+}, {
+    county: "Douglas, KS",
+    value: 10
+}, {
+    county: "Johnson, KS",
+    value: 10
+}, {
+    county: "Wyandotte, KS",
+    value: 10
+}, {
+    county: "Leavenworth, KS",
+    value: 10
+}, {
+    county: "Jefferson, KS",
+    value: 10
+}, {
+    county: "Atchison, KS",
+    value: 10
+}, {
+    county: "Jackson, KS",
+    value: 10
+}, {
+    county: "Pottawatomie, KS",
+    value: 10
+}, {
+    county: "Riley, KS",
+    value: 10
+}, {
+    county: "Clay, KS",
+    value: 10
+}, {
+    county: "Cloud, KS",
+    value: 10
+}, {
+    county: "Mitchell, KS",
+    value: 10
+}, {
+    county: "Osborne, KS",
+    value: 10
+}, {
+    county: "Rooks, KS",
+    value: 10
+}, {
+    county: "Graham, KS",
+    value: 10
+}, {
+    county: "Sheridan, KS",
+    value: 10
+}, {
+    county: "Thomas, KS",
+    value: 10
+}, {
+    county: "Rawlins, KS",
+    value: 10
+}, {
+    county: "Decatur, KS",
+    value: 10
+}, {
+    county: "Phillips, KS",
+    value: 10
+}, {
+    county: "Norton, KS",
+    value: 10
+}, {
+    county: "Smith, KS",
+    value: 10
+}, {
+    county: "Jewell, KS",
+    value: 10
+}, {
+    county: "Republic, KS",
+    value: 10
+}, {
+    county: "Washington, KS",
+    value: 10
+}, {
+    county: "Marshall, KS",
+    value: 10
+}, {
+    county: "Nemaha, KS",
+    value: 10
+}, {
+    county: "Hickman, KY",
+    value: 10
+}, {
+    county: "Fulton, KY",
+    value: 10
+}, {
+    county: "Bell, KY",
+    value: 10
+}, {
+    county: "Knox, KY",
+    value: 10
+}, {
+    county: "Whitley, KY",
+    value: 10
+}, {
+    county: "Laurel, KY",
+    value: 10
+}, {
+    county: "Clay, KY",
+    value: 10
+}, {
+    county: "Leslie, KY",
+    value: 10
+}, {
+    county: "Harlan, KY",
+    value: 10
+}, {
+    county: "Letcher, KY",
+    value: 10
+}, {
+    county: "Knott, KY",
+    value: 10
+}, {
+    county: "Perry, KY",
+    value: 10
+}, {
+    county: "Owsley, KY",
+    value: 10
+}, {
+    county: "Jackson, KY",
+    value: 10
+}, {
+    county: "Estill, KY",
+    value: 10
+}, {
+    county: "Lee, KY",
+    value: 10
+}, {
+    county: "Breathitt, KY",
+    value: 10
+}, {
+    county: "Floyd, KY",
+    value: 10
+}, {
+    county: "Johnson, KY",
+    value: 10
+}, {
+    county: "Magoffin, KY",
+    value: 10
+}, {
+    county: "Wolfe, KY",
+    value: 10
+}, {
+    county: "Powell, KY",
+    value: 10
+}, {
+    county: "Clark, KY",
+    value: 10
+}, {
+    county: "Montgomery, KY",
+    value: 10
+}, {
+    county: "Menifee, KY",
+    value: 10
+}, {
+    county: "Morgan, KY",
+    value: 10
+}, {
+    county: "Elliott, KY",
+    value: 10
+}, {
+    county: "Rowan, KY",
+    value: 10
+}, {
+    county: "Bath, KY",
+    value: 10
+}, {
+    county: "Nicholas, KY",
+    value: 10
+}, {
+    county: "Fleming, KY",
+    value: 10
+}, {
+    county: "Robertson, KY",
+    value: 10
+}, {
+    county: "Bracken, KY",
+    value: 10
+}, {
+    county: "Mason, KY",
+    value: 10
+}, {
+    county: "Lewis, KY",
+    value: 10
+}, {
+    county: "Boyd, KY",
+    value: 10
+}, {
+    county: "Greenup, KY",
+    value: 10
+}, {
+    county: "Carter, KY",
+    value: 10
+}, {
+    county: "Lawrence, KY",
+    value: 10
+}, {
+    county: "Martin, KY",
+    value: 10
+}, {
+    county: "Pike, KY",
+    value: 10
+}, {
+    county: "Harrison, KY",
+    value: 10
+}, {
+    county: "Bourbon, KY",
+    value: 10
+}, {
+    county: "Madison, KY",
+    value: 10
+}, {
+    county: "Rockcastle, KY",
+    value: 10
+}, {
+    county: "McCreary, KY",
+    value: 10
+}, {
+    county: "Lincoln, KY",
+    value: 10
+}, {
+    county: "Garrard, KY",
+    value: 10
+}, {
+    county: "Jessamine, KY",
+    value: 10
+}, {
+    county: "Fayette, KY",
+    value: 10
+}, {
+    county: "Woodford, KY",
+    value: 10
+}, {
+    county: "Scott, KY",
+    value: 10
+}, {
+    county: "Franklin, KY",
+    value: 10
+}, {
+    county: "Anderson, KY",
+    value: 10
+}, {
+    county: "Mercer, KY",
+    value: 10
+}, {
+    county: "Boyle, KY",
+    value: 10
+}, {
+    county: "Casey, KY",
+    value: 10
+}, {
+    county: "Pulaski, KY",
+    value: 10
+}, {
+    county: "Wayne, KY",
+    value: 10
+}, {
+    county: "Russell, KY",
+    value: 10
+}, {
+    county: "Clinton, KY",
+    value: 10
+}, {
+    county: "Cumberland, KY",
+    value: 10
+}, {
+    county: "Adair, KY",
+    value: 10
+}, {
+    county: "Taylor, KY",
+    value: 10
+}, {
+    county: "Marion, KY",
+    value: 10
+}, {
+    county: "Washington, KY",
+    value: 10
+}, {
+    county: "Spencer, KY",
+    value: 10
+}, {
+    county: "Shelby, KY",
+    value: 10
+}, {
+    county: "Henry, KY",
+    value: 10
+}, {
+    county: "Owen, KY",
+    value: 10
+}, {
+    county: "Grant, KY",
+    value: 10
+}, {
+    county: "Pendleton, KY",
+    value: 10
+}, {
+    county: "Campbell, KY",
+    value: 10
+}, {
+    county: "Kenton, KY",
+    value: 10
+}, {
+    county: "Boone, KY",
+    value: 10
+}, {
+    county: "Gallatin, KY",
+    value: 10
+}, {
+    county: "Carroll, KY",
+    value: 10
+}, {
+    county: "Trimble, KY",
+    value: 10
+}, {
+    county: "Oldham, KY",
+    value: 10
+}, {
+    county: "Jefferson, KY",
+    value: 10
+}, {
+    county: "Bullitt, KY",
+    value: 10
+}, {
+    county: "Nelson, KY",
+    value: 10
+}, {
+    county: "Larue, KY",
+    value: 10
+}, {
+    county: "Green, KY",
+    value: 10
+}, {
+    county: "Metcalfe, KY",
+    value: 10
+}, {
+    county: "Monroe, KY",
+    value: 10
+}, {
+    county: "Simpson, KY",
+    value: 10
+}, {
+    county: "Allen, KY",
+    value: 10
+}, {
+    county: "Barren, KY",
+    value: 10
+}, {
+    county: "Hart, KY",
+    value: 10
+}, {
+    county: "Hardin, KY",
+    value: 10
+}, {
+    county: "Meade, KY",
+    value: 10
+}, {
+    county: "Hancock, KY",
+    value: 10
+}, {
+    county: "Breckinridge, KY",
+    value: 10
+}, {
+    county: "Grayson, KY",
+    value: 10
+}, {
+    county: "Edmonson, KY",
+    value: 10
+}, {
+    county: "Warren, KY",
+    value: 10
+}, {
+    county: "Butler, KY",
+    value: 10
+}, {
+    county: "Logan, KY",
+    value: 10
+}, {
+    county: "Todd, KY",
+    value: 10
+}, {
+    county: "Muhlenberg, KY",
+    value: 10
+}, {
+    county: "Ohio, KY",
+    value: 10
+}, {
+    county: "Daviess, KY",
+    value: 10
+}, {
+    county: "McLean, KY",
+    value: 10
+}, {
+    county: "Hopkins, KY",
+    value: 10
+}, {
+    county: "Christian, KY",
+    value: 10
+}, {
+    county: "Trigg, KY",
+    value: 10
+}, {
+    county: "Lyon, KY",
+    value: 10
+}, {
+    county: "Caldwell, KY",
+    value: 10
+}, {
+    county: "Webster, KY",
+    value: 10
+}, {
+    county: "Henderson, KY",
+    value: 10
+}, {
+    county: "Union, KY",
+    value: 10
+}, {
+    county: "Crittenden, KY",
+    value: 10
+}, {
+    county: "Livingston, KY",
+    value: 10
+}, {
+    county: "Calloway, KY",
+    value: 10
+}, {
+    county: "Marshall, KY",
+    value: 10
+}, {
+    county: "Graves, KY",
+    value: 10
+}, {
+    county: "McCracken, KY",
+    value: 10
+}, {
+    county: "Carlisle, KY",
+    value: 10
+}, {
+    county: "Ballard, KY",
+    value: 10
+}, {
+    county: "St. Tammany, LA",
+    value: 10
+}, {
+    county: "Washington, LA",
+    value: 10
+}, {
+    county: "Red River, LA",
+    value: 10
+}, {
+    county: "Bienville, LA",
+    value: 10
+}, {
+    county: "Lincoln, LA",
+    value: 10
+}, {
+    county: "Jackson, LA",
+    value: 10
+}, {
+    county: "Winn, LA",
+    value: 10
+}, {
+    county: "Caldwell, LA",
+    value: 10
+}, {
+    county: "Ouachita, LA",
+    value: 10
+}, {
+    county: "Richland, LA",
+    value: 10
+}, {
+    county: "Franklin, LA",
+    value: 10
+}, {
+    county: "Tensas, LA",
+    value: 10
+}, {
+    county: "Madison, LA",
+    value: 10
+}, {
+    county: "East Carroll, LA",
+    value: 10
+}, {
+    county: "West Carroll, LA",
+    value: 10
+}, {
+    county: "Morehouse, LA",
+    value: 10
+}, {
+    county: "Union, LA",
+    value: 10
+}, {
+    county: "Claiborne, LA",
+    value: 10
+}, {
+    county: "Webster, LA",
+    value: 10
+}, {
+    county: "Bossier, LA",
+    value: 10
+}, {
+    county: "Caddo, LA",
+    value: 10
+}, {
+    county: "De Soto, LA",
+    value: 10
+}, {
+    county: "Sabine, LA",
+    value: 10
+}, {
+    county: "Natchitoches, LA",
+    value: 10
+}, {
+    county: "Grant, LA",
+    value: 10
+}, {
+    county: "La Salle, LA",
+    value: 10
+}, {
+    county: "Catahoula, LA",
+    value: 10
+}, {
+    county: "Concordia, LA",
+    value: 10
+}, {
+    county: "Avoyelles, LA",
+    value: 10
+}, {
+    county: "Rapides, LA",
+    value: 10
+}, {
+    county: "Vernon, LA",
+    value: 10
+}, {
+    county: "Evangeline, LA",
+    value: 10
+}, {
+    county: "Allen, LA",
+    value: 10
+}, {
+    county: "Beauregard, LA",
+    value: 10
+}, {
+    county: "Jefferson Davis, LA",
+    value: 10
+}, {
+    county: "Calcasieu, LA",
+    value: 10
+}, {
+    county: "Cameron, LA",
+    value: 10
+}, {
+    county: "Acadia, LA",
+    value: 10
+}, {
+    county: "St. Landry, LA",
+    value: 10
+}, {
+    county: "Pointe Coupee, LA",
+    value: 10
+}, {
+    county: "West Baton Rouge, LA",
+    value: 10
+}, {
+    county: "Lafayette, LA",
+    value: 10
+}, {
+    county: "Vermilion, LA",
+    value: 10
+}, {
+    county: "Iberia, LA",
+    value: 10
+}, {
+    county: "Iberville, LA",
+    value: 10
+}, {
+    county: "Assumption, LA",
+    value: 10
+}, {
+    county: "St. Martin, LA",
+    value: 10
+}, {
+    county: "St. Mary, LA",
+    value: 10
+}, {
+    county: "Terrebonne, LA",
+    value: 10
+}, {
+    county: "Lafourche, LA",
+    value: 10
+}, {
+    county: "St. James, LA",
+    value: 10
+}, {
+    county: "Ascension, LA",
+    value: 10
+}, {
+    county: "East Baton Rouge, LA",
+    value: 10
+}, {
+    county: "East Feliciana, LA",
+    value: 10
+}, {
+    county: "St. Helena, LA",
+    value: 10
+}, {
+    county: "Livingston, LA",
+    value: 10
+}, {
+    county: "St. John the Baptist, LA",
+    value: 10
+}, {
+    county: "St. Charles, LA",
+    value: 10
+}, {
+    county: "Tangipahoa, LA",
+    value: 10
+}, {
+    county: "Orleans, LA",
+    value: 10
+}, {
+    county: "St. Bernard, LA",
+    value: 10
+}, {
+    county: "Plaquemines, LA",
+    value: 10
+}, {
+    county: "West Feliciana, LA",
+    value: 10
+}, {
+    county: "Jefferson, LA",
+    value: 10
+}, {
+    county: "Worcester, MA",
+    value: 10
+}, {
+    county: "Middlesex, MA",
+    value: 10
+}, {
+    county: "Nantucket, MA",
+    value: 10
+}, {
+    county: "Barnstable, MA",
+    value: 10
+}, {
+    county: "Suffolk, MA",
+    value: 10
+}, {
+    county: "Bristol, MA",
+    value: 10
+}, {
+    county: "Plymouth, MA",
+    value: 10
+}, {
+    county: "Norfolk, MA",
+    value: 10
+}, {
+    county: "Essex, MA",
+    value: 10
+}, {
+    county: "Hampden, MA",
+    value: 10
+}, {
+    county: "Hampshire, MA",
+    value: 10
+}, {
+    county: "Berkshire, MA",
+    value: 10
+}, {
+    county: "Franklin, MA",
+    value: 10
+}, {
+    county: "Dukes, MA",
+    value: 10
+}, {
+    county: "Allegany, MD",
+    value: 10
+}, {
+    county: "Garrett, MD",
+    value: 10
+}, {
+    county: "St. Mary's, MD",
+    value: 10
+}, {
+    county: "Charles, MD",
+    value: 10
+}, {
+    county: "Worcester, MD",
+    value: 10
+}, {
+    county: "Wicomico, MD",
+    value: 10
+}, {
+    county: "Washington, MD",
+    value: 10
+}, {
+    county: "Calvert, MD",
+    value: 10
+}, {
+    county: "Talbot, MD",
+    value: 10
+}, {
+    county: "Caroline, MD",
+    value: 10
+}, {
+    county: "Kent, MD",
+    value: 10
+}, {
+    county: "Baltimore, MD",
+    value: 10
+}, {
+    county: "Prince George's, MD",
+    value: 10
+}, {
+    county: "Anne Arundel, MD",
+    value: 10
+}, {
+    county: "Howard, MD",
+    value: 10
+}, {
+    county: "Montgomery, MD",
+    value: 10
+}, {
+    county: "Queen Anne's, MD",
+    value: 10
+}, {
+    county: "Cecil, MD",
+    value: 10
+}, {
+    county: "Harford, MD",
+    value: 10
+}, {
+    county: "Baltimore County, MD",
+    value: 10
+}, {
+    county: "Carroll, MD",
+    value: 10
+}, {
+    county: "Frederick, MD",
+    value: 10
+}, {
+    county: "Somerset, MD",
+    value: 10
+}, {
+    county: "Dorchester, MD",
+    value: 10
+}, {
+    county: "Aroostook, ME",
+    value: 10
+}, {
+    county: "Piscataquis, ME",
+    value: 10
+}, {
+    county: "Knox, ME",
+    value: 10
+}, {
+    county: "Lincoln, ME",
+    value: 10
+}, {
+    county: "Sagadahoc, ME",
+    value: 10
+}, {
+    county: "Cumberland, ME",
+    value: 10
+}, {
+    county: "York, ME",
+    value: 10
+}, {
+    county: "Androscoggin, ME",
+    value: 10
+}, {
+    county: "Oxford, ME",
+    value: 10
+}, {
+    county: "Kennebec, ME",
+    value: 10
+}, {
+    county: "Waldo, ME",
+    value: 10
+}, {
+    county: "Hancock, ME",
+    value: 10
+}, {
+    county: "Washington, ME",
+    value: 10
+}, {
+    county: "Penobscot, ME",
+    value: 10
+}, {
+    county: "Franklin, ME",
+    value: 10
+}, {
+    county: "Somerset, ME",
+    value: 10
+}, {
+    county: "Gogebic, MI",
+    value: 10
+}, {
+    county: "Ontonagon, MI",
+    value: 10
+}, {
+    county: "Monroe, MI",
+    value: 10
+}, {
+    county: "Lenawee, MI",
+    value: 10
+}, {
+    county: "Hillsdale, MI",
+    value: 10
+}, {
+    county: "Branch, MI",
+    value: 10
+}, {
+    county: "St. Joseph, MI",
+    value: 10
+}, {
+    county: "Cass, MI",
+    value: 10
+}, {
+    county: "Berrien, MI",
+    value: 10
+}, {
+    county: "Wayne, MI",
+    value: 10
+}, {
+    county: "Washtenaw, MI",
+    value: 10
+}, {
+    county: "Jackson, MI",
+    value: 10
+}, {
+    county: "Calhoun, MI",
+    value: 10
+}, {
+    county: "Kalamazoo, MI",
+    value: 10
+}, {
+    county: "Van Buren, MI",
+    value: 10
+}, {
+    county: "Allegan, MI",
+    value: 10
+}, {
+    county: "Barry, MI",
+    value: 10
+}, {
+    county: "Eaton, MI",
+    value: 10
+}, {
+    county: "Ingham, MI",
+    value: 10
+}, {
+    county: "Livingston, MI",
+    value: 10
+}, {
+    county: "Oakland, MI",
+    value: 10
+}, {
+    county: "Macomb, MI",
+    value: 10
+}, {
+    county: "St. Clair, MI",
+    value: 10
+}, {
+    county: "Lapeer, MI",
+    value: 10
+}, {
+    county: "Genesee, MI",
+    value: 10
+}, {
+    county: "Shiawassee, MI",
+    value: 10
+}, {
+    county: "Clinton, MI",
+    value: 10
+}, {
+    county: "Ionia, MI",
+    value: 10
+}, {
+    county: "Ottawa, MI",
+    value: 10
+}, {
+    county: "Muskegon, MI",
+    value: 10
+}, {
+    county: "Kent, MI",
+    value: 10
+}, {
+    county: "Montcalm, MI",
+    value: 10
+}, {
+    county: "Gratiot, MI",
+    value: 10
+}, {
+    county: "Saginaw, MI",
+    value: 10
+}, {
+    county: "Sanilac, MI",
+    value: 10
+}, {
+    county: "Tuscola, MI",
+    value: 10
+}, {
+    county: "Huron, MI",
+    value: 10
+}, {
+    county: "Bay, MI",
+    value: 10
+}, {
+    county: "Midland, MI",
+    value: 10
+}, {
+    county: "Isabella, MI",
+    value: 10
+}, {
+    county: "Mecosta, MI",
+    value: 10
+}, {
+    county: "Newaygo, MI",
+    value: 10
+}, {
+    county: "Oceana, MI",
+    value: 10
+}, {
+    county: "Arenac, MI",
+    value: 10
+}, {
+    county: "Gladwin, MI",
+    value: 10
+}, {
+    county: "Clare, MI",
+    value: 10
+}, {
+    county: "Osceola, MI",
+    value: 10
+}, {
+    county: "Lake, MI",
+    value: 10
+}, {
+    county: "Mason, MI",
+    value: 10
+}, {
+    county: "Iosco, MI",
+    value: 10
+}, {
+    county: "Ogemaw, MI",
+    value: 10
+}, {
+    county: "Roscommon, MI",
+    value: 10
+}, {
+    county: "Missaukee, MI",
+    value: 10
+}, {
+    county: "Wexford, MI",
+    value: 10
+}, {
+    county: "Manistee, MI",
+    value: 10
+}, {
+    county: "Alcona, MI",
+    value: 10
+}, {
+    county: "Oscoda, MI",
+    value: 10
+}, {
+    county: "Crawford, MI",
+    value: 10
+}, {
+    county: "Kalkaska, MI",
+    value: 10
+}, {
+    county: "Grand Treverse, MI",
+    value: 10
+}, {
+    county: "Benzie, MI",
+    value: 10
+}, {
+    county: "Leelanau, MI",
+    value: 10
+}, {
+    county: "Alpena, MI",
+    value: 10
+}, {
+    county: "Montmorency, MI",
+    value: 10
+}, {
+    county: "Otsego, MI",
+    value: 10
+}, {
+    county: "Antrim, MI",
+    value: 10
+}, {
+    county: "Charlevoix, MI",
+    value: 10
+}, {
+    county: "Presque Isle, MI",
+    value: 10
+}, {
+    county: "Cheboygan, MI",
+    value: 10
+}, {
+    county: "Emmet, MI",
+    value: 10
+}, {
+    county: "Mackinac, MI",
+    value: 10
+}, {
+    county: "Chippewa, MI",
+    value: 10
+}, {
+    county: "Luce, MI",
+    value: 10
+}, {
+    county: "Schoolcraft, MI",
+    value: 10
+}, {
+    county: "Alger, MI",
+    value: 10
+}, {
+    county: "Delta, MI",
+    value: 10
+}, {
+    county: "Menominee, MI",
+    value: 10
+}, {
+    county: "Dickinson, MI",
+    value: 10
+}, {
+    county: "Marquette, MI",
+    value: 10
+}, {
+    county: "Iron, MI",
+    value: 10
+}, {
+    county: "Keweenaw, MI",
+    value: 10
+}, {
+    county: "Houghton, MI",
+    value: 10
+}, {
+    county: "Baraga, MI",
+    value: 10
+}, {
+    county: "Houston, MN",
+    value: 10
+}, {
+    county: "Fillmore, MN",
+    value: 10
+}, {
+    county: "Koochiching, MN",
+    value: 10
+}, {
+    county: "Lake of the Woods, MN",
+    value: 10
+}, {
+    county: "Roseau, MN",
+    value: 10
+}, {
+    county: "Kittson, MN",
+    value: 10
+}, {
+    county: "Red Lake, MN",
+    value: 10
+}, {
+    county: "Pennington, MN",
+    value: 10
+}, {
+    county: "Marshall, MN",
+    value: 10
+}, {
+    county: "Polk, MN",
+    value: 10
+}, {
+    county: "Norman, MN",
+    value: 10
+}, {
+    county: "Mahnomen, MN",
+    value: 10
+}, {
+    county: "Clearwater, MN",
+    value: 10
+}, {
+    county: "Beltrami, MN",
+    value: 10
+}, {
+    county: "Cook, MN",
+    value: 10
+}, {
+    county: "Lake, MN",
+    value: 10
+}, {
+    county: "Itasca, MN",
+    value: 10
+}, {
+    county: "Hubbard, MN",
+    value: 10
+}, {
+    county: "Cass, MN",
+    value: 10
+}, {
+    county: "Wadena, MN",
+    value: 10
+}, {
+    county: "Becker, MN",
+    value: 10
+}, {
+    county: "Clay, MN",
+    value: 10
+}, {
+    county: "Wilkin, MN",
+    value: 10
+}, {
+    county: "Otter Tail, MN",
+    value: 10
+}, {
+    county: "St. Louis, MN",
+    value: 10
+}, {
+    county: "Carlton, MN",
+    value: 10
+}, {
+    county: "Pine, MN",
+    value: 10
+}, {
+    county: "Kanabec, MN",
+    value: 10
+}, {
+    county: "Aitkin, MN",
+    value: 10
+}, {
+    county: "Crow Wing, MN",
+    value: 10
+}, {
+    county: "Morrison, MN",
+    value: 10
+}, {
+    county: "Todd, MN",
+    value: 10
+}, {
+    county: "Douglas, MN",
+    value: 10
+}, {
+    county: "Grant, MN",
+    value: 10
+}, {
+    county: "Traverse, MN",
+    value: 10
+}, {
+    county: "Big Stone, MN",
+    value: 10
+}, {
+    county: "Swift, MN",
+    value: 10
+}, {
+    county: "Stevens, MN",
+    value: 10
+}, {
+    county: "Pope, MN",
+    value: 10
+}, {
+    county: "Stearns, MN",
+    value: 10
+}, {
+    county: "Benton, MN",
+    value: 10
+}, {
+    county: "Mille Lacs, MN",
+    value: 10
+}, {
+    county: "Isanti, MN",
+    value: 10
+}, {
+    county: "Chisago, MN",
+    value: 10
+}, {
+    county: "Ramsey, MN",
+    value: 10
+}, {
+    county: "Anoka, MN",
+    value: 10
+}, {
+    county: "Sherburne, MN",
+    value: 10
+}, {
+    county: "Wright, MN",
+    value: 10
+}, {
+    county: "Meeker, MN",
+    value: 10
+}, {
+    county: "Kandiyohi, MN",
+    value: 10
+}, {
+    county: "Chippewa, MN",
+    value: 10
+}, {
+    county: "Washington, MN",
+    value: 10
+}, {
+    county: "Dakota, MN",
+    value: 10
+}, {
+    county: "Hennepin, MN",
+    value: 10
+}, {
+    county: "Scott, MN",
+    value: 10
+}, {
+    county: "Carver, MN",
+    value: 10
+}, {
+    county: "McLeod, MN",
+    value: 10
+}, {
+    county: "Sibley, MN",
+    value: 10
+}, {
+    county: "Renville, MN",
+    value: 10
+}, {
+    county: "Lac qui Parle, MN",
+    value: 10
+}, {
+    county: "Yellow Medicine, MN",
+    value: 10
+}, {
+    county: "Lincoln, MN",
+    value: 10
+}, {
+    county: "Lyon, MN",
+    value: 10
+}, {
+    county: "Redwood, MN",
+    value: 10
+}, {
+    county: "Brown, MN",
+    value: 10
+}, {
+    county: "Nicollet, MN",
+    value: 10
+}, {
+    county: "Le Sueur, MN",
+    value: 10
+}, {
+    county: "Rice, MN",
+    value: 10
+}, {
+    county: "Goodhue, MN",
+    value: 10
+}, {
+    county: "Wabasha, MN",
+    value: 10
+}, {
+    county: "Winona, MN",
+    value: 10
+}, {
+    county: "Olmsted, MN",
+    value: 10
+}, {
+    county: "Dodge, MN",
+    value: 10
+}, {
+    county: "Steele, MN",
+    value: 10
+}, {
+    county: "Waseca, MN",
+    value: 10
+}, {
+    county: "Blue Earth, MN",
+    value: 10
+}, {
+    county: "Watonwan, MN",
+    value: 10
+}, {
+    county: "Cottonwood, MN",
+    value: 10
+}, {
+    county: "Murray, MN",
+    value: 10
+}, {
+    county: "Pipestone, MN",
+    value: 10
+}, {
+    county: "Rock, MN",
+    value: 10
+}, {
+    county: "Nobles, MN",
+    value: 10
+}, {
+    county: "Jackson, MN",
+    value: 10
+}, {
+    county: "Martin, MN",
+    value: 10
+}, {
+    county: "Faribault, MN",
+    value: 10
+}, {
+    county: "Freeborn, MN",
+    value: 10
+}, {
+    county: "Mower, MN",
+    value: 10
+}, {
+    county: "New Madrid, MO",
+    value: 10
+}, {
+    county: "Pemiscot, MO",
+    value: 10
+}, {
+    county: "Atchison, MO",
+    value: 10
+}, {
+    county: "Holt, MO",
+    value: 10
+}, {
+    county: "Platte, MO",
+    value: 10
+}, {
+    county: "Buchanan, MO",
+    value: 10
+}, {
+    county: "Andrew, MO",
+    value: 10
+}, {
+    county: "Nodaway, MO",
+    value: 10
+}, {
+    county: "Worth, NO",
+    value: 10
+}, {
+    county: "Gentry, MO",
+    value: 10
+}, {
+    county: "DeKalb, MO",
+    value: 10
+}, {
+    county: "Clinton, MO",
+    value: 10
+}, {
+    county: "Clay, MO",
+    value: 10
+}, {
+    county: "Caldwell, MO",
+    value: 10
+}, {
+    county: "Daviess, MO",
+    value: 10
+}, {
+    county: "Harrison, MO",
+    value: 10
+}, {
+    county: "Mercer, MO",
+    value: 10
+}, {
+    county: "Grundy, MO",
+    value: 10
+}, {
+    county: "Livingston, MO",
+    value: 10
+}, {
+    county: "Carroll, MO",
+    value: 10
+}, {
+    county: "Ray, MO",
+    value: 10
+}, {
+    county: "Lafayette, MO",
+    value: 10
+}, {
+    county: "Jackson, MO",
+    value: 10
+}, {
+    county: "Johnson, MO",
+    value: 10
+}, {
+    county: "Henry, MO",
+    value: 10
+}, {
+    county: "Cass, MO",
+    value: 10
+}, {
+    county: "St. Clair, MO",
+    value: 10
+}, {
+    county: "Bates, MO",
+    value: 10
+}, {
+    county: "Cedar, MO",
+    value: 10
+}, {
+    county: "Vernon, MO",
+    value: 10
+}, {
+    county: "Dade, MO",
+    value: 10
+}, {
+    county: "Barton, MO",
+    value: 10
+}, {
+    county: "Jasper, MO",
+    value: 10
+}, {
+    county: "Newton, MO",
+    value: 10
+}, {
+    county: "McDonald, MO",
+    value: 10
+}, {
+    county: "Lawrence, MO",
+    value: 10
+}, {
+    county: "Barry, MO",
+    value: 10
+}, {
+    county: "Polk, MO",
+    value: 10
+}, {
+    county: "Stone, MO",
+    value: 10
+}, {
+    county: "Greene, MO",
+    value: 10
+}, {
+    county: "Taney, MO",
+    value: 10
+}, {
+    county: "Christian, MO",
+    value: 10
+}, {
+    county: "Webster, MO",
+    value: 10
+}, {
+    county: "Dallas, MO",
+    value: 10
+}, {
+    county: "Hickory, MO",
+    value: 10
+}, {
+    county: "Benton, MO",
+    value: 10
+}, {
+    county: "Pettis, MO",
+    value: 10
+}, {
+    county: "Saline, MO",
+    value: 10
+}, {
+    county: "Chariton, MO",
+    value: 10
+}, {
+    county: "Linn, MO",
+    value: 10
+}, {
+    county: "Sullivan, MO",
+    value: 10
+}, {
+    county: "Putnam, MO",
+    value: 10
+}, {
+    county: "Schuyler, MO",
+    value: 10
+}, {
+    county: "Adair, MO",
+    value: 10
+}, {
+    county: "Macon, MO",
+    value: 10
+}, {
+    county: "Randolph, MO",
+    value: 10
+}, {
+    county: "Howard, MO",
+    value: 10
+}, {
+    county: "Cooper, MO",
+    value: 10
+}, {
+    county: "Boone, MO",
+    value: 10
+}, {
+    county: "Cole, MO",
+    value: 10
+}, {
+    county: "Moniteau, MO",
+    value: 10
+}, {
+    county: "Morgan, MO",
+    value: 10
+}, {
+    county: "Miller, MO",
+    value: 10
+}, {
+    county: "Camden, MO",
+    value: 10
+}, {
+    county: "Pulaski, MO",
+    value: 10
+}, {
+    county: "Laclede, MO",
+    value: 10
+}, {
+    county: "Wright, MO",
+    value: 10
+}, {
+    county: "Douglas, MO",
+    value: 10
+}, {
+    county: "Ozark, MO",
+    value: 10
+}, {
+    county: "Howell, MO",
+    value: 10
+}, {
+    county: "Texas, MO",
+    value: 10
+}, {
+    county: "Phelps, MO",
+    value: 10
+}, {
+    county: "Maries, MO",
+    value: 10
+}, {
+    county: "Osage, MO",
+    value: 10
+}, {
+    county: "Callaway, MO",
+    value: 10
+}, {
+    county: "Monroe, MO",
+    value: 10
+}, {
+    county: "Shelby, MO",
+    value: 10
+}, {
+    county: "Knox, MO",
+    value: 10
+}, {
+    county: "Scotland, MO",
+    value: 10
+}, {
+    county: "Clark, MO",
+    value: 10
+}, {
+    county: "Lewis, MO",
+    value: 10
+}, {
+    county: "Marion, MO",
+    value: 10
+}, {
+    county: "Ralls, MO",
+    value: 10
+}, {
+    county: "Audrain, MO",
+    value: 10
+}, {
+    county: "Montgomery, MO",
+    value: 10
+}, {
+    county: "Pike, MO",
+    value: 10
+}, {
+    county: "Lincoln, MO",
+    value: 10
+}, {
+    county: "Warren, MO",
+    value: 10
+}, {
+    county: "Gasconade, MO",
+    value: 10
+}, {
+    county: "Crawford, MO",
+    value: 10
+}, {
+    county: "Dent, MO",
+    value: 10
+}, {
+    county: "Shannon, MO",
+    value: 10
+}, {
+    county: "Oregon, MO",
+    value: 10
+}, {
+    county: "Ripley, MO",
+    value: 10
+}, {
+    county: "Carter, MO",
+    value: 10
+}, {
+    county: "Reynolds, MO",
+    value: 10
+}, {
+    county: "Iron, MO",
+    value: 10
+}, {
+    county: "Washington, MO",
+    value: 10
+}, {
+    county: "Franklin, MO",
+    value: 10
+}, {
+    county: "St. Louis, MO",
+    value: 10
+}, {
+    county: "St. Charles, MO",
+    value: 10
+}, {
+    county: "St. Louis County, MO",
+    value: 10
+}, {
+    county: "Jefferson, MO",
+    value: 10
+}, {
+    county: "St. Francois, MO",
+    value: 10
+}, {
+    county: "Ste. Genevieve, MO",
+    value: 10
+}, {
+    county: "Madison, MO",
+    value: 10
+}, {
+    county: "Wayne, MO",
+    value: 10
+}, {
+    county: "Butler, MO",
+    value: 10
+}, {
+    county: "Dunklin, MO",
+    value: 10
+}, {
+    county: "Stoddard, MO",
+    value: 10
+}, {
+    county: "Bollinger, MO",
+    value: 10
+}, {
+    county: "Perry, MO",
+    value: 10
+}, {
+    county: "Cape Girardeau, MO",
+    value: 10
+}, {
+    county: "Scott, MO",
+    value: 10
+}, {
+    county: "Mississippi, MO",
+    value: 10
+}, {
+    county: "Harrison, MS",
+    value: 10
+}, {
+    county: "Jackson, MS",
+    value: 10
+}, {
+    county: "Grenada, MS",
+    value: 10
+}, {
+    county: "Yalobusha, MS",
+    value: 10
+}, {
+    county: "Clay, MS",
+    value: 10
+}, {
+    county: "Webster, MS",
+    value: 10
+}, {
+    county: "Chickasaw, MS",
+    value: 10
+}, {
+    county: "Calhoun, MS",
+    value: 10
+}, {
+    county: "Pontotoc, MS",
+    value: 10
+}, {
+    county: "Lee, MS",
+    value: 10
+}, {
+    county: "Union, MS",
+    value: 10
+}, {
+    county: "Lafayette, MS",
+    value: 10
+}, {
+    county: "Tate, MS",
+    value: 10
+}, {
+    county: "Panola, MS",
+    value: 10
+}, {
+    county: "Quitman, MS",
+    value: 10
+}, {
+    county: "Tallahatchie, MS",
+    value: 10
+}, {
+    county: "Leflore, MS",
+    value: 10
+}, {
+    county: "Sunflower, MS",
+    value: 10
+}, {
+    county: "Humphreys, MS",
+    value: 10
+}, {
+    county: "Holmes, MS",
+    value: 10
+}, {
+    county: "Carroll, MS",
+    value: 10
+}, {
+    county: "Montgomery, MS",
+    value: 10
+}, {
+    county: "Choctaw, MS",
+    value: 10
+}, {
+    county: "Oktibbeha, MS",
+    value: 10
+}, {
+    county: "Lowndes, MS",
+    value: 10
+}, {
+    county: "Monroe, MS",
+    value: 10
+}, {
+    county: "Itawamba, MS",
+    value: 10
+}, {
+    county: "Prentiss, MS",
+    value: 10
+}, {
+    county: "Tishomingo, MS",
+    value: 10
+}, {
+    county: "Alcorn, MS",
+    value: 10
+}, {
+    county: "Tippah, MS",
+    value: 10
+}, {
+    county: "Benton, MS",
+    value: 10
+}, {
+    county: "Marshall, MS",
+    value: 10
+}, {
+    county: "DeSoto, MS",
+    value: 10
+}, {
+    county: "Tunica, MS",
+    value: 10
+}, {
+    county: "Coahoma, MS",
+    value: 10
+}, {
+    county: "Bolivar, MS",
+    value: 10
+}, {
+    county: "Washington, MS",
+    value: 10
+}, {
+    county: "Sharkey, MS",
+    value: 10
+}, {
+    county: "Issaquena, MS",
+    value: 10
+}, {
+    county: "Yazoo, MS",
+    value: 10
+}, {
+    county: "Attala, MS",
+    value: 10
+}, {
+    county: "Winston, MS",
+    value: 10
+}, {
+    county: "Noxubee, MS",
+    value: 10
+}, {
+    county: "Kemper, MS",
+    value: 10
+}, {
+    county: "Neshoba, MS",
+    value: 10
+}, {
+    county: "Leake, MS",
+    value: 10
+}, {
+    county: "Madison, MS",
+    value: 10
+}, {
+    county: "Rankin, MS",
+    value: 10
+}, {
+    county: "Hinds, MS",
+    value: 10
+}, {
+    county: "Warren, MS",
+    value: 10
+}, {
+    county: "Jefferson, MS",
+    value: 10
+}, {
+    county: "Claiborne, MS",
+    value: 10
+}, {
+    county: "Copiah, MS",
+    value: 10
+}, {
+    county: "Simpson, MS",
+    value: 10
+}, {
+    county: "Smith, MS",
+    value: 10
+}, {
+    county: "Scott, MS",
+    value: 10
+}, {
+    county: "Newton, MS",
+    value: 10
+}, {
+    county: "Lauderdale, MS",
+    value: 10
+}, {
+    county: "Clarke, MS",
+    value: 10
+}, {
+    county: "Jasper, MS",
+    value: 10
+}, {
+    county: "Jones, MS",
+    value: 10
+}, {
+    county: "Covington, MS",
+    value: 10
+}, {
+    county: "Jefferson Davis, MS",
+    value: 10
+}, {
+    county: "Lawrence, MS",
+    value: 10
+}, {
+    county: "Lincoln, MS",
+    value: 10
+}, {
+    county: "Franklin, MS",
+    value: 10
+}, {
+    county: "Adams, MS",
+    value: 10
+}, {
+    county: "Wilkinson, MS",
+    value: 10
+}, {
+    county: "Amite, MS",
+    value: 10
+}, {
+    county: "Pike, MS",
+    value: 10
+}, {
+    county: "Walthall, MS",
+    value: 10
+}, {
+    county: "Marion, MS",
+    value: 10
+}, {
+    county: "Lamar, MS",
+    value: 10
+}, {
+    county: "Forrest, MS",
+    value: 10
+}, {
+    county: "Wayne, MS",
+    value: 10
+}, {
+    county: "Greene, MS",
+    value: 10
+}, {
+    county: "Perry, MS",
+    value: 10
+}, {
+    county: "Stone, MS",
+    value: 10
+}, {
+    county: "Pearl River, MS",
+    value: 10
+}, {
+    county: "Hancock, MS",
+    value: 10
+}, {
+    county: "George, MS",
+    value: 10
+}, {
+    county: "Sheridan, MT",
+    value: 10
+}, {
+    county: "Roosevelt, MT",
+    value: 10
+}, {
+    county: "Gallatin, MT",
+    value: 10
+}, {
+    county: "Madison, MT",
+    value: 10
+}, {
+    county: "Broadwater, MT",
+    value: 10
+}, {
+    county: "Jefferson, MT",
+    value: 10
+}, {
+    county: "Silver Bow, MT",
+    value: 10
+}, {
+    county: "Deer Lodge, MT",
+    value: 10
+}, {
+    county: "Beaverhead, MT",
+    value: 10
+}, {
+    county: "Ravalli, MT",
+    value: 10
+}, {
+    county: "Granite, MT",
+    value: 10
+}, {
+    county: "Lewis and Clark, MT",
+    value: 10
+}, {
+    county: "Powell, MT",
+    value: 10
+}, {
+    county: "Lake, MT",
+    value: 10
+}, {
+    county: "Missoula, MT",
+    value: 10
+}, {
+    county: "Mineral, MT",
+    value: 10
+}, {
+    county: "Sanders, MT",
+    value: 10
+}, {
+    county: "Lincoln, MT",
+    value: 10
+}, {
+    county: "Flathead, MT",
+    value: 10
+}, {
+    county: "Glacier, MT",
+    value: 10
+}, {
+    county: "Liberty, MT",
+    value: 10
+}, {
+    county: "Toole, MT",
+    value: 10
+}, {
+    county: "Pondera, MT",
+    value: 10
+}, {
+    county: "Teton, MT",
+    value: 10
+}, {
+    county: "Cascade, MT",
+    value: 10
+}, {
+    county: "Meagher, MT",
+    value: 10
+}, {
+    county: "Park, MT",
+    value: 10
+}, {
+    county: "Hill, MT",
+    value: 10
+}, {
+    county: "Chouteau, MT",
+    value: 10
+}, {
+    county: "Judith Basin, MT",
+    value: 10
+}, {
+    county: "Wheatland, MT",
+    value: 10
+}, {
+    county: "Sweet Grass, MT",
+    value: 10
+}, {
+    county: "Carbon, MT",
+    value: 10
+}, {
+    county: "Stillwater, MT",
+    value: 10
+}, {
+    county: "Golden Valley, MT",
+    value: 10
+}, {
+    county: "Fergus, MT",
+    value: 10
+}, {
+    county: "Blaine, MT",
+    value: 10
+}, {
+    county: "Phillips, MT",
+    value: 10
+}, {
+    county: "Petroleum, MT",
+    value: 10
+}, {
+    county: "Musselshell, MT",
+    value: 10
+}, {
+    county: "Yellowstone, MT",
+    value: 10
+}, {
+    county: "Big Horn, MT",
+    value: 10
+}, {
+    county: "Treasure, MT",
+    value: 10
+}, {
+    county: "Rosebud, MT",
+    value: 10
+}, {
+    county: "Garfield, MT",
+    value: 10
+}, {
+    county: "Daniels, MT",
+    value: 10
+}, {
+    county: "Valley, MT",
+    value: 10
+}, {
+    county: "McCone, MT",
+    value: 10
+}, {
+    county: "Prairie, MT",
+    value: 10
+}, {
+    county: "Powder River, MT",
+    value: 10
+}, {
+    county: "Custer, MT",
+    value: 10
+}, {
+    county: "Carter, MT",
+    value: 10
+}, {
+    county: "Fallon, MT",
+    value: 10
+}, {
+    county: "Wibaux, MT",
+    value: 10
+}, {
+    county: "Dawson, MT",
+    value: 10
+}, {
+    county: "Richland, MT",
+    value: 10
+}, {
+    county: "Clay, NC",
+    value: 10
+}, {
+    county: "Macon, NC",
+    value: 10
+}, {
+    county: "Transylvania, NC",
+    value: 10
+}, {
+    county: "Jackson, NC",
+    value: 10
+}, {
+    county: "Haywood, NC",
+    value: 10
+}, {
+    county: "Swain, NC",
+    value: 10
+}, {
+    county: "Graham, NC",
+    value: 10
+}, {
+    county: "Cherokee, NC",
+    value: 10
+}, {
+    county: "Mitchell, NC",
+    value: 10
+}, {
+    county: "Yancey, NC",
+    value: 10
+}, {
+    county: "Madison, NC",
+    value: 10
+}, {
+    county: "Buncombe, NC",
+    value: 10
+}, {
+    county: "Henderson, NC",
+    value: 10
+}, {
+    county: "Polk, NC",
+    value: 10
+}, {
+    county: "Rutherford, NC",
+    value: 10
+}, {
+    county: "McDowell, NC",
+    value: 10
+}, {
+    county: "Avery, NC",
+    value: 10
+}, {
+    county: "Watauga, NC",
+    value: 10
+}, {
+    county: "Alexander, NC",
+    value: 10
+}, {
+    county: "Ashe, NC",
+    value: 10
+}, {
+    county: "Alleghany, NC",
+    value: 10
+}, {
+    county: "Wilkes, NC",
+    value: 10
+}, {
+    county: "Caldwell, NC",
+    value: 10
+}, {
+    county: "Burke, NC",
+    value: 10
+}, {
+    county: "Cleveland, NC",
+    value: 10
+}, {
+    county: "Gaston, NC",
+    value: 10
+}, {
+    county: "Lincoln, NC",
+    value: 10
+}, {
+    county: "Catawba, NC",
+    value: 10
+}, {
+    county: "Iredell, NC",
+    value: 10
+}, {
+    county: "Mecklenburg, NC",
+    value: 10
+}, {
+    county: "Rowan, NC",
+    value: 10
+}, {
+    county: "Davie, NC",
+    value: 10
+}, {
+    county: "Yadkin, NC",
+    value: 10
+}, {
+    county: "Surry, NC",
+    value: 10
+}, {
+    county: "Stokes, NC",
+    value: 10
+}, {
+    county: "Forsyth, NC",
+    value: 10
+}, {
+    county: "Davidson, NC",
+    value: 10
+}, {
+    county: "Stanly, NC",
+    value: 10
+}, {
+    county: "Cabarrus, NC",
+    value: 10
+}, {
+    county: "Union, NC",
+    value: 10
+}, {
+    county: "Anson, NC",
+    value: 10
+}, {
+    county: "Rockingham, NC",
+    value: 10
+}, {
+    county: "Guilford, NC",
+    value: 10
+}, {
+    county: "Randolph, NC",
+    value: 10
+}, {
+    county: "Montgomery, NC",
+    value: 10
+}, {
+    county: "Richmond, NC",
+    value: 10
+}, {
+    county: "Scotland, NC",
+    value: 10
+}, {
+    county: "Caswell, NC",
+    value: 10
+}, {
+    county: "Alamance, NC",
+    value: 10
+}, {
+    county: "Moore, NC",
+    value: 10
+}, {
+    county: "Hoke, NC",
+    value: 10
+}, {
+    county: "Robeson, NC",
+    value: 10
+}, {
+    county: "Columbus, NC",
+    value: 10
+}, {
+    county: "Brunswick, NC",
+    value: 10
+}, {
+    county: "New Hanover, NC",
+    value: 10
+}, {
+    county: "Bladen, NC",
+    value: 10
+}, {
+    county: "Cumberland, NC",
+    value: 10
+}, {
+    county: "Chatham, NC",
+    value: 10
+}, {
+    county: "Harnett, NC",
+    value: 10
+}, {
+    county: "Lee, NC",
+    value: 10
+}, {
+    county: "Orange, NC",
+    value: 10
+}, {
+    county: "Person, NC",
+    value: 10
+}, {
+    county: "Durham, NC",
+    value: 10
+}, {
+    county: "Pender, NC",
+    value: 10
+}, {
+    county: "Sampson, NC",
+    value: 10
+}, {
+    county: "Wayne, NC",
+    value: 10
+}, {
+    county: "Johnston, NC",
+    value: 10
+}, {
+    county: "Wake, NC",
+    value: 10
+}, {
+    county: "Granville, NC",
+    value: 10
+}, {
+    county: "Vance, NC",
+    value: 10
+}, {
+    county: "Warren, NC",
+    value: 10
+}, {
+    county: "Franklin, NC",
+    value: 10
+}, {
+    county: "Nash, NC",
+    value: 10
+}, {
+    county: "Northampton, NC",
+    value: 10
+}, {
+    county: "Halifax, NC",
+    value: 10
+}, {
+    county: "Edgecombe, NC",
+    value: 10
+}, {
+    county: "Wilson, NC",
+    value: 10
+}, {
+    county: "Greene, NC",
+    value: 10
+}, {
+    county: "Lenoir, NC",
+    value: 10
+}, {
+    county: "Jones, NC",
+    value: 10
+}, {
+    county: "Duplin, NC",
+    value: 10
+}, {
+    county: "Onslow, NC",
+    value: 10
+}, {
+    county: "Carteret, NC",
+    value: 10
+}, {
+    county: "Pamlico, NC",
+    value: 10
+}, {
+    county: "Craven, NC",
+    value: 10
+}, {
+    county: "Pitt, NC",
+    value: 10
+}, {
+    county: "Martin, NC",
+    value: 10
+}, {
+    county: "Chowan, NC",
+    value: 10
+}, {
+    county: "Hertford, NC",
+    value: 10
+}, {
+    county: "Bertie, NC",
+    value: 10
+}, {
+    county: "Gates, NC",
+    value: 10
+}, {
+    county: "Camden, NC",
+    value: 10
+}, {
+    county: "Pasquotank, NC",
+    value: 10
+}, {
+    county: "Perquimans, NC",
+    value: 10
+}, {
+    county: "Beaufort, NC",
+    value: 10
+}, {
+    county: "Washington, NC",
+    value: 10
+}, {
+    county: "Tyrrell, NC",
+    value: 10
+}, {
+    county: "Dare, NC",
+    value: 10
+}, {
+    county: "Currituck, NC",
+    value: 10
+}, {
+    county: "Hyde, NC",
+    value: 10
+}, {
+    county: "Cass, ND",
+    value: 10
+}, {
+    county: "Richland, ND",
+    value: 10
+}, {
+    county: "Burke, ND",
+    value: 10
+}, {
+    county: "Divide, ND",
+    value: 10
+}, {
+    county: "Williams, ND",
+    value: 10
+}, {
+    county: "Mountrail, ND",
+    value: 10
+}, {
+    county: "McKenzie, ND",
+    value: 10
+}, {
+    county: "Dunn, ND",
+    value: 10
+}, {
+    county: "Stark, ND",
+    value: 10
+}, {
+    county: "Golden Valley, ND",
+    value: 10
+}, {
+    county: "Billings, ND",
+    value: 10
+}, {
+    county: "Bowman, ND",
+    value: 10
+}, {
+    county: "Slope, ND",
+    value: 10
+}, {
+    county: "Hettinger, ND",
+    value: 10
+}, {
+    county: "Adams, ND",
+    value: 10
+}, {
+    county: "Mercer, ND",
+    value: 10
+}, {
+    county: "Grant, ND",
+    value: 10
+}, {
+    county: "Sioux, ND",
+    value: 10
+}, {
+    county: "Morton, ND",
+    value: 10
+}, {
+    county: "Oliver, ND",
+    value: 10
+}, {
+    county: "Renville, ND",
+    value: 10
+}, {
+    county: "Ward, ND",
+    value: 10
+}, {
+    county: "McLean, ND",
+    value: 10
+}, {
+    county: "Bottineau, ND",
+    value: 10
+}, {
+    county: "McHenry, ND",
+    value: 10
+}, {
+    county: "Sheridan, ND",
+    value: 10
+}, {
+    county: "Burleigh, ND",
+    value: 10
+}, {
+    county: "Emmons, ND",
+    value: 10
+}, {
+    county: "McIntosh, ND",
+    value: 10
+}, {
+    county: "Logan, ND",
+    value: 10
+}, {
+    county: "Kidder, ND",
+    value: 10
+}, {
+    county: "Wells, ND",
+    value: 10
+}, {
+    county: "Pierce, ND",
+    value: 10
+}, {
+    county: "Rolette, ND",
+    value: 10
+}, {
+    county: "Towner, ND",
+    value: 10
+}, {
+    county: "Benson, ND",
+    value: 10
+}, {
+    county: "Eddy, ND",
+    value: 10
+}, {
+    county: "Foster, ND",
+    value: 10
+}, {
+    county: "Stutsman, ND",
+    value: 10
+}, {
+    county: "LaMoure, ND",
+    value: 10
+}, {
+    county: "Dickey, ND",
+    value: 10
+}, {
+    county: "Sargent, ND",
+    value: 10
+}, {
+    county: "Ransom, ND",
+    value: 10
+}, {
+    county: "Barnes, ND",
+    value: 10
+}, {
+    county: "Griggs, ND",
+    value: 10
+}, {
+    county: "Steele, ND",
+    value: 10
+}, {
+    county: "Nelson, ND",
+    value: 10
+}, {
+    county: "Ramsey, ND",
+    value: 10
+}, {
+    county: "Cavalier, ND",
+    value: 10
+}, {
+    county: "Pembina, ND",
+    value: 10
+}, {
+    county: "Walsh, ND",
+    value: 10
+}, {
+    county: "Grand Forks, ND",
+    value: 10
+}, {
+    county: "Traill, ND",
+    value: 10
+}, {
+    county: "Dawes, NE",
+    value: 10
+}, {
+    county: "Sioux, NE",
+    value: 10
+}, {
+    county: "Richardson, NE",
+    value: 10
+}, {
+    county: "Pawnee, NE",
+    value: 10
+}, {
+    county: "Nemaha, NE",
+    value: 10
+}, {
+    county: "Johnson, NE",
+    value: 10
+}, {
+    county: "Otoe, NE",
+    value: 10
+}, {
+    county: "Cass, NE",
+    value: 10
+}, {
+    county: "Sarpy, NE",
+    value: 10
+}, {
+    county: "Douglas, NE",
+    value: 10
+}, {
+    county: "Washington, NE",
+    value: 10
+}, {
+    county: "Burt, NE",
+    value: 10
+}, {
+    county: "Thurston, NE",
+    value: 10
+}, {
+    county: "Dakota, NE",
+    value: 10
+}, {
+    county: "Dixon, NE",
+    value: 10
+}, {
+    county: "Wayne, NE",
+    value: 10
+}, {
+    county: "Pierce, NE",
+    value: 10
+}, {
+    county: "Cedar, NE",
+    value: 10
+}, {
+    county: "Knox, NE",
+    value: 10
+}, {
+    county: "Dodge, NE",
+    value: 10
+}, {
+    county: "Colfax, NE",
+    value: 10
+}, {
+    county: "Cuming, NE",
+    value: 10
+}, {
+    county: "Stanton, NE",
+    value: 10
+}, {
+    county: "Madison, NE",
+    value: 10
+}, {
+    county: "Antelope, NE",
+    value: 10
+}, {
+    county: "Boone, NE",
+    value: 10
+}, {
+    county: "Platte, NE",
+    value: 10
+}, {
+    county: "Saunders, NE",
+    value: 10
+}, {
+    county: "Seward, NE",
+    value: 10
+}, {
+    county: "Butler, NE",
+    value: 10
+}, {
+    county: "Polk, NE",
+    value: 10
+}, {
+    county: "York, NE",
+    value: 10
+}, {
+    county: "Hamilton, NE",
+    value: 10
+}, {
+    county: "Nance, NE",
+    value: 10
+}, {
+    county: "Merrick, NE",
+    value: 10
+}, {
+    county: "Hall, NE",
+    value: 10
+}, {
+    county: "Howard, NE",
+    value: 10
+}, {
+    county: "Sherman, NE",
+    value: 10
+}, {
+    county: "Boyd, NE",
+    value: 10
+}, {
+    county: "Holt, NE",
+    value: 10
+}, {
+    county: "Valley, NE",
+    value: 10
+}, {
+    county: "Greeley, NE",
+    value: 10
+}, {
+    county: "Wheeler, NE",
+    value: 10
+}, {
+    county: "Garfield, NE",
+    value: 10
+}, {
+    county: "Loup, NE",
+    value: 10
+}, {
+    county: "Rock, NE",
+    value: 10
+}, {
+    county: "Keya Paha, NE",
+    value: 10
+}, {
+    county: "Brown, NE",
+    value: 10
+}, {
+    county: "Blaine, NE",
+    value: 10
+}, {
+    county: "Custer, NE",
+    value: 10
+}, {
+    county: "Buffalo, NE",
+    value: 10
+}, {
+    county: "Dawson, NE",
+    value: 10
+}, {
+    county: "Phelps, NE",
+    value: 10
+}, {
+    county: "Kearney, NE",
+    value: 10
+}, {
+    county: "Adams, NE",
+    value: 10
+}, {
+    county: "Clay, NE",
+    value: 10
+}, {
+    county: "Fillmore, NE",
+    value: 10
+}, {
+    county: "Saline, NE",
+    value: 10
+}, {
+    county: "Lancaster, NE",
+    value: 10
+}, {
+    county: "Gage, NE",
+    value: 10
+}, {
+    county: "Jefferson, NE",
+    value: 10
+}, {
+    county: "Thayer, NE",
+    value: 10
+}, {
+    county: "Nuckolls, NE",
+    value: 10
+}, {
+    county: "Webster, NE",
+    value: 10
+}, {
+    county: "Franklin, NE",
+    value: 10
+}, {
+    county: "Harlan, NE",
+    value: 10
+}, {
+    county: "Gosper, NE",
+    value: 10
+}, {
+    county: "Furnas, NE",
+    value: 10
+}, {
+    county: "Red Willow, NE",
+    value: 10
+}, {
+    county: "Hitchcock, NE",
+    value: 10
+}, {
+    county: "Dundy, NE",
+    value: 10
+}, {
+    county: "Frontier, NE",
+    value: 10
+}, {
+    county: "Hayes, NE",
+    value: 10
+}, {
+    county: "Chase, NE",
+    value: 10
+}, {
+    county: "Perkins, NE",
+    value: 10
+}, {
+    county: "Lincoln, NE",
+    value: 10
+}, {
+    county: "Keith, NE",
+    value: 10
+}, {
+    county: "Logan, NE",
+    value: 10
+}, {
+    county: "McPherson, NE",
+    value: 10
+}, {
+    county: "Arthur, NE",
+    value: 10
+}, {
+    county: "Thomas, NE",
+    value: 10
+}, {
+    county: "Hooker, NE",
+    value: 10
+}, {
+    county: "Grant, NE",
+    value: 10
+}, {
+    county: "Deuel, NE",
+    value: 10
+}, {
+    county: "Garden, NE",
+    value: 10
+}, {
+    county: "Cheyenne, NE",
+    value: 10
+}, {
+    county: "Morrill, NE",
+    value: 10
+}, {
+    county: "Kimball, NE",
+    value: 10
+}, {
+    county: "Banner, NE",
+    value: 10
+}, {
+    county: "Scotts Bluff, NE",
+    value: 10
+}, {
+    county: "Box Butte, NE",
+    value: 10
+}, {
+    county: "Cherry, NE",
+    value: 10
+}, {
+    county: "Sheridan, NE",
+    value: 10
+}, {
+    county: "Coos, NH",
+    value: 10
+}, {
+    county: "Grafton, NH",
+    value: 10
+}, {
+    county: "Strafford, NH",
+    value: 10
+}, {
+    county: "Rockingham, NH",
+    value: 10
+}, {
+    county: "Cheshire, NH",
+    value: 10
+}, {
+    county: "Sullivan, NH",
+    value: 10
+}, {
+    county: "Hillsborough, NH",
+    value: 10
+}, {
+    county: "Belknap, NH",
+    value: 10
+}, {
+    county: "Merrimack, NH",
+    value: 10
+}, {
+    county: "Carroll, NH",
+    value: 10
+}, {
+    county: "Monmouth, NJ",
+    value: 10
+}, {
+    county: "Ocean, NJ",
+    value: 10
+}, {
+    county: "Richmond, NY",
+    value: 10
+}, {
+    county: "Essex, NJ",
+    value: 10
+}, {
+    county: "Union, NJ",
+    value: 10
+}, {
+    county: "Hudson, NJ",
+    value: 10
+}, {
+    county: "Bergen, NJ",
+    value: 10
+}, {
+    county: "Middlesex, NJ",
+    value: 10
+}, {
+    county: "Somerset, NJ",
+    value: 10
+}, {
+    county: "Morris, NJ",
+    value: 10
+}, {
+    county: "Passaic, NJ",
+    value: 10
+}, {
+    county: "Sussex, NJ",
+    value: 10
+}, {
+    county: "Warren, NJ",
+    value: 10
+}, {
+    county: "Hunterdon, NJ",
+    value: 10
+}, {
+    county: "Mercer, NJ",
+    value: 10
+}, {
+    county: "Camden, NJ",
+    value: 10
+}, {
+    county: "Gloucester, NJ",
+    value: 10
+}, {
+    county: "Salem, NJ",
+    value: 10
+}, {
+    county: "Cumberland, NJ",
+    value: 10
+}, {
+    county: "Cape May, NJ",
+    value: 10
+}, {
+    county: "Atlantic, NJ",
+    value: 10
+}, {
+    county: "Burlington, NJ",
+    value: 10
+}, {
+    county: "Lea, NM",
+    value: 10
+}, {
+    county: "Eddy, NM",
+    value: 10
+}, {
+    county: "Los Alamos, NM",
+    value: 10
+}, {
+    county: "Rio Arriba, NM",
+    value: 10
+}, {
+    county: "San Juan, NM",
+    value: 10
+}, {
+    county: "McKinely, NM",
+    value: 10
+}, {
+    county: "Bernalillo, NM",
+    value: 10
+}, {
+    county: "Valencia, NM",
+    value: 10
+}, {
+    county: "Cibola, NM",
+    value: 10
+}, {
+    county: "Sierra, NM",
+    value: 10
+}, {
+    county: "Socorro, NM",
+    value: 10
+}, {
+    county: "Catron, NM",
+    value: 10
+}, {
+    county: "Grant, NM",
+    value: 10
+}, {
+    county: "Hidalgo, NM",
+    value: 10
+}, {
+    county: "Luna, NM",
+    value: 10
+}, {
+    county: "Dona Ana, NM",
+    value: 10
+}, {
+    county: "Taos, NM",
+    value: 10
+}, {
+    county: "Santa Fe, NM",
+    value: 10
+}, {
+    county: "Otero, NM",
+    value: 10
+}, {
+    county: "Torrance, NM",
+    value: 10
+}, {
+    county: "Lincoln, NM",
+    value: 10
+}, {
+    county: "Colfax, NM",
+    value: 10
+}, {
+    county: "Mora, NM",
+    value: 10
+}, {
+    county: "Union, NM",
+    value: 10
+}, {
+    county: "Harding, NM",
+    value: 10
+}, {
+    county: "San Miguel, NM",
+    value: 10
+}, {
+    county: "Quay, NM",
+    value: 10
+}, {
+    county: "Guadelupe, NM",
+    value: 10
+}, {
+    county: "De Baca, NM",
+    value: 10
+}, {
+    county: "Curry, NM",
+    value: 10
+}, {
+    county: "Roosevelt, NM",
+    value: 10
+}, {
+    county: "Chaves, NM",
+    value: 10
+}, {
+    county: "Sandoval, NM",
+    value: 10
+}, {
+    county: "Elko, NV",
+    value: 10
+}, {
+    county: "White Pine, NV",
+    value: 10
+}, {
+    county: "Clark, NV",
+    value: 10
+}, {
+    county: "Lincoln, NV",
+    value: 10
+}, {
+    county: "Esmeralda, NV",
+    value: 10
+}, {
+    county: "Nye, NV",
+    value: 10
+}, {
+    county: "Eureka, NV",
+    value: 10
+}, {
+    county: "Lander, NV",
+    value: 10
+}, {
+    county: "Mineral, NV",
+    value: 10
+}, {
+    county: "Douglas, NV",
+    value: 10
+}, {
+    county: "Carson City, NV",
+    value: 10
+}, {
+    county: "Lyon, NV",
+    value: 10
+}, {
+    county: "Churchill, NV",
+    value: 10
+}, {
+    county: "Pershing, NV",
+    value: 10
+}, {
+    county: "Storey, NV",
+    value: 10
+}, {
+    county: "Washoe, NV",
+    value: 10
+}, {
+    county: "Humboldt, NV",
+    value: 10
+}, {
+    county: "Clinton, NY",
+    value: 10
+}, {
+    county: "Essex, NY",
+    value: 10
+}, {
+    county: "Orleans, NY",
+    value: 10
+}, {
+    county: "Genesee, NY",
+    value: 10
+}, {
+    county: "Wyoming, NY",
+    value: 10
+}, {
+    county: "Livingston, NY",
+    value: 10
+}, {
+    county: "Schenectady, NY",
+    value: 10
+}, {
+    county: "Montgomery, NY",
+    value: 10
+}, {
+    county: "Fulton, NY",
+    value: 10
+}, {
+    county: "Seneca, NY",
+    value: 10
+}, {
+    county: "Ontario, NY",
+    value: 10
+}, {
+    county: "Yates, NY",
+    value: 10
+}, {
+    county: "Schuyler, NY",
+    value: 10
+}, {
+    county: "Tompkins, NY",
+    value: 10
+}, {
+    county: "Cayuga, NY",
+    value: 10
+}, {
+    county: "Onondaga, NY",
+    value: 10
+}, {
+    county: "Cortland, NY",
+    value: 10
+}, {
+    county: "Chenango, NY",
+    value: 10
+}, {
+    county: "Madison, NY",
+    value: 10
+}, {
+    county: "Oneida, NY",
+    value: 10
+}, {
+    county: "Lewis, NY",
+    value: 10
+}, {
+    county: "Herkimer, NY",
+    value: 10
+}, {
+    county: "Otsego, NY",
+    value: 10
+}, {
+    county: "Schoharie, NY",
+    value: 10
+}, {
+    county: "Albany, NY",
+    value: 10
+}, {
+    county: "Saratoga, NY",
+    value: 10
+}, {
+    county: "Warren, NY",
+    value: 10
+}, {
+    county: "Hamilton, NY",
+    value: 10
+}, {
+    county: "Franklin, NY",
+    value: 10
+}, {
+    county: "St. Lawrence, NY",
+    value: 10
+}, {
+    county: "Jefferson, NY",
+    value: 10
+}, {
+    county: "Oswego, NY",
+    value: 10
+}, {
+    county: "Wayne, NY",
+    value: 10
+}, {
+    county: "Monroe, NY",
+    value: 10
+}, {
+    county: "Niagara, NY",
+    value: 10
+}, {
+    county: "Erie, NY",
+    value: 10
+}, {
+    county: "Chautauqua, NY",
+    value: 10
+}, {
+    county: "Cattaraugus, NY",
+    value: 10
+}, {
+    county: "Allegany, NY",
+    value: 10
+}, {
+    county: "Steuben, NY",
+    value: 10
+}, {
+    county: "Chemung, NY",
+    value: 10
+}, {
+    county: "Tioga, NY",
+    value: 10
+}, {
+    county: "Broome, NY",
+    value: 10
+}, {
+    county: "Delaware, NY",
+    value: 10
+}, {
+    county: "Sullivan, NY",
+    value: 10
+}, {
+    county: "Greene, NY",
+    value: 10
+}, {
+    county: "New York, NY",
+    value: 10
+}, {
+    county: "Ulster, NY",
+    value: 10
+}, {
+    county: "Bronx, NY",
+    value: 10
+}, {
+    county: "Kings, NY",
+    value: 10
+}, {
+    county: "Rockland, NY",
+    value: 10
+}, {
+    county: "Nassau, NY",
+    value: 10
+}, {
+    county: "Orange, NY",
+    value: 10
+}, {
+    county: "Queens, NY",
+    value: 10
+}, {
+    county: "Suffolk, NY",
+    value: 10
+}, {
+    county: "Westchester, NY",
+    value: 10
+}, {
+    county: "Putnam, NY",
+    value: 10
+}, {
+    county: "Dutchess, NY",
+    value: 10
+}, {
+    county: "Columbia, NY",
+    value: 10
+}, {
+    county: "Rensselaer, NY",
+    value: 10
+}, {
+    county: "Washington, NY",
+    value: 10
+}, {
+    county: "Trumbull, OH",
+    value: 10
+}, {
+    county: "Ashtabula, OH",
+    value: 10
+}, {
+    county: "Lawrence, OH",
+    value: 10
+}, {
+    county: "Scioto, OH",
+    value: 10
+}, {
+    county: "Adams, OH",
+    value: 10
+}, {
+    county: "Pike, OH",
+    value: 10
+}, {
+    county: "Jackson, OH",
+    value: 10
+}, {
+    county: "Gallia, OH",
+    value: 10
+}, {
+    county: "Meigs, OH",
+    value: 10
+}, {
+    county: "Vinton, OH",
+    value: 10
+}, {
+    county: "Washington, OH",
+    value: 10
+}, {
+    county: "Athens, OH",
+    value: 10
+}, {
+    county: "Hocking, OH",
+    value: 10
+}, {
+    county: "Ross, OH",
+    value: 10
+}, {
+    county: "Highland, OH",
+    value: 10
+}, {
+    county: "Brown, OH",
+    value: 10
+}, {
+    county: "Clermont, OH",
+    value: 10
+}, {
+    county: "Hamilton, OH",
+    value: 10
+}, {
+    county: "Clinton, OH",
+    value: 10
+}, {
+    county: "Warren, OH",
+    value: 10
+}, {
+    county: "Butler, OH",
+    value: 10
+}, {
+    county: "Preble, OH",
+    value: 10
+}, {
+    county: "Montgomery, OH",
+    value: 10
+}, {
+    county: "Greene, OH",
+    value: 10
+}, {
+    county: "Fayette, OH",
+    value: 10
+}, {
+    county: "Pickaway, OH",
+    value: 10
+}, {
+    county: "Fairfield, OH",
+    value: 10
+}, {
+    county: "Perry, OH",
+    value: 10
+}, {
+    county: "Monroe, OH",
+    value: 10
+}, {
+    county: "Noble, OH",
+    value: 10
+}, {
+    county: "Morgan, OH",
+    value: 10
+}, {
+    county: "Muskingum, OH",
+    value: 10
+}, {
+    county: "Belmont, OH",
+    value: 10
+}, {
+    county: "Harrison, OH",
+    value: 10
+}, {
+    county: "Guernsey, OH",
+    value: 10
+}, {
+    county: "Coshocton, OH",
+    value: 10
+}, {
+    county: "Licking, OH",
+    value: 10
+}, {
+    county: "Delaware, OH",
+    value: 10
+}, {
+    county: "Franklin, OH",
+    value: 10
+}, {
+    county: "Madison, OH",
+    value: 10
+}, {
+    county: "Clark, OH",
+    value: 10
+}, {
+    county: "Champaign, OH",
+    value: 10
+}, {
+    county: "Miami, OH",
+    value: 10
+}, {
+    county: "Shelby, OH",
+    value: 10
+}, {
+    county: "Darke, OH",
+    value: 10
+}, {
+    county: "Mercer, OH",
+    value: 10
+}, {
+    county: "Auglaize, OH",
+    value: 10
+}, {
+    county: "Logan, OH",
+    value: 10
+}, {
+    county: "Union, OH",
+    value: 10
+}, {
+    county: "Marion, OH",
+    value: 10
+}, {
+    county: "Morrow, OH",
+    value: 10
+}, {
+    county: "Knox, OH",
+    value: 10
+}, {
+    county: "Holmes, OH",
+    value: 10
+}, {
+    county: "Tuscarawas, OH",
+    value: 10
+}, {
+    county: "Carroll, OH",
+    value: 10
+}, {
+    county: "Jefferson, OH",
+    value: 10
+}, {
+    county: "Columbiana, OH",
+    value: 10
+}, {
+    county: "Stark, OH",
+    value: 10
+}, {
+    county: "Wayne, OH",
+    value: 10
+}, {
+    county: "Ashland, OH",
+    value: 10
+}, {
+    county: "Richland, OH",
+    value: 10
+}, {
+    county: "Crawford, OH",
+    value: 10
+}, {
+    county: "Wyandot, OH",
+    value: 10
+}, {
+    county: "Hardin, OH",
+    value: 10
+}, {
+    county: "Allen, OH",
+    value: 10
+}, {
+    county: "Hancock, OH",
+    value: 10
+}, {
+    county: "Putnam, OH",
+    value: 10
+}, {
+    county: "Van Wert, OH",
+    value: 10
+}, {
+    county: "Mahoning, OH",
+    value: 10
+}, {
+    county: "Portage, OH",
+    value: 10
+}, {
+    county: "Summit, OH",
+    value: 10
+}, {
+    county: "Medina, OH",
+    value: 10
+}, {
+    county: "Huron, OH",
+    value: 10
+}, {
+    county: "Seneca, OH",
+    value: 10
+}, {
+    county: "Sandusky, OH",
+    value: 10
+}, {
+    county: "Wood, OH",
+    value: 10
+}, {
+    county: "Henry, OH",
+    value: 10
+}, {
+    county: "Paulding, OH",
+    value: 10
+}, {
+    county: "Defiance, OH",
+    value: 10
+}, {
+    county: "Geauga, OH",
+    value: 10
+}, {
+    county: "Lake, OH",
+    value: 10
+}, {
+    county: "Cuyahoga, OH",
+    value: 10
+}, {
+    county: "Lorain, OH",
+    value: 10
+}, {
+    county: "Erie, OH",
+    value: 10
+}, {
+    county: "Ottawa, OH",
+    value: 10
+}, {
+    county: "Lucas, OH",
+    value: 10
+}, {
+    county: "Fulton, OH",
+    value: 10
+}, {
+    county: "Williams, OH",
+    value: 10
+}, {
+    county: "Texas, OK",
+    value: 10
+}, {
+    county: "Cimarron, OK",
+    value: 10
+}, {
+    county: "Ottawa, OK",
+    value: 10
+}, {
+    county: "Craig, OK",
+    value: 10
+}, {
+    county: "Mayes, OK",
+    value: 10
+}, {
+    county: "Delaware, OK",
+    value: 10
+}, {
+    county: "Adair, OK",
+    value: 10
+}, {
+    county: "Cherokee, OK",
+    value: 10
+}, {
+    county: "Sequoyah, OK",
+    value: 10
+}, {
+    county: "Haskell, OK",
+    value: 10
+}, {
+    county: "Le Flore, OK",
+    value: 10
+}, {
+    county: "Latimer, OK",
+    value: 10
+}, {
+    county: "Pittsburg, OK",
+    value: 10
+}, {
+    county: "Coal, OK",
+    value: 10
+}, {
+    county: "Atoka, OK",
+    value: 10
+}, {
+    county: "Pushmataha, OK",
+    value: 10
+}, {
+    county: "McCurtain, OK",
+    value: 10
+}, {
+    county: "Choctaw, OK",
+    value: 10
+}, {
+    county: "Bryan, OK",
+    value: 10
+}, {
+    county: "Marshall, OK",
+    value: 10
+}, {
+    county: "Johnston, OK",
+    value: 10
+}, {
+    county: "Pontotoc, OK",
+    value: 10
+}, {
+    county: "Garvin, OK",
+    value: 10
+}, {
+    county: "Murray, OK",
+    value: 10
+}, {
+    county: "Love, OK",
+    value: 10
+}, {
+    county: "Carter, OK",
+    value: 10
+}, {
+    county: "Jefferson, OK",
+    value: 10
+}, {
+    county: "Stephens, OK",
+    value: 10
+}, {
+    county: "Cotton, OK",
+    value: 10
+}, {
+    county: "Comanche, OK",
+    value: 10
+}, {
+    county: "Tillman, OK",
+    value: 10
+}, {
+    county: "Jackson, OK",
+    value: 10
+}, {
+    county: "Kiowa, OK",
+    value: 10
+}, {
+    county: "Greer, OK",
+    value: 10
+}, {
+    county: "Harmon, OK",
+    value: 10
+}, {
+    county: "Muskogee, OK",
+    value: 10
+}, {
+    county: "McIntosh, OK",
+    value: 10
+}, {
+    county: "Hughes, OK",
+    value: 10
+}, {
+    county: "Seminole, OK",
+    value: 10
+}, {
+    county: "Pottawatomie, OK",
+    value: 10
+}, {
+    county: "Cleveland, OK",
+    value: 10
+}, {
+    county: "McClain, OK",
+    value: 10
+}, {
+    county: "Grady, OK",
+    value: 10
+}, {
+    county: "Caddo, OK",
+    value: 10
+}, {
+    county: "Canadian, OK",
+    value: 10
+}, {
+    county: "Oklahoma, OK",
+    value: 10
+}, {
+    county: "Lincoln, OK",
+    value: 10
+}, {
+    county: "Okfuskee, OK",
+    value: 10
+}, {
+    county: "Okmulgee, OK",
+    value: 10
+}, {
+    county: "Wagoner, OK",
+    value: 10
+}, {
+    county: "Rogers, OK",
+    value: 10
+}, {
+    county: "Nowata, OK",
+    value: 10
+}, {
+    county: "Washington, OK",
+    value: 10
+}, {
+    county: "Tulsa, OK",
+    value: 10
+}, {
+    county: "Creek, OK",
+    value: 10
+}, {
+    county: "Payne, OK",
+    value: 10
+}, {
+    county: "Logan, OK",
+    value: 10
+}, {
+    county: "Kingfisher, OK",
+    value: 10
+}, {
+    county: "Blaine, OK",
+    value: 10
+}, {
+    county: "Washita, OK",
+    value: 10
+}, {
+    county: "Beckham, OK",
+    value: 10
+}, {
+    county: "Custer, OK",
+    value: 10
+}, {
+    county: "Dewey, OK",
+    value: 10
+}, {
+    county: "Roger Mills, OK",
+    value: 10
+}, {
+    county: "Ellis, OK",
+    value: 10
+}, {
+    county: "Woodward, OK",
+    value: 10
+}, {
+    county: "Major, OK",
+    value: 10
+}, {
+    county: "Garfield, OK",
+    value: 10
+}, {
+    county: "Noble, OK",
+    value: 10
+}, {
+    county: "Pawnee, OK",
+    value: 10
+}, {
+    county: "Osage, OK",
+    value: 10
+}, {
+    county: "Kay, OK",
+    value: 10
+}, {
+    county: "Grant, OK",
+    value: 10
+}, {
+    county: "Alfalfa, OK",
+    value: 10
+}, {
+    county: "Woods, OK",
+    value: 10
+}, {
+    county: "Harper, OK",
+    value: 10
+}, {
+    county: "Beaver, OK",
+    value: 10
+}, {
+    county: "Clatsop, OR",
+    value: 10
+}, {
+    county: "Columbia, OR",
+    value: 10
+}, {
+    county: "Curry, OR",
+    value: 10
+}, {
+    county: "Coos, OR",
+    value: 10
+}, {
+    county: "Josephine, OR",
+    value: 10
+}, {
+    county: "Jackson, OR",
+    value: 10
+}, {
+    county: "Douglas, OR",
+    value: 10
+}, {
+    county: "Klamath, OR",
+    value: 10
+}, {
+    county: "Lake, OR",
+    value: 10
+}, {
+    county: "Harney, OR",
+    value: 10
+}, {
+    county: "Malheur, OR",
+    value: 10
+}, {
+    county: "Baker, OR",
+    value: 10
+}, {
+    county: "Wallowa, OR",
+    value: 10
+}, {
+    county: "Union, OR",
+    value: 10
+}, {
+    county: "Grant, OR",
+    value: 10
+}, {
+    county: "Wheeler, OR",
+    value: 10
+}, {
+    county: "Crook, OR",
+    value: 10
+}, {
+    county: "Deschutes, OR",
+    value: 10
+}, {
+    county: "Jefferson, OR",
+    value: 10
+}, {
+    county: "Linn, OR",
+    value: 10
+}, {
+    county: "Lane, OR",
+    value: 10
+}, {
+    county: "Benton, OR",
+    value: 10
+}, {
+    county: "Lincoln, OR",
+    value: 10
+}, {
+    county: "Polk, OR",
+    value: 10
+}, {
+    county: "Yamhill, OR",
+    value: 10
+}, {
+    county: "Marion, OR",
+    value: 10
+}, {
+    county: "Clackamas, OR",
+    value: 10
+}, {
+    county: "Umatilla, OR",
+    value: 10
+}, {
+    county: "Morrow, OR",
+    value: 10
+}, {
+    county: "Gilliam, OR",
+    value: 10
+}, {
+    county: "Sherman, OR",
+    value: 10
+}, {
+    county: "Wasco, OR",
+    value: 10
+}, {
+    county: "Hood River, OR",
+    value: 10
+}, {
+    county: "Multnomah, OR",
+    value: 10
+}, {
+    county: "Washington, OR",
+    value: 10
+}, {
+    county: "Tillamook, OR",
+    value: 10
+}, {
+    county: "Philadelphia, PA",
+    value: 10
+}, {
+    county: "Bucks, PA",
+    value: 10
+}, {
+    county: "Greene, PA",
+    value: 10
+}, {
+    county: "Fayette, PA",
+    value: 10
+}, {
+    county: "Washington, PA",
+    value: 10
+}, {
+    county: "Allegheny, PA",
+    value: 10
+}, {
+    county: "Beaver, PA",
+    value: 10
+}, {
+    county: "Lawrence, PA",
+    value: 10
+}, {
+    county: "Butler, PA",
+    value: 10
+}, {
+    county: "Armstrong, PA",
+    value: 10
+}, {
+    county: "Clarion, PA",
+    value: 10
+}, {
+    county: "Forest, PA",
+    value: 10
+}, {
+    county: "Venango, PA",
+    value: 10
+}, {
+    county: "Mercer, PA",
+    value: 10
+}, {
+    county: "Crawford, PA",
+    value: 10
+}, {
+    county: "Erie, PA",
+    value: 10
+}, {
+    county: "Westmoreland, PA",
+    value: 10
+}, {
+    county: "Indiana, PA",
+    value: 10
+}, {
+    county: "Jefferson, PA",
+    value: 10
+}, {
+    county: "Warren, PA",
+    value: 10
+}, {
+    county: "McKean, PA",
+    value: 10
+}, {
+    county: "Cameron, PA",
+    value: 10
+}, {
+    county: "Elk, PA",
+    value: 10
+}, {
+    county: "Clearfield, PA",
+    value: 10
+}, {
+    county: "Blair, PA",
+    value: 10
+}, {
+    county: "Cambria, PA",
+    value: 10
+}, {
+    county: "Somerset, PA",
+    value: 10
+}, {
+    county: "Bedford, PA",
+    value: 10
+}, {
+    county: "Fulton, PA",
+    value: 10
+}, {
+    county: "Huntingdon, PA",
+    value: 10
+}, {
+    county: "Franklin, PA",
+    value: 10
+}, {
+    county: "Mifflin, PA",
+    value: 10
+}, {
+    county: "Potter, PA",
+    value: 10
+}, {
+    county: "Clinton, PA",
+    value: 10
+}, {
+    county: "Centre, PA",
+    value: 10
+}, {
+    county: "Union, PA",
+    value: 10
+}, {
+    county: "Montour, PA",
+    value: 10
+}, {
+    county: "Tioga, PA",
+    value: 10
+}, {
+    county: "Lycoming, PA",
+    value: 10
+}, {
+    county: "Wyoming, PA",
+    value: 10
+}, {
+    county: "Sullivan, PA",
+    value: 10
+}, {
+    county: "Columbia, PA",
+    value: 10
+}, {
+    county: "Northumberland, PA",
+    value: 10
+}, {
+    county: "Snyder, PA",
+    value: 10
+}, {
+    county: "Juniata, PA",
+    value: 10
+}, {
+    county: "Perry, PA",
+    value: 10
+}, {
+    county: "Cumberland, PA",
+    value: 10
+}, {
+    county: "Adams, PA",
+    value: 10
+}, {
+    county: "York, PA",
+    value: 10
+}, {
+    county: "Dauphin, PA",
+    value: 10
+}, {
+    county: "Lebanon, PA",
+    value: 10
+}, {
+    county: "Lancaster, PA",
+    value: 10
+}, {
+    county: "Berks, PA",
+    value: 10
+}, {
+    county: "Schuylkill, PA",
+    value: 10
+}, {
+    county: "Carbon, PA",
+    value: 10
+}, {
+    county: "Luzerne, PA",
+    value: 10
+}, {
+    county: "Lackawanna, PA",
+    value: 10
+}, {
+    county: "Bradford, PA",
+    value: 10
+}, {
+    county: "Susquehanna, PA",
+    value: 10
+}, {
+    county: "Wayne, PA",
+    value: 10
+}, {
+    county: "Pike, PA",
+    value: 10
+}, {
+    county: "Monroe, PA",
+    value: 10
+}, {
+    county: "Northampton, PA",
+    value: 10
+}, {
+    county: "Lehigh, PA",
+    value: 10
+}, {
+    county: "Delaware, PA",
+    value: 10
+}, {
+    county: "Montgomery, PA",
+    value: 10
+}, {
+    county: "Chester, PA",
+    value: 10
+}, {
+    county: "Kent, RI",
+    value: 10
+}, {
+    county: "Providence, RI",
+    value: 10
+}, {
+    county: "Bristol, RI",
+    value: 10
+}, {
+    county: "Newport, RI",
+    value: 10
+}, {
+    county: "Washington, RI",
+    value: 10
+}, {
+    county: "Pickens, SC",
+    value: 10
+}, {
+    county: "Oconee, SC",
+    value: 10
+}, {
+    county: "Beaufort, SC",
+    value: 10
+}, {
+    county: "Hampton, SC",
+    value: 10
+}, {
+    county: "Jasper, SC",
+    value: 10
+}, {
+    county: "Marion, SC",
+    value: 10
+}, {
+    county: "Dillon, SC",
+    value: 10
+}, {
+    county: "Horry, SC",
+    value: 10
+}, {
+    county: "Charleston, SC",
+    value: 10
+}, {
+    county: "Dorchester, SC",
+    value: 10
+}, {
+    county: "Berkeley, SC",
+    value: 10
+}, {
+    county: "Georgetown, SC",
+    value: 10
+}, {
+    county: "Clarendon, SC",
+    value: 10
+}, {
+    county: "Williamsburg, SC",
+    value: 10
+}, {
+    county: "Florence, SC",
+    value: 10
+}, {
+    county: "Marlboro, SC",
+    value: 10
+}, {
+    county: "Darlington, SC",
+    value: 10
+}, {
+    county: "Lee, SC",
+    value: 10
+}, {
+    county: "Kershaw, SC",
+    value: 10
+}, {
+    county: "Sumter, SC",
+    value: 10
+}, {
+    county: "Calhoun, SC",
+    value: 10
+}, {
+    county: "Colleton, SC",
+    value: 10
+}, {
+    county: "Allendale, SC",
+    value: 10
+}, {
+    county: "Bamberg, SC",
+    value: 10
+}, {
+    county: "Orangeburg, SC",
+    value: 10
+}, {
+    county: "Barnwell, SC",
+    value: 10
+}, {
+    county: "Aiken, SC",
+    value: 10
+}, {
+    county: "Lexington, SC",
+    value: 10
+}, {
+    county: "Richland, SC",
+    value: 10
+}, {
+    county: "Fairfield, SC",
+    value: 10
+}, {
+    county: "Newberry, SC",
+    value: 10
+}, {
+    county: "Saluda, SC",
+    value: 10
+}, {
+    county: "Edgefield, SC",
+    value: 10
+}, {
+    county: "McCormick, SC",
+    value: 10
+}, {
+    county: "Greenwood, SC",
+    value: 10
+}, {
+    county: "Laurens, SC",
+    value: 10
+}, {
+    county: "Abbeville, SC",
+    value: 10
+}, {
+    county: "Anderson, SC",
+    value: 10
+}, {
+    county: "Union, SC",
+    value: 10
+}, {
+    county: "Chesterfield, SC",
+    value: 10
+}, {
+    county: "Lancaster, SC",
+    value: 10
+}, {
+    county: "Chester, SC",
+    value: 10
+}, {
+    county: "York, SC",
+    value: 10
+}, {
+    county: "Cherokee, SC",
+    value: 10
+}, {
+    county: "Spartanburg, SC",
+    value: 10
+}, {
+    county: "Greenville, SC",
+    value: 10
+}, {
+    county: "Perkins, SD",
+    value: 10
+}, {
+    county: "Harding, SD",
+    value: 10
+}, {
+    county: "Custer, SD",
+    value: 10
+}, {
+    county: "Fall River, SD",
+    value: 10
+}, {
+    county: "Shannon, SD",
+    value: 10
+}, {
+    county: "Bennett, SD",
+    value: 10
+}, {
+    county: "Mellette, SD",
+    value: 10
+}, {
+    county: "Todd, SD",
+    value: 10
+}, {
+    county: "Tripp, SD",
+    value: 10
+}, {
+    county: "Gregory, SD",
+    value: 10
+}, {
+    county: "Brule, SD",
+    value: 10
+}, {
+    county: "Aurora, SD",
+    value: 10
+}, {
+    county: "Davison, SD",
+    value: 10
+}, {
+    county: "Douglas, SD",
+    value: 10
+}, {
+    county: "Charles Mix, SD",
+    value: 10
+}, {
+    county: "Bon Homme, SD",
+    value: 10
+}, {
+    county: "Yankton, SD",
+    value: 10
+}, {
+    county: "Hutchinson, SD",
+    value: 10
+}, {
+    county: "Hanson, SD",
+    value: 10
+}, {
+    county: "McCook, SD",
+    value: 10
+}, {
+    county: "Turner, SD",
+    value: 10
+}, {
+    county: "Clay, SD",
+    value: 10
+}, {
+    county: "Union, SD",
+    value: 10
+}, {
+    county: "Lincoln, SD",
+    value: 10
+}, {
+    county: "Minnehaha, SD",
+    value: 10
+}, {
+    county: "Lyman, SD",
+    value: 10
+}, {
+    county: "Jones, SD",
+    value: 10
+}, {
+    county: "Jackson, SD",
+    value: 10
+}, {
+    county: "Stanley, SD",
+    value: 10
+}, {
+    county: "Haakon, SD",
+    value: 10
+}, {
+    county: "Pennington, SD",
+    value: 10
+}, {
+    county: "Lawrence, SD",
+    value: 10
+}, {
+    county: "Butte, SD",
+    value: 10
+}, {
+    county: "Meade, SD",
+    value: 10
+}, {
+    county: "Ziebach, SD",
+    value: 10
+}, {
+    county: "Dewey, SD",
+    value: 10
+}, {
+    county: "Walworth, SD",
+    value: 10
+}, {
+    county: "Potter, SD",
+    value: 10
+}, {
+    county: "Sully, SD",
+    value: 10
+}, {
+    county: "Hughes, SD",
+    value: 10
+}, {
+    county: "Buffalo, SD",
+    value: 10
+}, {
+    county: "Jerauld, SD",
+    value: 10
+}, {
+    county: "Sanborn, SD",
+    value: 10
+}, {
+    county: "Miner, SD",
+    value: 10
+}, {
+    county: "Lake, SD",
+    value: 10
+}, {
+    county: "Moody, SD",
+    value: 10
+}, {
+    county: "Brookings, SD",
+    value: 10
+}, {
+    county: "Hamlin, SD",
+    value: 10
+}, {
+    county: "Kingsburg, SD",
+    value: 10
+}, {
+    county: "Beadle, SD",
+    value: 10
+}, {
+    county: "Hyde, SD",
+    value: 10
+}, {
+    county: "Hand, SD",
+    value: 10
+}, {
+    county: "Edmunds, SD",
+    value: 10
+}, {
+    county: "Faulk, SD",
+    value: 10
+}, {
+    county: "Spink, SD",
+    value: 10
+}, {
+    county: "Clark, SD",
+    value: 10
+}, {
+    county: "Codington, SD",
+    value: 10
+}, {
+    county: "Deuel, SD",
+    value: 10
+}, {
+    county: "Grand, SD",
+    value: 10
+}, {
+    county: "Day, SD",
+    value: 10
+}, {
+    county: "Roberts, SD",
+    value: 10
+}, {
+    county: "Marshall, SD",
+    value: 10
+}, {
+    county: "Brown, SD",
+    value: 10
+}, {
+    county: "McPherson, SD",
+    value: 10
+}, {
+    county: "Campbell, SD",
+    value: 10
+}, {
+    county: "Corson, SD",
+    value: 10
+}, {
+    county: "Sullivan, TN",
+    value: 10
+}, {
+    county: "Johnson, TN",
+    value: 10
+}, {
+    county: "McNairy, TN",
+    value: 10
+}, {
+    county: "Chester, TN",
+    value: 10
+}, {
+    county: "Hardeman, TN",
+    value: 10
+}, {
+    county: "Fayette, TN",
+    value: 10
+}, {
+    county: "Haywood, TN",
+    value: 10
+}, {
+    county: "Madison, TN",
+    value: 10
+}, {
+    county: "Crockett, TN",
+    value: 10
+}, {
+    county: "Gibson, TN",
+    value: 10
+}, {
+    county: "Carroll, TN",
+    value: 10
+}, {
+    county: "Weakley, TN",
+    value: 10
+}, {
+    county: "Obion, TN",
+    value: 10
+}, {
+    county: "Lake, TN",
+    value: 10
+}, {
+    county: "Dyer, TN",
+    value: 10
+}, {
+    county: "Lauderdale, TN",
+    value: 10
+}, {
+    county: "Tipton, TN",
+    value: 10
+}, {
+    county: "Shelby, TN",
+    value: 10
+}, {
+    county: "Henderson, TN",
+    value: 10
+}, {
+    county: "Henry, TN",
+    value: 10
+}, {
+    county: "Benton, TN",
+    value: 10
+}, {
+    county: "Decatur, TN",
+    value: 10
+}, {
+    county: "Hardin, TN",
+    value: 10
+}, {
+    county: "Lawrence, TN",
+    value: 10
+}, {
+    county: "Wayne, TN",
+    value: 10
+}, {
+    county: "Lewis, TN",
+    value: 10
+}, {
+    county: "Perry, TN",
+    value: 10
+}, {
+    county: "Hickman, TN",
+    value: 10
+}, {
+    county: "Humphreys, TN",
+    value: 10
+}, {
+    county: "Houston, TN",
+    value: 10
+}, {
+    county: "Stewart, TN",
+    value: 10
+}, {
+    county: "Montgomery, TN",
+    value: 10
+}, {
+    county: "Robertson, TN",
+    value: 10
+}, {
+    county: "Cheatham, TN",
+    value: 10
+}, {
+    county: "Dickson, TN",
+    value: 10
+}, {
+    county: "Williamson, TN",
+    value: 10
+}, {
+    county: "Maury, TN",
+    value: 10
+}, {
+    county: "Marshall, TN",
+    value: 10
+}, {
+    county: "Giles, TN",
+    value: 10
+}, {
+    county: "Lincoln, TN",
+    value: 10
+}, {
+    county: "Moore, TN",
+    value: 10
+}, {
+    county: "Bedford, TN",
+    value: 10
+}, {
+    county: "Rutherford, TN",
+    value: 10
+}, {
+    county: "Davidson, TN",
+    value: 10
+}, {
+    county: "Sumner, TN",
+    value: 10
+}, {
+    county: "Wilson, TN",
+    value: 10
+}, {
+    county: "Cannon, TN",
+    value: 10
+}, {
+    county: "Coffee, TN",
+    value: 10
+}, {
+    county: "Franklin, TN",
+    value: 10
+}, {
+    county: "Marion, TN",
+    value: 10
+}, {
+    county: "Sequatchie, TN",
+    value: 10
+}, {
+    county: "Grundy, TN",
+    value: 10
+}, {
+    county: "Van Buren, TN",
+    value: 10
+}, {
+    county: "Warren, TN",
+    value: 10
+}, {
+    county: "White, TN",
+    value: 10
+}, {
+    county: "DeKalb, TN",
+    value: 10
+}, {
+    county: "Putnam, TN",
+    value: 10
+}, {
+    county: "Hartsville-Trousdale, TN",
+    value: 10
+}, {
+    county: "Macon, TN",
+    value: 10
+}, {
+    county: "Smith, TN",
+    value: 10
+}, {
+    county: "Jackson, TN",
+    value: 10
+}, {
+    county: "Overton, TN",
+    value: 10
+}, {
+    county: "Clay, TN",
+    value: 10
+}, {
+    county: "Pickett, TN",
+    value: 10
+}, {
+    county: "Bledsoe, TN",
+    value: 10
+}, {
+    county: "Fentress, TN",
+    value: 10
+}, {
+    county: "Cumberland, TN",
+    value: 10
+}, {
+    county: "Rhea, TN",
+    value: 10
+}, {
+    county: "Meigs, TN",
+    value: 10
+}, {
+    county: "Hamilton, TN",
+    value: 10
+}, {
+    county: "Bradley, TN",
+    value: 10
+}, {
+    county: "Polk, TN",
+    value: 10
+}, {
+    county: "Monroe, TN",
+    value: 10
+}, {
+    county: "McMinn, TN",
+    value: 10
+}, {
+    county: "Roane, TN",
+    value: 10
+}, {
+    county: "Morgan, TN",
+    value: 10
+}, {
+    county: "Scott, TN",
+    value: 10
+}, {
+    county: "Campbell, TN",
+    value: 10
+}, {
+    county: "Anderson, TN",
+    value: 10
+}, {
+    county: "Loudon, TN",
+    value: 10
+}, {
+    county: "Blount, TN",
+    value: 10
+}, {
+    county: "Sevier, TN",
+    value: 10
+}, {
+    county: "Knox, TN",
+    value: 10
+}, {
+    county: "Union, TN",
+    value: 10
+}, {
+    county: "Claiborne, TN",
+    value: 10
+}, {
+    county: "Hancock, TN",
+    value: 10
+}, {
+    county: "Grainger, TN",
+    value: 10
+}, {
+    county: "Hamblen, TN",
+    value: 10
+}, {
+    county: "Jefferson, TN",
+    value: 10
+}, {
+    county: "Cocke, TN",
+    value: 10
+}, {
+    county: "Unicoi, TN",
+    value: 10
+}, {
+    county: "Hawkins, TN",
+    value: 10
+}, {
+    county: "Greene, TN",
+    value: 10
+}, {
+    county: "Washington, TN",
+    value: 10
+}, {
+    county: "Carter, TN",
+    value: 10
+}, {
+    county: "Bowie, TX",
+    value: 10
+}, {
+    county: "Red River, TX",
+    value: 10
+}, {
+    county: "Crosby, TX",
+    value: 10
+}, {
+    county: "Lubbock, TX",
+    value: 10
+}, {
+    county: "Hockley, TX",
+    value: 10
+}, {
+    county: "Cochran, TX",
+    value: 10
+}, {
+    county: "Floyd, TX",
+    value: 10
+}, {
+    county: "Hale, TX",
+    value: 10
+}, {
+    county: "Lamb, TX",
+    value: 10
+}, {
+    county: "Bailey, TX",
+    value: 10
+}, {
+    county: "Briscoe, TX",
+    value: 10
+}, {
+    county: "Swisher, TX",
+    value: 10
+}, {
+    county: "Castro, TX",
+    value: 10
+}, {
+    county: "Parmer, TX",
+    value: 10
+}, {
+    county: "Armstrong, TX",
+    value: 10
+}, {
+    county: "Randall, TX",
+    value: 10
+}, {
+    county: "Deaf Smith, TX",
+    value: 10
+}, {
+    county: "Carson, TX",
+    value: 10
+}, {
+    county: "Potter, TX",
+    value: 10
+}, {
+    county: "Oldham, TX",
+    value: 10
+}, {
+    county: "Hutchinson, TX",
+    value: 10
+}, {
+    county: "Moore, TX",
+    value: 10
+}, {
+    county: "Hartley, TX",
+    value: 10
+}, {
+    county: "Hansford, TX",
+    value: 10
+}, {
+    county: "Sherman, TX",
+    value: 10
+}, {
+    county: "Dallam, TX",
+    value: 10
+}, {
+    county: "Hudspeth, TX",
+    value: 10
+}, {
+    county: "El Paso, TX",
+    value: 10
+}, {
+    county: "Lynn, TX",
+    value: 10
+}, {
+    county: "Terry, TX",
+    value: 10
+}, {
+    county: "Yoakum, TX",
+    value: 10
+}, {
+    county: "Dawson, TX",
+    value: 10
+}, {
+    county: "Gaines, TX",
+    value: 10
+}, {
+    county: "Martin, TX",
+    value: 10
+}, {
+    county: "Andrews, TX",
+    value: 10
+}, {
+    county: "Midland, TX",
+    value: 10
+}, {
+    county: "Ector, TX",
+    value: 10
+}, {
+    county: "Crane, TX",
+    value: 10
+}, {
+    county: "Presidio, TX",
+    value: 10
+}, {
+    county: "Culberson, TX",
+    value: 10
+}, {
+    county: "Ward, TX",
+    value: 10
+}, {
+    county: "Winkler, TX",
+    value: 10
+}, {
+    county: "Loving, TX",
+    value: 10
+}, {
+    county: "Reeves, TX",
+    value: 10
+}, {
+    county: "Jeff Davis, TX",
+    value: 10
+}, {
+    county: "Brewster, TX",
+    value: 10
+}, {
+    county: "Terrell, TX",
+    value: 10
+}, {
+    county: "Pecos, TX",
+    value: 10
+}, {
+    county: "Upton, TX",
+    value: 10
+}, {
+    county: "Reagan, TX",
+    value: 10
+}, {
+    county: "Glasscock, TX",
+    value: 10
+}, {
+    county: "Howard, TX",
+    value: 10
+}, {
+    county: "Borden, TX",
+    value: 10
+}, {
+    county: "Garza, TX",
+    value: 10
+}, {
+    county: "Scurry, TX",
+    value: 10
+}, {
+    county: "Mitchell, TX",
+    value: 10
+}, {
+    county: "Sterling, TX",
+    value: 10
+}, {
+    county: "Irion, TX",
+    value: 10
+}, {
+    county: "Crockett, TX",
+    value: 10
+}, {
+    county: "Val Verde, TX",
+    value: 10
+}, {
+    county: "Zapata, TX",
+    value: 10
+}, {
+    county: "Jim Hogg, TX",
+    value: 10
+}, {
+    county: "Starr, TX",
+    value: 10
+}, {
+    county: "Willacy, TX",
+    value: 10
+}, {
+    county: "Hidalgo, TX",
+    value: 10
+}, {
+    county: "Brooks, TX",
+    value: 10
+}, {
+    county: "Kenedy, TX",
+    value: 10
+}, {
+    county: "Kleberg, TX",
+    value: 10
+}, {
+    county: "Jim Wells, TX",
+    value: 10
+}, {
+    county: "Nueces, TX",
+    value: 10
+}, {
+    county: "San Patricio, TX",
+    value: 10
+}, {
+    county: "Calhoun, TX",
+    value: 10
+}, {
+    county: "Refugio, TX",
+    value: 10
+}, {
+    county: "Bee, TX",
+    value: 10
+}, {
+    county: "Live Oak, TX",
+    value: 10
+}, {
+    county: "McMullen, TX",
+    value: 10
+}, {
+    county: "Duval, TX",
+    value: 10
+}, {
+    county: "Webb, TX",
+    value: 10
+}, {
+    county: "La Salle, TX",
+    value: 10
+}, {
+    county: "Dimmit, TX",
+    value: 10
+}, {
+    county: "Maverick, TX",
+    value: 10
+}, {
+    county: "Kinney, TX",
+    value: 10
+}, {
+    county: "Edwards, TX",
+    value: 10
+}, {
+    county: "Real, TX",
+    value: 10
+}, {
+    county: "Uvalde, TX",
+    value: 10
+}, {
+    county: "Zavala, TX",
+    value: 10
+}, {
+    county: "Frio, TX",
+    value: 10
+}, {
+    county: "Goliad, TX",
+    value: 10
+}, {
+    county: "Victoria, TX",
+    value: 10
+}, {
+    county: "DeWitt, TX",
+    value: 10
+}, {
+    county: "Karnes, TX",
+    value: 10
+}, {
+    county: "Wilson, TX",
+    value: 10
+}, {
+    county: "Atascosa, TX",
+    value: 10
+}, {
+    county: "Medina, TX",
+    value: 10
+}, {
+    county: "Bandera, TX",
+    value: 10
+}, {
+    county: "Kerr, TX",
+    value: 10
+}, {
+    county: "Gillespie, TX",
+    value: 10
+}, {
+    county: "Blanco, TX",
+    value: 10
+}, {
+    county: "Kendall, TX",
+    value: 10
+}, {
+    county: "Bexar, TX",
+    value: 10
+}, {
+    county: "Guadalupe, TX",
+    value: 10
+}, {
+    county: "Comal, TX",
+    value: 10
+}, {
+    county: "Hays, TX",
+    value: 10
+}, {
+    county: "Caldwell, TX",
+    value: 10
+}, {
+    county: "Gonzales, TX",
+    value: 10
+}, {
+    county: "Lavaca, TX",
+    value: 10
+}, {
+    county: "Jackson, TX",
+    value: 10
+}, {
+    county: "Matagorda, TX",
+    value: 10
+}, {
+    county: "Wharton, TX",
+    value: 10
+}, {
+    county: "Colorado, TX",
+    value: 10
+}, {
+    county: "Bastrop, TX",
+    value: 10
+}, {
+    county: "Fayette, TX",
+    value: 10
+}, {
+    county: "Lee, TX",
+    value: 10
+}, {
+    county: "Austin, TX",
+    value: 10
+}, {
+    county: "Washington, TX",
+    value: 10
+}, {
+    county: "Waller, TX",
+    value: 10
+}, {
+    county: "Fort Bend, TX",
+    value: 10
+}, {
+    county: "Brazoria, TX",
+    value: 10
+}, {
+    county: "Galveston, TX",
+    value: 10
+}, {
+    county: "Montgomery, TX",
+    value: 10
+}, {
+    county: "Harris, TX",
+    value: 10
+}, {
+    county: "Chambers, TX",
+    value: 10
+}, {
+    county: "Hardin, TX",
+    value: 10
+}, {
+    county: "Liberty, TX",
+    value: 10
+}, {
+    county: "Jefferson, TX",
+    value: 10
+}, {
+    county: "Orange, TX",
+    value: 10
+}, {
+    county: "Travis, TX",
+    value: 10
+}, {
+    county: "Kent, TX",
+    value: 10
+}, {
+    county: "Kimble, TX",
+    value: 10
+}, {
+    county: "Sutton, TX",
+    value: 10
+}, {
+    county: "Schleicher, TX",
+    value: 10
+}, {
+    county: "Menard, TX",
+    value: 10
+}, {
+    county: "Mason, TX",
+    value: 10
+}, {
+    county: "Llano, TX",
+    value: 10
+}, {
+    county: "Burnet, TX",
+    value: 10
+}, {
+    county: "Williamson, TX",
+    value: 10
+}, {
+    county: "Burleson, TX",
+    value: 10
+}, {
+    county: "San Jacinto, TX",
+    value: 10
+}, {
+    county: "Walker, TX",
+    value: 10
+}, {
+    county: "Grimes, TX",
+    value: 10
+}, {
+    county: "Brazos, TX",
+    value: 10
+}, {
+    county: "Madison, TX",
+    value: 10
+}, {
+    county: "Leon, TX",
+    value: 10
+}, {
+    county: "Robertson, TX",
+    value: 10
+}, {
+    county: "Milam, TX",
+    value: 10
+}, {
+    county: "Bell, TX",
+    value: 10
+}, {
+    county: "Coryell, TX",
+    value: 10
+}, {
+    county: "Lampasas, TX",
+    value: 10
+}, {
+    county: "Mills, TX",
+    value: 10
+}, {
+    county: "San Saba, TX",
+    value: 10
+}, {
+    county: "McCulloch, TX",
+    value: 10
+}, {
+    county: "Concho, TX",
+    value: 10
+}, {
+    county: "Tom Green, TX",
+    value: 10
+}, {
+    county: "Coke, TX",
+    value: 10
+}, {
+    county: "Runnels, TX",
+    value: 10
+}, {
+    county: "Coleman, TX",
+    value: 10
+}, {
+    county: "Brown, TX",
+    value: 10
+}, {
+    county: "Comanche, TX",
+    value: 10
+}, {
+    county: "Hamilton, TX",
+    value: 10
+}, {
+    county: "Bosque, TX",
+    value: 10
+}, {
+    county: "Falls, TX",
+    value: 10
+}, {
+    county: "McLennan, TX",
+    value: 10
+}, {
+    county: "Hill, TX",
+    value: 10
+}, {
+    county: "Limestone, TX",
+    value: 10
+}, {
+    county: "Freestone, TX",
+    value: 10
+}, {
+    county: "Navarro, TX",
+    value: 10
+}, {
+    county: "Somervell, TX",
+    value: 10
+}, {
+    county: "Ellis, TX",
+    value: 10
+}, {
+    county: "Johnson, TX",
+    value: 10
+}, {
+    county: "Hood, TX",
+    value: 10
+}, {
+    county: "Erath, TX",
+    value: 10
+}, {
+    county: "Eastland, TX",
+    value: 10
+}, {
+    county: "Callahan, TX",
+    value: 10
+}, {
+    county: "Taylor, TX",
+    value: 10
+}, {
+    county: "Nolan, TX",
+    value: 10
+}, {
+    county: "Fisher, TX",
+    value: 10
+}, {
+    county: "Jones, TX",
+    value: 10
+}, {
+    county: "Shackelford, TX",
+    value: 10
+}, {
+    county: "Stephens, TX",
+    value: 10
+}, {
+    county: "Palo Pinto, TX",
+    value: 10
+}, {
+    county: "Parker, TX",
+    value: 10
+}, {
+    county: "Tarrant, TX",
+    value: 10
+}, {
+    county: "Dallas, TX",
+    value: 10
+}, {
+    county: "Rockwall, TX",
+    value: 10
+}, {
+    county: "Kaufman, TX",
+    value: 10
+}, {
+    county: "Rains, TX",
+    value: 10
+}, {
+    county: "Van Zandt, TX",
+    value: 10
+}, {
+    county: "Henderson, TX",
+    value: 10
+}, {
+    county: "Anderson, TX",
+    value: 10
+}, {
+    county: "Houston, TX",
+    value: 10
+}, {
+    county: "Trinity, TX",
+    value: 10
+}, {
+    county: "Polk, TX",
+    value: 10
+}, {
+    county: "Newton, TX",
+    value: 10
+}, {
+    county: "Jasper, TX",
+    value: 10
+}, {
+    county: "Tyler, TX",
+    value: 10
+}, {
+    county: "Angelina, TX",
+    value: 10
+}, {
+    county: "Sabine, TX",
+    value: 10
+}, {
+    county: "San Augustine, TX",
+    value: 10
+}, {
+    county: "Shelby, TX",
+    value: 10
+}, {
+    county: "Nacogdoches, TX",
+    value: 10
+}, {
+    county: "Cherokee, TX",
+    value: 10
+}, {
+    county: "Panola, TX",
+    value: 10
+}, {
+    county: "Rusk, TX",
+    value: 10
+}, {
+    county: "Gregg, TX",
+    value: 10
+}, {
+    county: "Smith, TX",
+    value: 10
+}, {
+    county: "Wood, TX",
+    value: 10
+}, {
+    county: "Harrison, TX",
+    value: 10
+}, {
+    county: "Upshur, TX",
+    value: 10
+}, {
+    county: "Camp, TX",
+    value: 10
+}, {
+    county: "Marion, TX",
+    value: 10
+}, {
+    county: "Cass, TX",
+    value: 10
+}, {
+    county: "Morris, TX",
+    value: 10
+}, {
+    county: "Titus, TX",
+    value: 10
+}, {
+    county: "Franklin, TX",
+    value: 10
+}, {
+    county: "Hopkins, TX",
+    value: 10
+}, {
+    county: "Delta, TX",
+    value: 10
+}, {
+    county: "Hunt, TX",
+    value: 10
+}, {
+    county: "Collin, TX",
+    value: 10
+}, {
+    county: "Denton, TX",
+    value: 10
+}, {
+    county: "Wise, TX",
+    value: 10
+}, {
+    county: "Jack, TX",
+    value: 10
+}, {
+    county: "Young, TX",
+    value: 10
+}, {
+    county: "Throckmorton, TX",
+    value: 10
+}, {
+    county: "Haskell, TX",
+    value: 10
+}, {
+    county: "Stonewall, TX",
+    value: 10
+}, {
+    county: "Dickens, TX",
+    value: 10
+}, {
+    county: "Motley, TX",
+    value: 10
+}, {
+    county: "Hall, TX",
+    value: 10
+}, {
+    county: "Donley, TX",
+    value: 10
+}, {
+    county: "Gray, TX",
+    value: 10
+}, {
+    county: "Roberts, TX",
+    value: 10
+}, {
+    county: "Ochiltree, TX",
+    value: 10
+}, {
+    county: "Lipscomb, TX",
+    value: 10
+}, {
+    county: "Hemphill, TX",
+    value: 10
+}, {
+    county: "Wheeler, TX",
+    value: 10
+}, {
+    county: "Collingsworth, TX",
+    value: 10
+}, {
+    county: "Childress, TX",
+    value: 10
+}, {
+    county: "Cottle, TX",
+    value: 10
+}, {
+    county: "King, TX",
+    value: 10
+}, {
+    county: "Knox, TX",
+    value: 10
+}, {
+    county: "Foard, TX",
+    value: 10
+}, {
+    county: "Hardeman, TX",
+    value: 10
+}, {
+    county: "Archer, TX",
+    value: 10
+}, {
+    county: "Baylor, TX",
+    value: 10
+}, {
+    county: "Wilbarger, TX",
+    value: 10
+}, {
+    county: "Wichita, TX",
+    value: 10
+}, {
+    county: "Clay, TX",
+    value: 10
+}, {
+    county: "Montague, TX",
+    value: 10
+}, {
+    county: "Cooke, TX",
+    value: 10
+}, {
+    county: "Fannin, TX",
+    value: 10
+}, {
+    county: "Grayson, TX",
+    value: 10
+}, {
+    county: "Lamar, TX",
+    value: 10
+}, {
+    county: "Aransas, TX",
+    value: 10
+}, {
+    county: "Cameron, TX",
+    value: 10
+}, {
+    county: "San Juan, UT",
+    value: 10
+}, {
+    county: "Garfield, UT",
+    value: 10
+}, {
+    county: "Morgan, UT",
+    value: 10
+}, {
+    county: "Davis, UT",
+    value: 10
+}, {
+    county: "Weber, UT",
+    value: 10
+}, {
+    county: "Rich, UT",
+    value: 10
+}, {
+    county: "Cache, UT",
+    value: 10
+}, {
+    county: "Box Elder, UT",
+    value: 10
+}, {
+    county: "Daggett, UT",
+    value: 10
+}, {
+    county: "Salt Lake, UT",
+    value: 10
+}, {
+    county: "Summit, UT",
+    value: 10
+}, {
+    county: "Wasatch, UT",
+    value: 10
+}, {
+    county: "Utah, UT",
+    value: 10
+}, {
+    county: "Tooele, UT",
+    value: 10
+}, {
+    county: "Juab, UT",
+    value: 10
+}, {
+    county: "Millard, UT",
+    value: 10
+}, {
+    county: "Sevier, UT",
+    value: 10
+}, {
+    county: "Sanpete, UT",
+    value: 10
+}, {
+    county: "Carbon, UT",
+    value: 10
+}, {
+    county: "Duchesne, UT",
+    value: 10
+}, {
+    county: "Uintah, UT",
+    value: 10
+}, {
+    county: "Grand, UT",
+    value: 10
+}, {
+    county: "Emery, UT",
+    value: 10
+}, {
+    county: "Wayne, UT",
+    value: 10
+}, {
+    county: "Piute, UT",
+    value: 10
+}, {
+    county: "Beaver, UT",
+    value: 10
+}, {
+    county: "Iron, UT",
+    value: 10
+}, {
+    county: "Washington, UT",
+    value: 10
+}, {
+    county: "Kane, UT",
+    value: 10
+}, {
+    county: "Accomack, VA",
+    value: 10
+}, {
+    county: "Northampton, VA",
+    value: 10
+}, {
+    county: "Buchanan, VA",
+    value: 10
+}, {
+    county: "Tazewell, VA",
+    value: 10
+}, {
+    county: "Smyth, VA",
+    value: 10
+}, {
+    county: "Bristol, VA",
+    value: 10
+}, {
+    county: "Washington, VA",
+    value: 10
+}, {
+    county: "Russell, VA",
+    value: 10
+}, {
+    county: "Norton, VA",
+    value: 10
+}, {
+    county: "Wise, VA",
+    value: 10
+}, {
+    county: "Dickenson, VA",
+    value: 10
+}, {
+    county: "Scott, VA",
+    value: 10
+}, {
+    county: "Lee, VA",
+    value: 10
+}, {
+    county: "Bland, VA",
+    value: 10
+}, {
+    county: "Grayson, VA",
+    value: 10
+}, {
+    county: "Galax, VA",
+    value: 10
+}, {
+    county: "Wythe, VA",
+    value: 10
+}, {
+    county: "Giles, VA",
+    value: 10
+}, {
+    county: "Radford, VA",
+    value: 10
+}, {
+    county: "Pulaski, VA",
+    value: 10
+}, {
+    county: "Falls Church, VA",
+    value: 10
+}, {
+    county: "Arlington, VA",
+    value: 10
+}, {
+    county: "Carroll, VA",
+    value: 10
+}, {
+    county: "Henry, VA",
+    value: 10
+}, {
+    county: "Patrick, VA",
+    value: 10
+}, {
+    county: "Floyd, VA",
+    value: 10
+}, {
+    county: "Montgomery, VA",
+    value: 10
+}, {
+    county: "Salem, VA",
+    value: 10
+}, {
+    county: "Franklin Co., VA",
+    value: 10
+}, {
+    county: "Roanoke Co., VA",
+    value: 10
+}, {
+    county: "Bedford Co., VA",
+    value: 10
+}, {
+    county: "Alleghany, VA",
+    value: 10
+}, {
+    county: "Craig, VA",
+    value: 10
+}, {
+    county: "Botetourt, VA",
+    value: 10
+}, {
+    county: "Amherst, VA",
+    value: 10
+}, {
+    county: "Rockbridge, VA",
+    value: 10
+}, {
+    county: "Bath, VA",
+    value: 10
+}, {
+    county: "Highland, VA",
+    value: 10
+}, {
+    county: "Greene, VA",
+    value: 10
+}, {
+    county: "Rockingham, VA",
+    value: 10
+}, {
+    county: "Augusta, VA",
+    value: 10
+}, {
+    county: "Nelson, VA",
+    value: 10
+}, {
+    county: "Buckingham, VA",
+    value: 10
+}, {
+    county: "Appomattox, VA",
+    value: 10
+}, {
+    county: "Campbell, VA",
+    value: 10
+}, {
+    county: "Halifax, VA",
+    value: 10
+}, {
+    county: "Pittsylvania, VA",
+    value: 10
+}, {
+    county: "Martinsville, VA",
+    value: 10
+}, {
+    county: "Danville, VA",
+    value: 10
+}, {
+    county: "Lynchburg, VA",
+    value: 10
+}, {
+    county: "Bedford, VA",
+    value: 10
+}, {
+    county: "Roanoke, VA",
+    value: 10
+}, {
+    county: "Buena Vista, VA",
+    value: 10
+}, {
+    county: "Covington, VA",
+    value: 10
+}, {
+    county: "Lexington, VA",
+    value: 10
+}, {
+    county: "Waynesboro, VA",
+    value: 10
+}, {
+    county: "Staunton, VA",
+    value: 10
+}, {
+    county: "Charlottesville, VA",
+    value: 10
+}, {
+    county: "Harrisonburg, VA",
+    value: 10
+}, {
+    county: "Albemarle, VA",
+    value: 10
+}, {
+    county: "Fluvanna, VA",
+    value: 10
+}, {
+    county: "Cumberland, VA",
+    value: 10
+}, {
+    county: "Prince Edward, VA",
+    value: 10
+}, {
+    county: "Charlotte, VA",
+    value: 10
+}, {
+    county: "Mecklenburg, VA",
+    value: 10
+}, {
+    county: "Colonial Heights, VA",
+    value: 10
+}, {
+    county: "Lunenburg, VA",
+    value: 10
+}, {
+    county: "Hopewell, VA",
+    value: 10
+}, {
+    county: "Alexandria, VA",
+    value: 10
+}, {
+    county: "Page, VA",
+    value: 10
+}, {
+    county: "Shenandoah, VA",
+    value: 10
+}, {
+    county: "Clarke, VA",
+    value: 10
+}, {
+    county: "Winchester, VA",
+    value: 10
+}, {
+    county: "Frederick, VA",
+    value: 10
+}, {
+    county: "Warren, VA",
+    value: 10
+}, {
+    county: "Rappahannock, VA",
+    value: 10
+}, {
+    county: "Madison, VA",
+    value: 10
+}, {
+    county: "Orange, VA",
+    value: 10
+}, {
+    county: "Louisa, VA",
+    value: 10
+}, {
+    county: "Goochland, VA",
+    value: 10
+}, {
+    county: "Powhatan, VA",
+    value: 10
+}, {
+    county: "Amelia, VA",
+    value: 10
+}, {
+    county: "Nottoway, VA",
+    value: 10
+}, {
+    county: "Brunswick, VA",
+    value: 10
+}, {
+    county: "Dinwiddie, VA",
+    value: 10
+}, {
+    county: "Emporia, VA",
+    value: 10
+}, {
+    county: "Greensville, VA",
+    value: 10
+}, {
+    county: "Poquoson, VA",
+    value: 10
+}, {
+    county: "Franklin, VA",
+    value: 10
+}, {
+    county: "Southampton, VA",
+    value: 10
+}, {
+    county: "Hampton, VA",
+    value: 10
+}, {
+    county: "Williamsburg, VA",
+    value: 10
+}, {
+    county: "Newport News, VA",
+    value: 10
+}, {
+    county: "Portsmouth, VA",
+    value: 10
+}, {
+    county: "York, VA",
+    value: 10
+}, {
+    county: "James City, VA",
+    value: 10
+}, {
+    county: "Surry, VA",
+    value: 10
+}, {
+    county: "Sussex, VA",
+    value: 10
+}, {
+    county: "Prince George, VA",
+    value: 10
+}, {
+    county: "Petersburg, VA",
+    value: 10
+}, {
+    county: "Henrico, VA",
+    value: 10
+}, {
+    county: "Chesterfield, VA",
+    value: 10
+}, {
+    county: "Charles City, VA",
+    value: 10
+}, {
+    county: "New Kent, VA",
+    value: 10
+}, {
+    county: "Richmond, VA",
+    value: 10
+}, {
+    county: "Fredericksburg, VA",
+    value: 10
+}, {
+    county: "Fairfax, VA",
+    value: 10
+}, {
+    county: "Manassas, VA",
+    value: 10
+}, {
+    county: "Loudoun, VA",
+    value: 10
+}, {
+    county: "Fauquier, VA",
+    value: 10
+}, {
+    county: "Culpeper, VA",
+    value: 10
+}, {
+    county: "Spotsylvania, VA",
+    value: 10
+}, {
+    county: "Hanover, VA",
+    value: 10
+}, {
+    county: "King William, VA",
+    value: 10
+}, {
+    county: "King and Queen, VA",
+    value: 10
+}, {
+    county: "Middlesex, VA",
+    value: 10
+}, {
+    county: "Gloucester, VA",
+    value: 10
+}, {
+    county: "Lancaster, VA",
+    value: 10
+}, {
+    county: "Richmond Co., VA",
+    value: 10
+}, {
+    county: "Essex, VA",
+    value: 10
+}, {
+    county: "Caroline, VA",
+    value: 10
+}, {
+    county: "Fairfax Co., VA",
+    value: 10
+}, {
+    county: "Prince William, VA",
+    value: 10
+}, {
+    county: "Stafford, VA",
+    value: 10
+}, {
+    county: "King George, VA",
+    value: 10
+}, {
+    county: "Westmoreland, VA",
+    value: 10
+}, {
+    county: "Northumberland, VA",
+    value: 10
+}, {
+    county: "Mathews, VA",
+    value: 10
+}, {
+    county: "Norfolk, VA",
+    value: 10
+}, {
+    county: "Isle of Wight, VA",
+    value: 10
+}, {
+    county: "Suffolk, VA",
+    value: 10
+}, {
+    county: "Chesapeake, VA",
+    value: 10
+}, {
+    county: "Virginia Beach, VA",
+    value: 10
+}, {
+    county: "Manassas Park, VA",
+    value: 10
+}, {
+    county: "Essex, VT",
+    value: 10
+}, {
+    county: "Orleans, VT",
+    value: 10
+}, {
+    county: "Bennington, VT",
+    value: 10
+}, {
+    county: "Grand Isle, VT",
+    value: 10
+}, {
+    county: "Washington, VT",
+    value: 10
+}, {
+    county: "Caledonia, VT",
+    value: 10
+}, {
+    county: "Lamoille, VT",
+    value: 10
+}, {
+    county: "Franklin, VT",
+    value: 10
+}, {
+    county: "Chittenden, VT",
+    value: 10
+}, {
+    county: "Addison, VT",
+    value: 10
+}, {
+    county: "Rutland, VT",
+    value: 10
+}, {
+    county: "Windham, VT",
+    value: 10
+}, {
+    county: "Windsor, VT",
+    value: 10
+}, {
+    county: "Orange, VT",
+    value: 10
+}, {
+    county: "Okanogan, WA",
+    value: 10
+}, {
+    county: "Whatcom, WA",
+    value: 10
+}, {
+    county: "Wahkiakum, WA",
+    value: 10
+}, {
+    county: "Asotin, WA",
+    value: 10
+}, {
+    county: "Garfield, WA",
+    value: 10
+}, {
+    county: "Columbia, WA",
+    value: 10
+}, {
+    county: "Walla Walla, WA",
+    value: 10
+}, {
+    county: "Franklin, WA",
+    value: 10
+}, {
+    county: "Whitman, WA",
+    value: 10
+}, {
+    county: "Spokane, WA",
+    value: 10
+}, {
+    county: "Pend Oreille, WA",
+    value: 10
+}, {
+    county: "Stevens, WA",
+    value: 10
+}, {
+    county: "Lincoln, WA",
+    value: 10
+}, {
+    county: "Adams, WA",
+    value: 10
+}, {
+    county: "Grant, WA",
+    value: 10
+}, {
+    county: "Benton, WA",
+    value: 10
+}, {
+    county: "Klickitat, WA",
+    value: 10
+}, {
+    county: "Clark, WA",
+    value: 10
+}, {
+    county: "Skamania, WA",
+    value: 10
+}, {
+    county: "Cowlitz, WA",
+    value: 10
+}, {
+    county: "Pacific, WA",
+    value: 10
+}, {
+    county: "Lewis, WA",
+    value: 10
+}, {
+    county: "Thurston, WA",
+    value: 10
+}, {
+    county: "Pierce, WA",
+    value: 10
+}, {
+    county: "Yakima, WA",
+    value: 10
+}, {
+    county: "Kittitas, WA",
+    value: 10
+}, {
+    county: "Douglas, WA",
+    value: 10
+}, {
+    county: "Ferry, WA",
+    value: 10
+}, {
+    county: "San Juan, WA",
+    value: 10
+}, {
+    county: "Island, WA",
+    value: 10
+}, {
+    county: "Snohomish, WA",
+    value: 10
+}, {
+    county: "King, WA",
+    value: 10
+}, {
+    county: "Kitsap, WA",
+    value: 10
+}, {
+    county: "Mason, WA",
+    value: 10
+}, {
+    county: "Grays Harbor, WA",
+    value: 10
+}, {
+    county: "Jefferson, WA",
+    value: 10
+}, {
+    county: "Clallam, WA",
+    value: 10
+}, {
+    county: "Skagit, WA",
+    value: 10
+}, {
+    county: "Chelan, WA",
+    value: 10
+}, {
+    county: "Door, WI",
+    value: 10
+}, {
+    county: "Kewaunee, WI",
+    value: 10
+}, {
+    county: "Pierce, WI",
+    value: 10
+}, {
+    county: "Pepin, WI",
+    value: 10
+}, {
+    county: "Buffalo, WI",
+    value: 10
+}, {
+    county: "Trempealeau, WI",
+    value: 10
+}, {
+    county: "Jackson, WI",
+    value: 10
+}, {
+    county: "Eau Claire, WI",
+    value: 10
+}, {
+    county: "Clark, WI",
+    value: 10
+}, {
+    county: "Chippewa, WI",
+    value: 10
+}, {
+    county: "Dunn, WI",
+    value: 10
+}, {
+    county: "St. Croix, WI",
+    value: 10
+}, {
+    county: "Polk, WI",
+    value: 10
+}, {
+    county: "Barron, WI",
+    value: 10
+}, {
+    county: "Rusk, WI",
+    value: 10
+}, {
+    county: "Taylor, WI",
+    value: 10
+}, {
+    county: "Price, WI",
+    value: 10
+}, {
+    county: "Sawyer, WI",
+    value: 10
+}, {
+    county: "Washburn, WI",
+    value: 10
+}, {
+    county: "Burnett, WI",
+    value: 10
+}, {
+    county: "Douglas, WI",
+    value: 10
+}, {
+    county: "Bayfield, WI",
+    value: 10
+}, {
+    county: "Ashland, WI",
+    value: 10
+}, {
+    county: "Iron, WI",
+    value: 10
+}, {
+    county: "Vilas, WI",
+    value: 10
+}, {
+    county: "Oneida, WI",
+    value: 10
+}, {
+    county: "Lincoln, WI",
+    value: 10
+}, {
+    county: "Langlade, WI",
+    value: 10
+}, {
+    county: "Marathon, WI",
+    value: 10
+}, {
+    county: "Wood, WI",
+    value: 10
+}, {
+    county: "Adams, WI",
+    value: 10
+}, {
+    county: "Juneau, WI",
+    value: 10
+}, {
+    county: "Monroe, WI",
+    value: 10
+}, {
+    county: "La Crosse, WI",
+    value: 10
+}, {
+    county: "Vernon, WI",
+    value: 10
+}, {
+    county: "Sauk, WI",
+    value: 10
+}, {
+    county: "Richland, WI",
+    value: 10
+}, {
+    county: "Crawford, WI",
+    value: 10
+}, {
+    county: "Iowa, WI",
+    value: 10
+}, {
+    county: "Grant, WI",
+    value: 10
+}, {
+    county: "Lafayette, WI",
+    value: 10
+}, {
+    county: "Green, WI",
+    value: 10
+}, {
+    county: "Marquette, WI",
+    value: 10
+}, {
+    county: "Portage, WI",
+    value: 10
+}, {
+    county: "Waupaca, WI",
+    value: 10
+}, {
+    county: "Waushara, WI",
+    value: 10
+}, {
+    county: "Green Lake, WI",
+    value: 10
+}, {
+    county: "Columbia, WI",
+    value: 10
+}, {
+    county: "Dane, WI",
+    value: 10
+}, {
+    county: "Rock, WI",
+    value: 10
+}, {
+    county: "Kenosha, WI",
+    value: 10
+}, {
+    county: "Racine, WI",
+    value: 10
+}, {
+    county: "Walworth, WI",
+    value: 10
+}, {
+    county: "Dodge, WI",
+    value: 10
+}, {
+    county: "Jefferson, WI",
+    value: 10
+}, {
+    county: "Waukesha, WI",
+    value: 10
+}, {
+    county: "Milwaukee, WI",
+    value: 10
+}, {
+    county: "Ozaukee, WI",
+    value: 10
+}, {
+    county: "Washington, WI",
+    value: 10
+}, {
+    county: "Winnebago, WI",
+    value: 10
+}, {
+    county: "Fond du Lac, WI",
+    value: 10
+}, {
+    county: "Sheboygan, WI",
+    value: 10
+}, {
+    county: "Calumet, WI",
+    value: 10
+}, {
+    county: "Manitowoc, WI",
+    value: 10
+}, {
+    county: "Brown, WI",
+    value: 10
+}, {
+    county: "Outagamie, WI",
+    value: 10
+}, {
+    county: "Shawano, WI",
+    value: 10
+}, {
+    county: "Menominee, WI",
+    value: 10
+}, {
+    county: "Oconto, WI",
+    value: 10
+}, {
+    county: "Forest, WI",
+    value: 10
+}, {
+    county: "Florence, WI",
+    value: 10
+}, {
+    county: "Marinette, WI",
+    value: 10
+}, {
+    county: "Berkeley, WV",
+    value: 10
+}, {
+    county: "Jefferson, WV",
+    value: 10
+}, {
+    county: "Cabell, WV",
+    value: 10
+}, {
+    county: "Wayne, WV",
+    value: 10
+}, {
+    county: "Mingo, WV",
+    value: 10
+}, {
+    county: "Logan, WV",
+    value: 10
+}, {
+    county: "Wyoming, WV",
+    value: 10
+}, {
+    county: "McDowell, WV",
+    value: 10
+}, {
+    county: "Mercer, WV",
+    value: 10
+}, {
+    county: "Monroe, WV",
+    value: 10
+}, {
+    county: "Summers, WV",
+    value: 10
+}, {
+    county: "Raleigh, WV",
+    value: 10
+}, {
+    county: "Boone, WV",
+    value: 10
+}, {
+    county: "Lincoln, WV",
+    value: 10
+}, {
+    county: "Putnam, WV",
+    value: 10
+}, {
+    county: "Mason, WV",
+    value: 10
+}, {
+    county: "Jackson, WV",
+    value: 10
+}, {
+    county: "Kanawha, WV",
+    value: 10
+}, {
+    county: "Fayette, WV",
+    value: 10
+}, {
+    county: "Clay, WV",
+    value: 10
+}, {
+    county: "Roane, WV",
+    value: 10
+}, {
+    county: "Calhoun, WV",
+    value: 10
+}, {
+    county: "Wirt, WV",
+    value: 10
+}, {
+    county: "Wood, WV",
+    value: 10
+}, {
+    county: "Pleasants, WV",
+    value: 10
+}, {
+    county: "Ritchie, WV",
+    value: 10
+}, {
+    county: "Gilmer, WV",
+    value: 10
+}, {
+    county: "Braxton, WV",
+    value: 10
+}, {
+    county: "Nicholas, WV",
+    value: 10
+}, {
+    county: "Greenbrier, WV",
+    value: 10
+}, {
+    county: "Webster, WV",
+    value: 10
+}, {
+    county: "Upshur, WV",
+    value: 10
+}, {
+    county: "Lewis, WV",
+    value: 10
+}, {
+    county: "Doddridge, WV",
+    value: 10
+}, {
+    county: "Tyler, WV",
+    value: 10
+}, {
+    county: "Harrison, WV",
+    value: 10
+}, {
+    county: "Hancock, WV",
+    value: 10
+}, {
+    county: "Brooke, WV",
+    value: 10
+}, {
+    county: "Ohio, WV",
+    value: 10
+}, {
+    county: "Marshall, WV",
+    value: 10
+}, {
+    county: "Wetzel, WV",
+    value: 10
+}, {
+    county: "Marion, WV",
+    value: 10
+}, {
+    county: "Barbour, WV",
+    value: 10
+}, {
+    county: "Taylor, WV",
+    value: 10
+}, {
+    county: "Monongalia, WV",
+    value: 10
+}, {
+    county: "Pocahontas, WV",
+    value: 10
+}, {
+    county: "Preston, WV",
+    value: 10
+}, {
+    county: "Randolph, WV",
+    value: 10
+}, {
+    county: "Pendleton, WV",
+    value: 10
+}, {
+    county: "Tucker, WV",
+    value: 10
+}, {
+    county: "Grant, WV",
+    value: 10
+}, {
+    county: "Hardy, WV",
+    value: 10
+}, {
+    county: "Mineral, WV",
+    value: 10
+}, {
+    county: "Hampshire, WV",
+    value: 10
+}, {
+    county: "Morgan, WV",
+    value: 10
+}, {
+    county: "Laramie, WY",
+    value: 10
+}, {
+    county: "Goshen, WY",
+    value: 10
+}, {
+    county: "Teton, WY",
+    value: 10
+}, {
+    county: "Lincoln, WY",
+    value: 10
+}, {
+    county: "Uinta, WY",
+    value: 10
+}, {
+    county: "Sublette, WY",
+    value: 10
+}, {
+    county: "Park, WY",
+    value: 10
+}, {
+    county: "Sweetwater, WY",
+    value: 10
+}, {
+    county: "Fremont, WY",
+    value: 10
+}, {
+    county: "Hot Springs, WY",
+    value: 10
+}, {
+    county: "Washakie, WY",
+    value: 10
+}, {
+    county: "Big Horn, WY",
+    value: 10
+}, {
+    county: "Sheridan, WY",
+    value: 10
+}, {
+    county: "Johnson, WY",
+    value: 10
+}, {
+    county: "Natrona, WY",
+    value: 10
+}, {
+    county: "Carbon, WY",
+    value: 10
+}, {
+    county: "Albany, WY",
+    value: 10
+}, {
+    county: "Weston, WY",
+    value: 10
+}, {
+    county: "Crook, WY",
+    value: 10
+}, {
+    county: "Campbell, WY",
+    value: 10
+}, {
+    county: "Converse, WY",
+    value: 10
+}, {
+    county: "Niobrara, WY",
+    value: 10
+}, {
+    county: "Platte, WY ",
+    value: 10
+}];
