@@ -11,14 +11,14 @@ class TwitterRequest
 	attr_reader :url, :key, :secret, :headers, :body
 
 	def initialize(url, key, secret)
-		@url = url
-		@key = key
-		@secret = secret
+		@url = URI.parse(url)
+		@key = URI.parse(key)
+		@secret = URI.parse(secret)
 		@since_id = 0
 	end
 
 	def base_64_encode_key_and_secret
-    "Basic #{Base64.strict_encode64("#{uri_encode(key)}:#{uri_encode(secret)}")}"
+    "Basic #{Base64.strict_encode64("#{key}:#{secret}")}"
 	end
 
 	def add_request_content(headers, body)
@@ -26,15 +26,16 @@ class TwitterRequest
     @body = body
 	end
 
-	def get_bearer_token(request_type)
-		JSON.parse(make_request(request_type).body)["access_token"]
+	def get_bearer_token
+		JSON.parse(make_request('Post').body)["access_token"]
 	end
 
-	def get_tweets(bearer_token)
+	def get_tweets
 		tweets = []
 		until tweets.count >= 1000
 			ids = []
 			@query_response = JSON.parse(make_request('Get').body)
+			binding.pry
 			tweets += @query_response["statuses"]
 			tweets.each {|tweet| ids << tweet["id"]}
 			@since_id = ids.max
@@ -54,22 +55,19 @@ class TwitterRequest
 	end
 
 	protected
-
-	def uri_encode(url)
-		URI.parse(url)
-	end
 	
 	def create_http_object
-		http = Net::HTTP.new(uri_encode(url).host, uri_encode(url).port)
+		http = Net::HTTP.new(url.host, url.port)
 		http.use_ssl = true
 		http
 	end
 
 	def create_request(type)
-		type.downcase.start_with?('p') ? req = Net::HTTP::Post.new(uri_encode(url).path) : req = Net::HTTP::Get.new(uri_encode(url).path)
-		headers.each {|k, v| req.add_field(k, v) } 
-		req.body = body
-		req
+		@req = ''
+		type.downcase.start_with?('p') ? @req = Net::HTTP::Post.new(url.path) : @req = Net::HTTP::Get.new(url.path)
+		headers.each {|k, v| @req.add_field(k, v) } 
+		@req.body = body
+		@req
 	end
 
 	def make_request(type)
@@ -84,11 +82,11 @@ bearer_token_request.add_request_content(
 	{'authorization' => auth, 'content_type' => 'application/x-www-form-urlencoded;charset=UTF-8'},
 	'grant_type=client_credentials')
 
-bearer_token = bearer_token_request.get_bearer_token('Post')
+bearer_token = bearer_token_request.get_bearer_token
 
-query_request = TwitterRequest.new("https://api.twitter.com/1.1/search/tweets.json?q=#ruby&count=100", ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY'])
-query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
+query_request = TwitterRequest.new("https://api.twitter.com/1.1/search/tweets.json?q=ruby&count=100", ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY'])
 #&since_id=#{@since_id} &result_type=popular
+query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
 binding.pry
 tweets = query_request.get_tweets
 locations = query_request.get_locations
