@@ -8,9 +8,10 @@ require 'pry'
 class TwitterAuthentication
 	Dotenv.load
 
-	attr_reader :http
+	attr_reader :url, :key, :secret
 
-	def initialize(key, secret)
+	def initialize(url, key, secret)
+		@url = url
 		@key = key
 		@secret = secret
 	end
@@ -21,20 +22,16 @@ class TwitterAuthentication
 
 	protected
 
-	def uri_encode_key
-		URI(@key)
-	end
-
-	def uri_encode_secret
-		URI(@secret)
+	def uri_encode(url)
+		URI.parse(url)
 	end
 
 	def base_64_encode_key_and_secret
-		auth = "#{uri_encode_key}:#{uri_encode_secret}"
+		auth = "#{uri_encode(key)}:#{uri_encode(secret)}"
     "Basic #{Base64.strict_encode64(auth)}"
 	end
 
-	def auth_request_header
+	def auth_request_content
     {
 			'authorization' => base_64_encode_key_and_secret,
 			'content_type' => 'application/x-www-form-urlencoded;charset=UTF-8',
@@ -42,21 +39,17 @@ class TwitterAuthentication
 	  }
 	end
 
-	def auth_request_url
-		URI.parse('https://api.twitter.com/oauth2/token')
-	end
-
 	def create_auth_http_object
-		@http = Net::HTTP.new(auth_request_url.host, auth_request_url.port)
-		@http.use_ssl = true
-		@http
+		http = Net::HTTP.new(uri_encode(url).host, uri_encode(url).port)
+		http.use_ssl = true
+		http
 	end
 
 	def create_auth_request
-    req = Net::HTTP::Post.new(auth_request_url.path)
-		req.add_field('Authorization', auth_request_header['authorization'])
-		req.add_field('Content-Type', auth_request_header['content_type'])
-		req.body = auth_request_header['grant_type']
+    req = Net::HTTP::Post.new(uri_encode(url).path)
+		req.add_field('Authorization', auth_request_content['authorization'])
+		req.add_field('Content-Type', auth_request_content['content_type'])
+		req.body = auth_request_content['grant_type']
 		req
 	end
 
@@ -79,7 +72,7 @@ class TwitterQuery
 		tweets = []
 		until tweets.count >= 1000
 			ids = []
-			@query_response = JSON.parse(create_query_http_object.request(create_query_request(bearer_token)).body)
+			@query_response = JSON.parse(make_query_request(bearer_token).body)
 			tweets += @query_response["statuses"]
 			tweets.each {|tweet| ids << tweet["id"]}
 			@since_id = ids.max
@@ -102,23 +95,22 @@ class TwitterQuery
 
 	def uri_encode_query_url
 		URI.parse("#{@base_url}#{@query}#{@parameters}#{@since_id}")
-		#Since_id is the lowest tweet id number your query will retrieve.
-		#You can set since_id equal to the highest tweet id number you've received.
-		#This ensures that you only retrieve new tweets as you make more requests (eg, within the loop below). 
 	end
 
 	def create_query_http_object
 	  query_http = Net::HTTP.new(uri_encode_query_url.host, uri_encode_query_url.port)
 	  query_http.use_ssl = true
 	  query_http
-	  #Make into one-liner
 	end
 
 	def create_query_request(bearer_token)
 		query_request = Net::HTTP::Get.new(uri_encode_query_url.path)
 		query_request.add_field('Authorization', "Bearer #{bearer_token}")
 		query_request
-		#Make into one-liner
+	end
+
+	def make_query_request(bearer_token)
+		create_query_http_object.request(create_query_request(bearer_token))
 	end
 		
 end
@@ -127,11 +119,10 @@ end
 #AND ANOTHER TO ADD THE NEEDED HEADER AND BODY CONTENT
 #SHARE THESE METHODS FOR GETTING THE BEARER TOKEN AND THE JSON DATA
 
-auth_request = TwitterAuthentication.new(ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY'])
-bearer_token = auth_request.get_bearer_token
+bearer_token = TwitterAuthentication.new('https://api.twitter.com/oauth2/token', ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY']).get_bearer_token
 
 query_request = TwitterQuery.new("https://api.twitter.com/1.1/search/tweets.json", "?q=#ruby%20or%20rails", "&count=100&since_id=#{@since_id}")
 #&result_type=popular
-#binding.pry
+binding.pry
 tweets = query_request.get_tweets(bearer_token)
 locations = query_request.get_locations
