@@ -59,18 +59,21 @@ class TwitterRequest
 	def create_http_object
 		http = Net::HTTP.new(url.host, url.port)
 		http.use_ssl = true
+		binding.pry
 		http
 	end
 
 	def create_request(type)
 		@req = ''
-		type.downcase.start_with?('p') ? @req = Net::HTTP::Post.new(url.path) : @req = Net::HTTP::Get.new(url.path)
+		type.downcase.start_with?('p') ? @req = Net::HTTP::Post.new(url.path) : @req = Net::HTTP::Get.new(url)
 		headers.each {|k, v| @req.add_field(k, v) } 
 		@req.body = body
+		binding.pry
 		@req
 	end
 
 	def make_request(type)
+		binding.pry
 		create_http_object.request(create_request(type))
 	end
 	 
@@ -86,8 +89,9 @@ bearer_token = bearer_token_request.get_bearer_token
 
 query_request = TwitterRequest.new("https://api.twitter.com/1.1/search/tweets.json?q=ruby&count=100", ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY'])
 #&since_id=#{@since_id} &result_type=popular
+# binding.pry
 query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
-binding.pry
+# binding.pry
 tweets = query_request.get_tweets
 locations = query_request.get_locations
 binding.pry
