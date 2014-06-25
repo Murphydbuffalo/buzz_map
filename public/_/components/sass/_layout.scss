@@ -13,37 +13,52 @@ $large  : 75em;
 
 .container {
   @include container;
-  padding: 0 2%;
 }
 
 // Header  ----------------------------------
 header {
   background: lighten($darkblue, 5%);
-  height: 100px;
+  height: 75px;
+  line-height: 4rem;
 
-  h1 {
-    @include span-columns(6,12);
-    color: $offwhite;
-    font-size: 1.8em;
-  }
+  .logo {
+    @include span-columns(4,12);
 
-  form {
-    @include span-columns(6 omega,12);
-    input, button {
-      background: $blue;
-      border: none;
-      outline: none;
-      color: #fff;
-      font-size: 1.5em;
-      padding: .2em;
+
+    h1 {
+      font-family: $font-primary;
+      color: $offwhite;
+      font-size: 4rem;
     }
+
   }
+
+  .search-box {
+    @include span-columns(8 omega,12);
+
+    form {
+        input, button {
+          background: $blue;
+          border: none;
+          outline: none;
+          color: $offwhite;
+          font-size: 1.5rem;
+          @include border-radius(2px, 2px);
+        }
+      }
+
+   input {
+        @include input-placeholder {
+            color: #fff;
+        }
+    }
+
+  }
+
+
 }
 
 // Map  ----------------------------------
 .map {
-
-  svg {
-    max-height: 100%;
-  }
+    max-height: 500px;
 }

@@ -1,7 +1,5 @@
 require 'sinatra'
-require 'pg'
 
-require 'pry'
 require 'json'
 require 'uri'
 require 'net/http'
