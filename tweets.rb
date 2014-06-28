@@ -5,16 +5,18 @@ require 'net/http'
 require 'dotenv'
 require 'pry'
 
+#require_relative '/us_cities'
+
 class TwitterRequest
 	Dotenv.load
 
-	attr_reader :url, :key, :secret, :headers, :body
+	attr_accessor :url
+	attr_reader :key, :secret, :headers, :body
 
-	def initialize(url, key, secret)
+	def initialize(url='')
 		@url = URI.parse(url)
-		@key = URI.parse(key)
-		@secret = URI.parse(secret)
-		@since_id = 0
+		@key = URI.parse(ENV['TWITTER_API_KEY'])
+		@secret = URI.parse(ENV['TWITTER_SECRET_KEY'])
 	end
 
 	def base_64_encode_key_and_secret
@@ -30,16 +32,21 @@ class TwitterRequest
 		JSON.parse(make_request('Post').body)["access_token"]
 	end
 
-	def get_tweets
+	def get_tweets(query_duration_in_seconds)
+		@since_id = 0
 		tweets = []
-		until tweets.count >= 100
+		query_start = Time.now.to_i + query_duration_in_seconds.to_i
+		query_response = {'statuses' => Array.new(6){0} }
+		until query_start <= Time.now.to_i || query_response["statuses"].count < 5
 			ids = []
+			self.url = URI.parse("https://api.twitter.com/1.1/search/tweets.json?q=BRAvsCHI&count=100&since_id=#{@since_id}")
 			query_response = JSON.parse(make_request('Get').body)
-			tweets += query_response["statuses"]
+			tweets += query_response["statuses"] 
 			tweets.each {|tweet| ids << tweet["id"]}
 			@since_id = ids.max
+			sleep(4)
 		end
-		tweets
+		tweets.uniq
 	end
 
 	def get_user_locations(tweets)
@@ -66,6 +73,10 @@ class TwitterRequest
 		coordinates
 	end
 
+	def verify_location(location, list)
+    list.include?(location)
+	end
+
 	protected
 	
 	def create_http_object
@@ -89,7 +100,7 @@ class TwitterRequest
 end
 # POST request, sends encoded key & secret in exchange for a bearer token
 
-bearer_token_request = TwitterRequest.new('https://api.twitter.com/oauth2/token', ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY'])
+bearer_token_request = TwitterRequest.new('https://api.twitter.com/oauth2/token')
 auth = bearer_token_request.base_64_encode_key_and_secret
 bearer_token_request.add_request_content(
 	{'authorization' => auth, 'content_type' => 'application/x-www-form-urlencoded;charset=UTF-8'},
@@ -101,10 +112,10 @@ bearer_token = bearer_token_request.get_bearer_token
 
 # GET request sent with bearer token in header, retrieves tweets
 
-query_request = TwitterRequest.new("https://api.twitter.com/1.1/search/tweets.json?q=ruby&count=100&since_id=#{@since_id}", ENV['TWITTER_API_KEY'], ENV['TWITTER_SECRET_KEY'])
+query_request = TwitterRequest.new
 #&result_type=popular -> Usually no retweets or location results ...not many popular tweets with 'ruby'?
 query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
-tweets = query_request.get_tweets
+tweets = query_request.get_tweets(10)
 user_locations = query_request.get_user_locations(tweets)
 retweet_user_locations = query_request.get_retweet_user_locations(tweets)
 tweet_coordinates = query_request.get_tweet_coordinates(tweets)
