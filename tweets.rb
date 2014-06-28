@@ -1,10 +1,3 @@
-require 'json'
-require 'uri'
-require 'base64'
-require 'net/http'
-require 'dotenv'
-require 'pry'
-
 class TwitterRequest
 	Dotenv.load
 
@@ -92,34 +85,36 @@ class TwitterRequest
 	end
 
 end
-# POST request, sends encoded key & secret in exchange for a bearer token
 
-bearer_token_request = TwitterRequest.new('https://api.twitter.com/oauth2/token')
-auth = bearer_token_request.base_64_encode_key_and_secret
-bearer_token_request.add_request_content(
-		{
-			'authorization' => auth, 
-			'content_type' => 'application/x-www-form-urlencoded;charset=UTF-8'
-		},
-		'grant_type=client_credentials'
-	)
-bearer_token = bearer_token_request.bearer_token
+def twitter_authorization
+   # POST request, sends encoded key & secret in exchange for a bearer token
+    bearer_token_request = TwitterRequest.new('https://api.twitter.com/oauth2/token')
+    auth = bearer_token_request.base_64_encode_key_and_secret
+    bearer_token_request.add_request_content(
+        {
+          'authorization' => auth, 
+          'content_type' => 'application/x-www-form-urlencoded;charset=UTF-8'
+        },
+        'grant_type=client_credentials'
+      )
+    bearer_token_request.bearer_token
+end
 
-# =======================================================================
+def twitter_query_request
+  # GET request sent with bearer token in header, retrieves tweets
+  query_request = TwitterRequest.new
+  query_request.add_request_content({'Authorization' => "Bearer #{twitter_authorization}"}, '')
+  query_request
+end
 
-# GET request sent with bearer token in header, retrieves tweets
+def tweets
+  twitter_query_request.get_tweets(10, @search_term)
+end
 
-query_request = TwitterRequest.new
-query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
-tweets = query_request.get_tweets(5, "LeBron")
-user_locations = query_request.get_user_locations(tweets)
-retweet_user_locations = query_request.get_retweet_user_locations(tweets)
-tweet_coordinates = query_request.get_tweet_coordinates(tweets)
-
-# =======================================================================
-
-puts tweets.count
-puts user_locations.count
-puts retweet_user_locations.count
-puts tweet_coordinates.count
-binding.pry
+def twitter_data
+  {
+    :user_locations => twitter_query_request.get_user_locations(tweets),
+    :retweet_user_locations => twitter_query_request.get_retweet_user_locations(tweets),
+    :tweet_coordinates => twitter_query_request.get_tweet_coordinates(tweets)
+  }
+end

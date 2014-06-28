@@ -1,9 +1,10 @@
 require 'sinatra'
-require 'pg'
 require 'pry'
 require 'json'
 require 'uri'
+require 'base64'
 require 'net/http'
+require 'dotenv'
 
 require_relative('tweets.rb')
 
@@ -53,7 +54,16 @@ get '/' do
 
   # @counties = get_counties
 
-  @test = 'testing!'
+  erb :'index.html'
+end
+
+post '/' do
+  @search_term = params[:query]
+  if @search_term != nil
+    coordinates = twitter_data[:tweet_coordinates]
+    puts coordinates.count
+    puts @search_term
+  end
 
   erb :'index.html'
 end
