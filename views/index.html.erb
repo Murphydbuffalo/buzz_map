@@ -16,9 +16,11 @@
     <div class="logo">
       <h1>Buzz</h1>
     </div>
+    <div class="county-info">
+    </div>
     <div class="search-box">
-      <form>
-          <input type="text" placeholder="Search Tweets">
+      <form action="/" method="post">
+          <input type="text" placeholder="Search Tweets" name="query" id="query">
           <button type="submit">Go</button>
       </form>
     </div>
@@ -35,5 +37,10 @@
 </div>
 </body>
   <script src="http://localhost:35729/livereload.js"></script>
+  <script type="text/javascript" charset="utf-8">
+
+    window.search_term = <%= "'" + @search_term + "'" %>;
+
+  </script>
   <script src="_/js/script.js"></script>
   </html>
