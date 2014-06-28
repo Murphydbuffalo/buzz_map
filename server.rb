@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'pry'
+# require 'pry'
 require 'json'
 require 'uri'
 require 'base64'
@@ -21,7 +21,7 @@ post '/' do
 
   google_client = GoogleMaps.new(coordinates)
   counties = google_client.create_counties_array
-  puts counties
+  @counties = counties
 
   erb :'index.html'
 end

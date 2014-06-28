@@ -15,7 +15,7 @@ class GoogleMaps
       long = tweet_coordinates[0].to_s
       all_county_data = get_county_info_from_coordinates(lat, long)
 
-      if all_county_data["status"] != "ZERO_RESULTS"
+      if all_county_data["status"] != "ZERO_RESULTS" && all_county_data["results"][0]["formatted_address"].split.pop == 'USA'
         formatted_county_name = format_county_name(all_county_data)
         counties.push(formatted_county_name)
       end

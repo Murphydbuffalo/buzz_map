@@ -24,7 +24,7 @@ header {
   }
 
   .search-box {
-    width: 30%;
+    width: 20%;
     float: right;
     margin-right: -6rem;
 
@@ -50,7 +50,7 @@ header {
   }
 
   .county-info {
-      width: 50%;
+      max-width: 50%;
       float: left;
       color: #fff;
       font-family: $font-secondary;
