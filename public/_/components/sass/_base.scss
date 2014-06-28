@@ -1,8 +1,9 @@
-body {
-  background: #004563;
+@import url('http://fonts.googleapis.com/css?family=Pacifico');
+@import url('http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic');
+* {
+  font-family: $font-secondary;
 }
 
-svg {
-  width: 95%;
-  padding: 1.5em;
+body {
+  background: $blue;
 }

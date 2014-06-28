@@ -18,7 +18,7 @@ $(document).ready(function() {
         main.node().appendChild(svgNode);
 
 
-        nation = main.select("svg").selectAll("path").
+        countyLines = main.select("svg").selectAll("path").
         style({
             'stroke': '#004563',
             'stroke-width': .2
@@ -129,6 +129,15 @@ $(document).ready(function() {
                 'fill': 'rgba(152,204,150,' + (counties[i]["value"] * .05) + ')'
             });
         }
+
+        countyLines.on("mouseover", function() {
+            d3.select(this).style("stroke-width", "2");
+        })
+            .on("mouseout", function() {
+                d3.select(this).style("stroke-width", ".2");
+            }).on("click", function() {
+                d3.select(this).style("stroke-width", "2");
+            });
     });
     // counties = nation.getAttribute("data" [label];
 
