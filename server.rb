@@ -26,21 +26,25 @@ end
 def create_counties_array
   counties = []
 
-  coordinates_array = [[40.714224, -73.961452],[41.8819, 87.6278], [42.3581, 71.0636], [39.0997, 94.5783]] #replace with live twitter data
+  #replace coordinates_array with live Twitter data
+  coordinates_array = [[-7.88136844, 42.32077233],
+   [-85.9775004, 39.7623115],
+   [-118.10745395, 33.97381535],
+   [-93.25061711, 31.06719856],
+   [-85.9673088, 31.8041108]]
+
   coordinates_array.each do |county_coordinates|
-    lat = county_coordinates[0].to_s
-    long = county_coordinates[1].to_s
+    lat = county_coordinates[1].to_s
+    long = county_coordinates[0].to_s
     data = get_counties_from_coordinates(lat, long)
 
       if data["status"] != "ZERO_RESULTS"
-        county = data["results"][0]["formatted_address"] # STARTING FORMAT: "Kings County, NY, USA"
-
+        county = data["results"][0]["formatted_address"]
         county_array = county.gsub(',', '').split
         county_array.pop
         county_array.delete_at(-2)
         formatted_county_name = county_array.join(' ')
         formatted_county_name.insert(-4, ',')
-
         counties.push(formatted_county_name)
       end
     end
@@ -48,13 +52,6 @@ def create_counties_array
 end
 
 get '/' do
-  # @counties = get_counties
-  @test = 'testing!'
+  @counties = create_counties_array
   erb :'index.html'
-end
-
-get '/test' do
-  @data = create_counties_array
-  binding.pry
-  erb :'test.html'
 end
