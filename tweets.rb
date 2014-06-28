@@ -66,7 +66,7 @@ class TwitterRequest
 	def get_tweet_coordinates(tweets)
 		coordinates = []
 		tweets.each do |tweet|
-  		coordinates << tweet["coordinates"] if tweet["coordinates"]
+  		coordinates << tweet["coordinates"]["coordinates"] if tweet["coordinates"]
 		end
 		coordinates
 	end
@@ -115,7 +115,7 @@ bearer_token = bearer_token_request.bearer_token
 
 query_request = TwitterRequest.new
 query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
-tweets = query_request.get_tweets(10)
+tweets = query_request.get_tweets(5)
 user_locations = query_request.get_user_locations(tweets)
 retweet_user_locations = query_request.get_retweet_user_locations(tweets)
 tweet_coordinates = query_request.get_tweet_coordinates(tweets)
