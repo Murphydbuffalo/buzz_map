@@ -71,10 +71,6 @@ class TwitterRequest
 		coordinates
 	end
 
-	def verify_location(location, list)
-    list.include?(location)
-	end
-
 		protected
 
 	def create_http_object

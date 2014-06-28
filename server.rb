@@ -1,10 +1,11 @@
 require 'sinatra'
 require 'pg'
-
 require 'pry'
 require 'json'
 require 'uri'
 require 'net/http'
+
+require_relative('tweets.rb')
 
 def encode_url(lat,long)
   api_url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=#{lat},#{long}&result_type=administrative_area_level_1&key=AIzaSyBh0PwMktnnDgOYyyY993LnXcUnv-D6Zcg"
