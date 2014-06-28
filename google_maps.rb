@@ -4,10 +4,10 @@ class GoogleMaps
   attr_reader :all_tweet_coordinates
 
   def initialize(all_tweet_coordinates)
-    @tweet_coordinates = tweet_coordinates
+    @all_tweet_coordinates = all_tweet_coordinates
   end
 
-  def create_counties_array(all_tweet_coordinates)
+  def create_counties_array
     counties = []
 
     all_tweet_coordinates.each do |tweet_coordinates|
@@ -20,6 +20,7 @@ class GoogleMaps
         counties.push(formatted_county_name)
       end
     end
+    binding.pry
     counties
   end
 
