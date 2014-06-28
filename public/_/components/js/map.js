@@ -26,7 +26,11 @@ $(document).ready(function() {
             'stroke-width': .2
         });
 
-        var search_term = window.search_term;
+        if (!window.search_term) {
+            var search_term = "..."
+        } else {
+            var search_term = window.search_term;
+        }
 
         var counties = window.counties;
 
@@ -35,7 +39,7 @@ $(document).ready(function() {
         for (i in counties) {
 
             $('path[data-label = "' + counties[i] + '"]').css({
-                'fill': 'rgba(152,204,150,' + (counties[i]["count"] * .05) + ')'
+                'fill': '#2d512a'
             });
 
             $('path[data-label = "' + counties[i] + '"]').data(
