@@ -119,7 +119,7 @@ $(document).ready(function() {
         }];
 
 
-        var search_term = <%= @search_term %> ;
+        var search_term = window.search_term;
 
         // counties = $("path").map(function() {
         //     return $(this).data("label");
