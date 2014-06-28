@@ -30,14 +30,14 @@ class TwitterRequest
 		JSON.parse(make_request('Post').body)["access_token"]
 	end
 
-	def get_tweets(query_duration_in_seconds)
+	def get_tweets(query_duration_in_seconds, query)
 		@since_id = 0
 		tweets = []
 		query_start = Time.now.to_i + query_duration_in_seconds.to_i
 		query_response = { 'statuses' => Array.new(6) {0} }
 		until query_start <= Time.now.to_i || query_response["statuses"].count < 5
 			ids = []
-			self.url = URI.parse("https://api.twitter.com/1.1/search/tweets.json?q=BRAvsCHI&count=100&since_id=#{@since_id}")
+			self.url = URI.parse("https://api.twitter.com/1.1/search/tweets.json?q=#{query}&count=100&since_id=#{@since_id}")
 			query_response = JSON.parse(make_request('Get').body)
 			tweets += query_response["statuses"]
 			tweets.each { |tweet| ids << tweet["id"] }
@@ -115,7 +115,7 @@ bearer_token = bearer_token_request.bearer_token
 
 query_request = TwitterRequest.new
 query_request.add_request_content({'Authorization' => "Bearer #{bearer_token}"}, '')
-tweets = query_request.get_tweets(5)
+tweets = query_request.get_tweets(5, "LeBron")
 user_locations = query_request.get_user_locations(tweets)
 retweet_user_locations = query_request.get_retweet_user_locations(tweets)
 tweet_coordinates = query_request.get_tweet_coordinates(tweets)
