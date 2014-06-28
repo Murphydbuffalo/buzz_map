@@ -26,118 +26,23 @@ $(document).ready(function() {
             'stroke-width': .2
         });
 
-        var counties = [{
-            county: "Mineral, NV",
-            count: 20
-        }, {
-            county: "Boone, NE",
-            count: 10
-        }, {
-            county: "Stanton, NE",
-            count: 30
-        }, {
-            county: "Forrest, MS",
-            count: 40
-        }, {
-            county: "Pike, MS",
-            count: 30
-        }, {
-            county: "Washington, DC",
-            count: 100
-        }, {
-            county: "Fremont, WY",
-            count: 10
-        }, {
-            county: "Charlotte, FL",
-            count: 10
-        }, {
-            county: "Bon Homme, SD",
-            count: 10
-        }, {
-            county: "Yankton, SD",
-            count: 12
-        }, {
-            county: "Hutchinson, SD",
-            count: 20
-        }, {
-            county: "Hanson, SD",
-            count: 90
-        }, {
-            county: "Prentiss, MS",
-            count: 10
-        }, {
-            county: "Tishomingo, MS",
-            count: 10
-        }, {
-            county: "Alcorn, MS",
-            count: 1
-        }, {
-            county: "Tippah, MS",
-            count: 34
-        }, {
-            county: "Cheboygan, MI",
-            count: 2
-        }, {
-            county: "Emmet, MI",
-            count: 5
-        }, {
-            county: "Mackinac, MI",
-            count: 30
-        }, {
-            county: "Chippewa, MI",
-            count: 20
-        }, {
-            county: "Luce, MI",
-            count: 22
-        }, {
-            county: "Stafford, VA",
-            count: 9
-        }, {
-            county: "King George, VA",
-            count: 12
-        }, {
-            county: "Westmoreland, VA",
-            count: 18
-        }, {
-            county: "Northumberland, VA",
-            count: 2
-        }, {
-            county: "Mathews, VA",
-            count: 7
-        }, {
-            county: "Norfolk, VA",
-            count: 50
-        }, {
-            county: "Isle of Wight, VA",
-            count: 40
-        }, {
-            county: "Suffolk, VA",
-            count: 10
-        }, {
-            county: "Chesapeake, VA",
-            count: 5
-        }];
-
-
         var search_term = window.search_term;
 
-        // counties = $("path").map(function() {
-        //     return $(this).data("label");
-        // }).get();
+        var counties = window.counties;
 
         $('path').data("count", 0);
 
         for (i in counties) {
 
-            $('path[data-label = "' + counties[i]["county"] + '"]').css({
+            $('path[data-label = "' + counties[i] + '"]').css({
                 'fill': 'rgba(152,204,150,' + (counties[i]["count"] * .05) + ')'
             });
 
-            $('path[data-label = "' + counties[i]["county"] + '"]').data(
-                "count", counties[i]["count"]
+            $('path[data-label = "' + counties[i] + '"]').data(
+                "count", 1
             );
 
-            total_tweets += counties[i]["count"];
+            total_tweets += 1;
 
         }
 

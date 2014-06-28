@@ -14,7 +14,7 @@
 <header>
   <div class="container">
     <div class="logo">
-      <h1>Buzz</h1>
+      <h1>Buzz Map</h1>
     </div>
     <div class="county-info">
     </div>
@@ -41,6 +41,8 @@
     <script type="text/javascript" charset="utf-8">
 
       window.search_term = <%= "'" + @search_term + "'" %>;
+      window.counties = <%= @counties %>;
+      console.log(counties);
 
     </script>
   <% end %>
