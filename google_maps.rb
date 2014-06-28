@@ -20,7 +20,6 @@ class GoogleMaps
         counties.push(formatted_county_name)
       end
     end
-    binding.pry
     counties
   end
 
