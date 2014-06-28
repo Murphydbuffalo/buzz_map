@@ -50,7 +50,12 @@ get '/' do
 
   # @counties = get_counties
 
-  @test = 'testing!'
+  erb :'index.html'
+end
+
+post '/' do
+
+  @search_term = params[:query]
 
   erb :'index.html'
 end

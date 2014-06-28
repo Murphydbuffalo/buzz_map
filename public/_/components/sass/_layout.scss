@@ -1,18 +1,6 @@
-// Susy Setup ----------------------------------
-
-$total-columns  : 12;
-$column-width   : 4em;
-$gutter-width   : 1em;
-$grid-padding   : $gutter-width;
-
-@include border-box-sizing;
-
-$small  : 30em;
-$medium : 47em;
-$large  : 75em;
 
 .container {
-  @include container;
+
 }
 
 // Header  ----------------------------------
@@ -22,7 +10,9 @@ header {
   line-height: 4rem;
 
   .logo {
-    @include span-columns(4,12);
+    width: 20%;
+    float: left;
+    margin-left: 4em;
 
 
     h1 {
@@ -34,7 +24,9 @@ header {
   }
 
   .search-box {
-    @include span-columns(8 omega,12);
+    width: 30%;
+    float: right;
+    margin-right: -6rem;
 
     form {
         input, button {
@@ -47,13 +39,24 @@ header {
         }
       }
 
-   input {
+   input, button {
+    margin-top: 1em;
+
         @include input-placeholder {
             color: #fff;
         }
     }
 
   }
+
+  .county-info {
+      width: 50%;
+      float: left;
+      color: #fff;
+      font-family: $font-secondary;
+      font-size: 2rem;
+      margin-top: 1rem;
+    }
 
 
 }
