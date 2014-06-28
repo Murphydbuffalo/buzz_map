@@ -26,14 +26,15 @@ class TwitterRequest
 	def get_tweets(query_duration_in_seconds, query)
 		@since_id = 0
 		tweets = []
-		3.times do
+    count = 100
+		until count < 20
 			ids = []
 			self.url = URI.parse("https://api.twitter.com/1.1/search/tweets.json?q=#{query}&count=100&since_id=#{@since_id}")
 			query_response = JSON.parse(make_request('Get').body)
 			tweets += query_response["statuses"]
+      count = query_response["statuses"].count
 			tweets.each { |tweet| ids << tweet["id"] }
 			@since_id = ids.max
-			sleep(4)
 		end
 		tweets.uniq
 	end
