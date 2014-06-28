@@ -4,6 +4,8 @@ $(document).ready(function() {
 
     var svg;
 
+    var total_tweets = 0;
+
     // load SVG XML into DOM with D3
     d3.xml("images/US_Counties.svg", function(error, documentFragment) {
         if (error) {
@@ -18,7 +20,7 @@ $(document).ready(function() {
         main.node().appendChild(svgNode);
 
 
-        nation = main.select("svg").selectAll("path").
+        countyLines = main.select("svg").selectAll("path").
         style({
             'stroke': '#004563',
             'stroke-width': .2
@@ -26,142 +28,141 @@ $(document).ready(function() {
 
         var counties = [{
             county: "Mineral, NV",
-            value: 20
+            count: 20
         }, {
             county: "Boone, NE",
-            value: 10
+            count: 10
         }, {
             county: "Stanton, NE",
-            value: 30
+            count: 30
         }, {
             county: "Forrest, MS",
-            value: 40
+            count: 40
         }, {
             county: "Pike, MS",
-            value: 30
+            count: 30
         }, {
             county: "Washington, DC",
-            value: 100
+            count: 100
         }, {
             county: "Fremont, WY",
-            value: 10
+            count: 10
         }, {
             county: "Charlotte, FL",
-            value: 10
+            count: 10
         }, {
             county: "Bon Homme, SD",
-            value: 10
+            count: 10
         }, {
             county: "Yankton, SD",
-            value: 12
+            count: 12
         }, {
             county: "Hutchinson, SD",
-            value: 20
+            count: 20
         }, {
             county: "Hanson, SD",
-            value: 90
+            count: 90
         }, {
             county: "Prentiss, MS",
-            value: 10
+            count: 10
         }, {
             county: "Tishomingo, MS",
-            value: 10
+            count: 10
         }, {
             county: "Alcorn, MS",
-            value: 1
+            count: 1
         }, {
             county: "Tippah, MS",
-            value: 34
+            count: 34
         }, {
             county: "Cheboygan, MI",
-            value: 2
+            count: 2
         }, {
             county: "Emmet, MI",
-            value: 5
+            count: 5
         }, {
             county: "Mackinac, MI",
-            value: 30
+            count: 30
         }, {
             county: "Chippewa, MI",
-            value: 20
+            count: 20
         }, {
             county: "Luce, MI",
-            value: 22
+            count: 22
         }, {
             county: "Stafford, VA",
-            value: 9
+            count: 9
         }, {
             county: "King George, VA",
-            value: 12
+            count: 12
         }, {
             county: "Westmoreland, VA",
-            value: 18
+            count: 18
         }, {
             county: "Northumberland, VA",
-            value: 2
+            count: 2
         }, {
             county: "Mathews, VA",
-            value: 7
+            count: 7
         }, {
             county: "Norfolk, VA",
-            value: 50
+            count: 50
         }, {
             county: "Isle of Wight, VA",
-            value: 40
+            count: 40
         }, {
             county: "Suffolk, VA",
-            value: 10
+            count: 10
         }, {
             county: "Chesapeake, VA",
-            value: 5
+            count: 5
         }];
 
 
-        var searchTerm = "ruby";
+        var search_term = window.search_term;
 
         // counties = $("path").map(function() {
         //     return $(this).data("label");
         // }).get();
 
+        $('path').data("count", 0);
+
         for (i in counties) {
 
             $('path[data-label = "' + counties[i]["county"] + '"]').css({
-                'fill': 'rgba(152,204,150,' + (counties[i]["value"] * .05) + ')'
+                'fill': 'rgba(152,204,150,' + (counties[i]["count"] * .05) + ')'
             });
+
+            $('path[data-label = "' + counties[i]["county"] + '"]').data(
+                "count", counties[i]["count"]
+            );
+
+            total_tweets += counties[i]["count"];
+
         }
+
+        $('path[data-label = "America"]').data("count", total_tweets);
+
+        $(".county-info").html(total_tweets + " tweets in America about " + '"' + search_term + '"');
+
+        countyLines.on("mouseover", function() {
+            var current_county = $(this).data("label");
+            var current_count = $(this).data("count");
+            var word_tweet = "tweet";
+            if (current_count > 1 || current_count == 0) {
+                word_tweet = "tweets";
+            }
+
+            d3.select(this).style("stroke-width", "2");
+            $(".county-info").html(current_count + ' ' +
+                word_tweet + " in " + current_county + " about " + '"' + search_term + '"');
+        })
+            .on("mouseout", function() {
+                d3.select(this).style("stroke-width", ".2");
+                $(".county-info").html(total_tweets + " tweets in America about " + '"' + search_term + '"');
+            }).on("click", function() {
+                d3.select(this).style("stroke-width", "2");
+            });
     });
-    // counties = nation.getAttribute("data" [label];
 
-
-    // });
-
-
-
-    // var foundCounties = "Mineral, NV";
-
-    // var searchTerm = "ruby";
-
-    // var nation = null;
-    // var counties = null;
-
-    // nation = d3.select("svg");
-    // counties = nation.selectAll("data-label");
-
-    // counties = $("path").map(function() {
-    //     return $(this).data("label");
-    // }).get();
-
-    // $('path[data-label = "' + foundCounties + '"]').css({
-    //     'fill': 'red'
-    // });
-
-    // counties = nation.getAttribute("data"[label];
-
-    // for (var i = 0; i < statePaths.length; i++) {
-    //     if (statePaths[i].id.length == 2) {
-    //         stateAbbreviations.push(statePaths[i].id);
-    //     }
-    // }
-
-    // recolorNation(dominantHashtagAt(SOTUvideo.currentTime)); /
 });

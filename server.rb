@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'pg'
 require 'pry'
+
 require 'json'
 require 'uri'
 require 'net/http'
@@ -23,6 +24,15 @@ def get_counties_from_coordinates(lat,long)
   parsed_get_response = JSON.parse(get_response.body)
 end
 
+def format_county_name(all_county_data)
+  county = all_county_data["results"][0]["formatted_address"]
+  county_word_array = county.gsub(',', '').split
+  county_word_array.pop
+  county_word_array.delete_at(-2)
+  formatted_county_name = county_word_array.join(' ')
+  formatted_county_name.insert(-4, ',')
+end
+
 def create_counties_array
   counties = []
 
@@ -36,22 +46,24 @@ def create_counties_array
   coordinates_array.each do |county_coordinates|
     lat = county_coordinates[1].to_s
     long = county_coordinates[0].to_s
-    data = get_counties_from_coordinates(lat, long)
+    all_county_data = get_counties_from_coordinates(lat, long)
 
-      if data["status"] != "ZERO_RESULTS"
-        county = data["results"][0]["formatted_address"]
-        county_array = county.gsub(',', '').split
-        county_array.pop
-        county_array.delete_at(-2)
-        formatted_county_name = county_array.join(' ')
-        formatted_county_name.insert(-4, ',')
-        counties.push(formatted_county_name)
-      end
+    if all_county_data["status"] != "ZERO_RESULTS"
+      formatted_county_name = format_county_name(all_county_data)
+      counties.push(formatted_county_name)
     end
+  end
   counties
 end
 
 get '/' do
+
   @counties = create_counties_array
+  erb :'index.html'
+end
+
+post '/' do
+
+  @search_term = params[:query]
   erb :'index.html'
 end
