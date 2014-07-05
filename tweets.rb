@@ -1,5 +1,5 @@
 class TwitterRequest
-	Dotenv.load
+	Dotenv.load if ENV['RACK_ENV'] != 'production'
 
 	attr_accessor :url
 	attr_reader :key, :secret, :headers, :body

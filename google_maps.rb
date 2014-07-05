@@ -1,5 +1,5 @@
 class GoogleMaps
-  Dotenv.load
+  Dotenv.load if ENV['RACK_ENV'] != 'production'
 
   attr_reader :all_tweet_coordinates
 
