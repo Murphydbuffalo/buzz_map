@@ -4,7 +4,7 @@ require 'json'
 require 'uri'
 require 'base64'
 require 'net/http'
-require 'dotenv'
+require 'dotenv' if !ENV.production?
 
 require_relative('google_maps.rb')
 require_relative('tweets.rb')
