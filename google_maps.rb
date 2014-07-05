@@ -20,6 +20,7 @@ class GoogleMaps
         counties.push(formatted_county_name)
       end
     end
+    puts counties
     counties
   end
 
