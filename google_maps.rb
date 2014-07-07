@@ -1,19 +1,25 @@
 class GoogleMaps
   Dotenv.load if ENV['RACK_ENV'] != 'production'
 
-  attr_reader :all_tweet_coordinates
+  attr_reader :all_tweet_locations
 
-  def initialize(all_tweet_coordinates)
-    @all_tweet_coordinates = all_tweet_coordinates
+  def initialize(all_tweet_locations)
+    @all_tweet_locations = all_tweet_locations
   end
 
   def create_counties_array
     counties = []
 
-    all_tweet_coordinates.each do |tweet_coordinates|
-      lat = tweet_coordinates[1].to_s
-      long = tweet_coordinates[0].to_s
-      all_county_data = get_county_info_from_coordinates(lat, long)
+    all_tweet_locations.each do |tweet_location|
+      if tweet_location.is_a?(Array)
+        lat = tweet_location[1].to_s
+        long = tweet_location[0].to_s
+        results = "latlng=#{lat},#{long}"
+      else
+        results = "address=#{tweet_location}"
+      end
+
+      all_county_data = get_county_info_from_locations(results)
 
       if all_county_data["status"] != "ZERO_RESULTS" && all_county_data["results"][0]["formatted_address"].split.pop == 'USA'
         formatted_county_name = format_county_name(all_county_data)
@@ -24,9 +30,9 @@ class GoogleMaps
     counties
   end
 
-  def get_county_info_from_coordinates(lat,long)
+  def get_county_info_from_locations(results)
     api_key = ENV['MAPS_ACCESS_KEY']
-    api_url = "https://maps.googleapis.com/maps/api/geocode/json?latlng=#{lat},#{long}&result_type=administrative_area_level_2&key=#{api_key}"
+    api_url = "https://maps.googleapis.com/maps/api/geocode/json?#{results}&result_type=administrative_area_level_2&key=#{api_key}"
     get_url = URI.parse(api_url)
     get_http = Net::HTTP.new(get_url.host, get_url.port)
     get_http.use_ssl = true
