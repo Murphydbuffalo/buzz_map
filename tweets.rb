@@ -42,7 +42,7 @@ class TwitterRequest
 	def get_user_locations(tweets)
 		locations = []
 		tweets.each do |tweet|
-  		locations << tweet["user"]["location"] if tweet["user"]["location"]
+  		locations << tweet["user"]["location"] if tweet["user"]["location"] != ''
 		end
 		locations
 	end
@@ -50,7 +50,7 @@ class TwitterRequest
 	def get_retweet_user_locations(tweets)
     retweet_locations = []
     tweets.each do |tweet|
-  		retweet_locations << tweet["retweeted_status"]["user"]["location"] if tweet["retweeted_status"]
+  		retweet_locations << tweet["retweeted_status"]["user"]["location"] if tweet["retweeted_status"] && tweet["retweeted_status"]["user"]["location"] != '' 
 		end
 		retweet_locations
 	end
@@ -111,9 +111,5 @@ def tweets
 end
 
 def twitter_data
-  {
-    :user_locations => twitter_query_request.get_user_locations(tweets),
-    :retweet_user_locations => twitter_query_request.get_retweet_user_locations(tweets),
-    :tweet_coordinates => twitter_query_request.get_tweet_coordinates(tweets)
-  }
+  twitter_query_request.get_user_locations(tweets) + twitter_query_request.get_retweet_user_locations(tweets) + twitter_query_request.get_tweet_coordinates(tweets)
 end

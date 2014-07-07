@@ -1,5 +1,5 @@
 require 'sinatra'
-# require 'pry'
+require 'pry'
 require 'json'
 require 'uri'
 require 'base64'
@@ -16,12 +16,10 @@ end
 post '/' do
   @search_term = params[:query]
   if @search_term != nil
-    coordinates = twitter_data[:tweet_coordinates]
+    google_client = GoogleMaps.new(twitter_data)
+    counties = google_client.create_counties_array
+    @counties = counties
   end
-
-  google_client = GoogleMaps.new(coordinates)
-  counties = google_client.create_counties_array
-  @counties = counties
 
   erb :'index.html'
 end
