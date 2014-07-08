@@ -25,6 +25,7 @@ class TwitterRequest
 
 	def get_tweets(query_duration_in_seconds, query)
 		@since_id = 0
+    query = URI.escape(query)
 		tweets = []
     count = 100
 		until count < 20
