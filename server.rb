@@ -1,5 +1,4 @@
 require 'sinatra'
-require 'pry'
 require 'json'
 require 'uri'
 require 'base64'
