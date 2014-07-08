@@ -108,7 +108,7 @@ def twitter_query_request
 end
 
 def tweets
-  twitter_query_request.get_tweets(10, @search_term)
+  twitter_query_request.get_tweets(5, @search_term)
 end
 
 def twitter_data
